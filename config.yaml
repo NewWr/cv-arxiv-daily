@@ -22,18 +22,36 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+  "CLIP Prompt Learning":
+    require_groups:
+      - ["CLIP", "contrastive language-image pre-training"]
+      - ["prompt learning", "prompt tuning", "context optimization", "soft prompt", "continuous prompt", "CoOp", "CoCoOp", "MaPLe", "KgCoOp", "ProDA", "PromptSRC", "test-time prompt tuning", "TPT"]
+    boost:
+      - ["open-vocabulary classification", "zero-shot classification", "few-shot adaptation", "domain generalization"]
+    exclude:
+      - ["large language model", "LLM", "instruction tuning", "prefix tuning", "P-tuning", "stable diffusion", "text-to-image", "prompt engineering", "gradient clipping"]
+
+  "Medical Image Deep Learning":
+    require_groups:
+      - ["medical image", "medical imaging", "medical image analysis", "radiology", "digital pathology", "histopathology", "whole slide image", "WSI", "CT", "MRI", "X-ray", "chest X-ray", "ultrasound", "PET", "mammography", "fundus", "retinal image", "OCT", "endoscopy", "dermoscopy"]
+      - ["medical image segmentation", "medical image classification", "lesion detection", "organ segmentation", "tumor segmentation", "medical image registration", "medical image reconstruction", "radiology report generation", "medical image synthesis"]
+    boost:
+      - ["deep learning", "transformer", "vision transformer", "self-supervised", "semi-supervised", "weakly supervised", "federated learning", "foundation model"]
+    exclude:
+      - ["ECG", "EEG", "EHR", "clinical notes", "time series", "omics", "protein", "molecule", "speech", "audio"]
+
+  "Vision-Language Models":
+    include_any:
+      - ["vision-language model", "vision language model", "vision-language pre-training", "image-text pretraining", "image-text representation learning", "image-text alignment", "large vision-language model", "LVLM", "multimodal large language model", "MLLM", "visual instruction tuning", "visual-language instruction tuning"]
+    boost:
+      - ["BLIP", "BLIP-2", "InstructBLIP", "ALBEF", "ALIGN", "PaLI", "Flamingo", "LLaVA", "Kosmos-2", "Qwen-VL", "InternVL", "CogVLM", "IDEFICS"]
+    exclude:
+      - ["audio-language", "speech-language", "video-language", "automatic speech recognition", "TTS", "text-only"]
+
+  "SAM & Vision Foundation Models":
+    include_any:
+      - ["Segment Anything", "Segment Anything Model", "SAM 2", "MedSAM", "SAM-Med2D", "Grounded-SAM", "Grounded Segment Anything", "EfficientSAM", "MobileSAM", "FastSAM", "HQ-SAM", "Semantic-SAM", "vision foundation model", "visual foundation model", "image foundation model", "medical imaging foundation model", "foundation model for medical imaging"]
+    boost:
+      - ["promptable segmentation", "interactive segmentation", "open-vocabulary segmentation", "referring image segmentation"]
+    exclude:
+      - ["sharpness-aware minimization", "spatial attention module", "self-attention module", "audio foundation model", "speech foundation model"]
