@@ -9138,6 +9138,66 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
+## CLIP Prompt Learning
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Building an analog simulator of a photonic quantum computer with transparent tape, maple syrup, and cat lasers, and implementing first quantum algorithms in the classroom**|Ghislain Lefebvre et.al.|[2604.00030](http://arxiv.org/abs/2604.00030)|null|
+|**2026-03-31**|**MAPLE: Multi-Path Adaptive Propagation with Level-Aware Embeddings for Hierarchical Multi-Label Image Classification**|Boshko Koloski et.al.|[2603.29784](http://arxiv.org/abs/2603.29784)|null|
+|**2026-03-30**|**Higgs criticality of Dirac spin liquids on depleted triangular lattices**|Andreas Feuerpfeil et.al.|[2603.28860](http://arxiv.org/abs/2603.28860)|null|
+|**2026-03-30**|**Domain-Invariant Prompt Learning for Vision-Language Models**|Arsham Gholamzadeh Khoee et.al.|[2603.28555](http://arxiv.org/abs/2603.28555)|null|
+|**2026-03-25**|**2- and 3-Dissections of Second-, Sixth-, and Eighth-Order Mock Theta Functions**|Frank Garvan et.al.|[2603.24646](http://arxiv.org/abs/2603.24646)|null|
+|**2026-03-25**|**Counting (and Randomly Generating) Hamiltonian Cycles in Rectangular Grids**|Pablo Blanco et.al.|[2603.24315](http://arxiv.org/abs/2603.24315)|null|
+|**2026-03-23**|**Maximality Levels of the classical permutation group in the quantum permutation group**|J. P. McCarthy et.al.|[2603.21759](http://arxiv.org/abs/2603.21759)|null|
+|**2026-03-31**|**"You've got a friend in me": Co-Designing a Peer Social Robot for Young Newcomers' Language and Cultural Learning**|Neil Fernandes et.al.|[2603.18804](http://arxiv.org/abs/2603.18804)|null|
+|**2026-03-16**|**Improved Degree Bounds for Hyperbolicity of Surfaces and Curve Complements**|Lei Hou et.al.|[2603.14881](http://arxiv.org/abs/2603.14881)|null|
+|**2026-03-09**|**MAPLE: Elevating Medical Reasoning from Statistical Consensus to Process-Led Alignment**|Kailong Fan et.al.|[2603.08987](http://arxiv.org/abs/2603.08987)|null|
+
+## Medical Image Deep Learning
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**AdaLoRA-QAT: Adaptive Low-Rank and Quantization-Aware Segmentation**|Prantik Deb et.al.|[2604.01167](http://arxiv.org/abs/2604.01167)|null|
+|**2026-04-01**|**Foundation Model-guided Iteratively Prompting and Pseudo-Labeling for Partially Labeled Medical Image Segmentation**|Qiaochu Zhao et.al.|[2604.01038](http://arxiv.org/abs/2604.01038)|null|
+|**2026-04-01**|**Automated Detection of Multiple Sclerosis Lesions on 7-tesla MRI Using U-net and Transformer-based Segmentation**|Michael Maynord et.al.|[2604.00469](http://arxiv.org/abs/2604.00469)|null|
+|**2026-03-31**|**Quantifying Cross-Modal Interactions in Multimodal Glioma Survival Prediction via InterSHAP: Evidence for Additive Signal Integration**|Iain Swift et.al.|[2603.29977](http://arxiv.org/abs/2603.29977)|null|
+|**2026-03-31**|**Calibrated Confidence Expression for Radiology Report Generation**|David Bani-Harouni et.al.|[2603.29492](http://arxiv.org/abs/2603.29492)|null|
+|**2026-03-31**|**Rich-U-Net: A medical image segmentation model for fusing spatial depth features and capturing minute structural details**|Zhuoyi Fang et.al.|[2603.29404](http://arxiv.org/abs/2603.29404)|null|
+|**2026-03-31**|**FOSCU: Feasibility of Synthetic MRI Generation via Duo-Diffusion Models for Enhancement of 3D U-Nets in Hepatic Segmentation**|Youngung Han et.al.|[2603.29343](http://arxiv.org/abs/2603.29343)|null|
+|**2026-03-31**|**Segmentation of Gray Matters and White Matters from Brain MRI data**|Chang Sun et.al.|[2603.29171](http://arxiv.org/abs/2603.29171)|null|
+|**2026-03-30**|**LDDMM stochastic interpolants: an application to domain uncertainty quantification in hemodynamics**|Sarah Katz et.al.|[2603.28324](http://arxiv.org/abs/2603.28324)|null|
+|**2026-03-29**|**RAP: Retrieve, Adapt, and Prompt-Fit for Training-Free Few-Shot Medical Image Segmentation**|Zhihao Mao et.al.|[2603.27705](http://arxiv.org/abs/2603.27705)|null|
+
+## Vision-Language Models
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**HippoCamp: Benchmarking Contextual Agents on Personal Computers**|Zhe Yang et.al.|[2604.01221](http://arxiv.org/abs/2604.01221)|null|
+|**2026-04-01**|**TRACE: High-Fidelity 3D Scene Editing via Tangible Reconstruction and Geometry-Aligned Contextual Video Masking**|Jiyuan Hu et.al.|[2604.01207](http://arxiv.org/abs/2604.01207)|null|
+|**2026-04-01**|**A high-order, structure preserving scheme for the stochastic Galerkin shallow water equations -- unification and two-dimensional extension**|Philipp Öffner et.al.|[2604.01199](http://arxiv.org/abs/2604.01199)|null|
+|**2026-04-01**|**Assessing Affective Objectives for Communicative Visualizations**|Elsie Lee-Robbins et.al.|[2604.01183](http://arxiv.org/abs/2604.01183)|null|
+|**2026-04-01**|**True (VIS) Lies: Analyzing How Generative AI Recognizes Intentionality, Rhetoric, and Misleadingness in Visualization Lies**|Graziano Blasilli et.al.|[2604.01181](http://arxiv.org/abs/2604.01181)|null|
+|**2026-04-01**|**A ROS 2 Wrapper for Florence-2: Multi-Mode Local Vision-Language Inference for Robotic Systems**|J. E. Domínguez-Vidal et.al.|[2604.01179](http://arxiv.org/abs/2604.01179)|null|
+|**2026-04-01**|**Bridging the Simulation-to-Experiment Gap with Generative Models using Adversarial Distribution Alignment**|Kai Nelson et.al.|[2604.01169](http://arxiv.org/abs/2604.01169)|null|
+|**2026-04-01**|**SMASH: Mastering Scalable Whole-Body Skills for Humanoid Ping-Pong with Egocentric Vision**|Junli Ren et.al.|[2604.01158](http://arxiv.org/abs/2604.01158)|null|
+|**2026-04-01**|**FineLAP: Taming Heterogeneous Supervision for Fine-grained Language-Audio Pretraining**|Xiquan Li et.al.|[2604.01155](http://arxiv.org/abs/2604.01155)|null|
+|**2026-04-01**|**Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning**|Mohammad R. Abu Ayyash et.al.|[2604.01152](http://arxiv.org/abs/2604.01152)|null|
+
+## SAM & Foundation Models
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**AdaLoRA-QAT: Adaptive Low-Rank and Quantization-Aware Segmentation**|Prantik Deb et.al.|[2604.01167](http://arxiv.org/abs/2604.01167)|null|
+|**2026-04-01**|**TF-SSD: A Strong Pipeline via Synergic Mask Filter for Training-free Co-salient Object Detection**|Zhijin He et.al.|[2604.00549](http://arxiv.org/abs/2604.00549)|null|
+|**2026-04-01**|**PC-SAM: Patch-Constrained Fine-Grained Interactive Road Segmentation in High-Resolution Remote Sensing Images**|Chengcheng Lv et.al.|[2604.00495](http://arxiv.org/abs/2604.00495)|null|
+|**2026-04-01**|**Mine-JEPA: In-Domain Self-Supervised Learning for Mine-Like Object Classification in Side-Scan Sonar**|Taeyoun Kwon et.al.|[2604.00383](http://arxiv.org/abs/2604.00383)|null|
+|**2026-03-31**|**Assessing Multimodal Chronic Wound Embeddings with Expert Triplet Agreement**|Fabian Kabus et.al.|[2603.29376](http://arxiv.org/abs/2603.29376)|null|
+|**2026-03-31**|**StereoVGGT: A Training-Free Visual Geometry Transformer for Stereo Vision**|Ziyang Chen et.al.|[2603.29368](http://arxiv.org/abs/2603.29368)|null|
+|**2026-03-31**|**Segmentation of Gray Matters and White Matters from Brain MRI data**|Chang Sun et.al.|[2603.29171](http://arxiv.org/abs/2603.29171)|null|
+|**2026-03-30**|**Industrial3D: A Terrestrial LiDAR Point Cloud Dataset and CrossParadigm Benchmark for Industrial Infrastructure**|Chao Yin et.al.|[2603.28660](http://arxiv.org/abs/2603.28660)|null|
+|**2026-03-30**|**INSID3: Training-Free In-Context Segmentation with DINOv3**|Claudia Cuttano et.al.|[2603.28480](http://arxiv.org/abs/2603.28480)|null|
+|**2026-03-30**|**DinoDental: Benchmarking DINOv3 as a Unified Vision Encoder for Dental Image Analysis**|Kun Tang et.al.|[2603.28297](http://arxiv.org/abs/2603.28297)|null|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
