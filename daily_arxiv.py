@@ -7,6 +7,7 @@ import logging
 import argparse
 import datetime
 import requests
+import time
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -354,6 +355,8 @@ def demo(**config):
             data_collector.append(data)
             data_collector_web.append(data_web)
             print("\n")
+            logging.info(f"Sleep for 5 seconds to avoid rate limit...")
+            time.sleep(5)
         logging.info(f"GET daily papers end")
 
     # 1. update README.md file
