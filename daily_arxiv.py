@@ -255,16 +255,26 @@ def json_to_md(filename,md_filename,
     @return None
     """
     def pretty_math(s:str) -> str:
-        # ...(保持原样，省略这部分以节省篇幅)
-        pass
+        ret = ''
+        match = re.search(r"\$.*\$", s)
+        if match == None:
+            return s
+        math_start,math_end = match.span()
+        space_trail = space_leading = ''
+        if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' '
+        if s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' '
+        ret += s[:math_start]
+        ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}'
+        ret += s[math_end:]
+        return ret
 
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
 
+    # 1. 以只读模式读取 JSON 文件
     with open(filename,"r") as f:
         content = f.read()
-        # 核心修改：使用 .strip() 过滤空白字符
         if not content.strip():
             data = {}
         else:
@@ -274,23 +284,23 @@ def json_to_md(filename,md_filename,
                 logging.error(f"Failed to parse JSON in {filename} during Markdown conversion.")
                 data = {}
 
-        # if show_badge == True:
-        #     f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
-        #     f.write(f"[![Forks][forks-shield]][forks-url]\n")
-        #     f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
-        #     f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
+    # 2. 清空或创建 Markdown 文件
+    with open(md_filename,"w+") as f:
+        pass
+
+    # 3. 以追加模式打开 Markdown 文件，并将内容写入
+    with open(md_filename,"a+") as f:
+
+        if (use_title == True) and (to_web == True):
+            f.write("---\n" + "layout: default\n" + "---\n\n")
 
         if use_title == True:
-            #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
-            #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
             f.write("## Updated on " + DateNow + "\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
 
-        # TODO: add usage
         f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
 
-        #Add: table of contents
         if use_tc == True:
             f.write("<details>\n")
             f.write("  <summary>Table of Contents</summary>\n")
@@ -308,7 +318,6 @@ def json_to_md(filename,md_filename,
             day_content = data[keyword]
             if not day_content:
                 continue
-            # the head of each part
             f.write(f"## {keyword}\n\n")
 
             if use_title == True :
@@ -318,23 +327,20 @@ def json_to_md(filename,md_filename,
                     f.write("| Publish Date | Title | Authors | PDF | Code |\n")
                     f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
 
-            # sort papers by date
             day_content = sort_papers(day_content)
 
             for _,v in day_content.items():
                 if v is not None:
-                    f.write(pretty_math(v)) # make latex pretty
+                    f.write(pretty_math(v)) 
 
             f.write(f"\n")
 
-            #Add: back to top
             if use_b2t:
                 top_info = f"#Updated on {DateNow}"
                 top_info = top_info.replace(' ','-').replace('.','')
                 f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
 
         if show_badge == True:
-            # we don't like long string, break it!
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
                      f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
@@ -353,7 +359,6 @@ def json_to_md(filename,md_filename,
                      f"cv-arxiv-daily/issues\n\n"))
 
     logging.info(f"{task} finished")
-
 def demo(**config):
     # TODO: use config
     data_collector = []
