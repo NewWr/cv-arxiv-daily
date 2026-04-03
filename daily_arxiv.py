@@ -186,11 +186,17 @@ def update_json_file(filename,data_dict):
     '''
     with open(filename,"r") as f:
         content = f.read()
-        if not content:
+        # 核心修改：加上 .strip() 来过滤掉仅有换行符或空格的情况
+        if not content.strip():
+            logging.warning(f"{filename} is empty or contains only whitespace. Initializing with empty dict.")
             m = {}
         else:
-            print(f"DEBUG: content is: {repr(content)}")
-            m = json.loads(content)
+            try:
+                m = json.loads(content)
+            except json.decoder.JSONDecodeError as e:
+                logging.error(f"Failed to parse JSON in {filename}. Error: {e}. Raw content: {repr(content)}")
+                # 如果解析失败，默认初始化为空字典，防止 Action 直接崩溃
+                m = {} 
 
     json_data = m.copy()
 
