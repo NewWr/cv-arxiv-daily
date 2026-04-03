@@ -93,49 +93,71 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # output
     content = dict()
     content_to_web = dict()
+    
+    # 构建搜索对象
     search_engine = arxiv.Search(
         query = query,
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    # 核心修改 1：使用新版 Client API，并显式设置更宽容的重试和延迟策略
+    # page_size 设置小一点可以减轻服务器单次响应压力，delay_seconds 强制拉开页与页之间的间隔
+    client = arxiv.Client(
+        page_size = min(max_results, 50), # 每次最多拉50条，减轻单次请求压力
+        delay_seconds = 5.0,              # arXiv 官方建议的礼貌延迟时间
+        num_retries = 5                   # 增加重试次数
+    )
 
-        paper_id            = result.get_short_id()
-        paper_title         = result.title
-        paper_url           = result.entry_id
-        paper_abstract      = result.summary.replace("\n"," ")
-        paper_authors       = get_authors(result.authors)
-        paper_first_author  = get_authors(result.authors,first_author = True)
-        primary_category    = result.primary_category
-        publish_time        = result.published.date()
-        update_time         = result.updated.date()
-        comments            = result.comment
+    logging.info(f"Fetching papers for query: {query[:50]}...") # 打印部分查询词方便调试
 
-        logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
+    # 核心修改 2：加入 try-except 块，防止 503/429 直接让整个 Action 崩溃
+    try:
+        # 使用新版的 client.results(search) 替代旧版的 search.results()
+        for result in client.results(search_engine):
 
-        # eg: 2108.09112v1 -> 2108.09112
-        ver_pos = paper_id.find('v')
-        if ver_pos == -1:
-            paper_key = paper_id
-        else:
-            paper_key = paper_id[0:ver_pos]
-        paper_url = arxiv_url + 'abs/' + paper_key
+            paper_id            = result.get_short_id()
+            paper_title         = result.title
+            paper_url           = result.entry_id
+            paper_abstract      = result.summary.replace("\n"," ")
+            paper_authors       = get_authors(result.authors)
+            paper_first_author  = get_authors(result.authors,first_author = True)
+            primary_category    = result.primary_category
+            publish_time        = result.published.date()
+            update_time         = result.updated.date()
+            comments            = result.comment
 
-        # Since PapersWithCode API is deprecated, we no longer fetch code links
-        # Papers will be listed without code links
-        content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-               update_time,paper_title,paper_first_author,paper_key,paper_url)
-        content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-               update_time,paper_title,paper_first_author,paper_url,paper_url)
+            logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
-        # TODO: select useful comments
-        comments = None
-        if comments != None:
-            content_to_web[paper_key] += f", {comments}\n"
-        else:
-            content_to_web[paper_key] += f"\n"
+            # eg: 2108.09112v1 -> 2108.09112
+            ver_pos = paper_id.find('v')
+            if ver_pos == -1:
+                paper_key = paper_id
+            else:
+                paper_key = paper_id[0:ver_pos]
+            paper_url = arxiv_url + 'abs/' + paper_key
 
+            # Since PapersWithCode API is deprecated, we no longer fetch code links
+            content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                   update_time,paper_title,paper_first_author,paper_key,paper_url)
+            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+                   update_time,paper_title,paper_first_author,paper_url,paper_url)
+
+            # TODO: select useful comments
+            comments = None
+            if comments != None:
+                content_to_web[paper_key] += f", {comments}\n"
+            else:
+                content_to_web[paper_key] += f"\n"
+
+    # 捕获 HTTP 错误 (429, 503 等)，打出警告但不要中断程序
+    except arxiv.HTTPError as e:
+        logging.error(f"ArXiv API blocked the request for topic '{topic}'. Error: {e}")
+        logging.error("Skipping this topic to prevent full workflow crash.")
+    # 捕获其他可能的网络或解析异常
+    except Exception as e:
+        logging.error(f"An unexpected error occurred while fetching topic '{topic}': {e}")
+        
     data = {topic:content}
     data_web = {topic:content_to_web}
     return data,data_web
