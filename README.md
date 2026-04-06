@@ -1,4 +1,4 @@
-## Updated on 2026.04.04
+## Updated on 2026.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-01**|**General formulas for a class of Euler sums**|David H Bailey et.al.|[2604.02384](http://arxiv.org/abs/2604.02384)|null|
 |**2026-03-20**|**Building an analog simulator of a photonic quantum computer with transparent tape, maple syrup, and cat lasers, and implementing first quantum algorithms in the classroom**|Ghislain Lefebvre et.al.|[2604.00030](http://arxiv.org/abs/2604.00030)|null|
 |**2026-03-31**|**MAPLE: Multi-Path Adaptive Propagation with Level-Aware Embeddings for Hierarchical Multi-Label Image Classification**|Boshko Koloski et.al.|[2603.29784](http://arxiv.org/abs/2603.29784)|null|
 |**2026-03-30**|**Higgs criticality of Dirac spin liquids on depleted triangular lattices**|Andreas Feuerpfeil et.al.|[2603.28860](http://arxiv.org/abs/2603.28860)|null|
@@ -26,16 +27,19 @@
 |**2026-03-16**|**Improved Degree Bounds for Hyperbolicity of Surfaces and Curve Complements**|Lei Hou et.al.|[2603.14881](http://arxiv.org/abs/2603.14881)|null|
 |**2026-03-09**|**MAPLE: Elevating Medical Reasoning from Statistical Consensus to Process-Led Alignment**|Kailong Fan et.al.|[2603.08987](http://arxiv.org/abs/2603.08987)|null|
 
-<p align=right>(<a href=#updated-on-20260404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Medical Image Deep Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**SD-FSMIS: Adapting Stable Diffusion for Few-Shot Medical Image Segmentation**|Meihua Li et.al.|[2604.03134](http://arxiv.org/abs/2604.03134)|null|
+|**2026-04-03**|**Few-Shot Distribution-Aligned Flow Matching for Data Synthesis in Medical Image Segmentation**|Jie Yang et.al.|[2604.02868](http://arxiv.org/abs/2604.02868)|null|
+|**2026-04-02**|**An Explainable Vision-Language Model Framework with Adaptive PID-Tversky Loss for Lumbar Spinal Stenosis Diagnosis**|Md. Sajeebul Islam Sk. et.al.|[2604.02502](http://arxiv.org/abs/2604.02502)|null|
 |**2026-04-02**|**CXR-LT 2026 Challenge: Projection-Aware Multi-Label and Zero-Shot Chest X-Ray Classification**|Juno Cho et.al.|[2604.02185](http://arxiv.org/abs/2604.02185)|null|
 |**2026-04-02**|**A Self supervised learning framework for imbalanced medical imaging datasets**|Yash Kumar Sharma et.al.|[2604.01947](http://arxiv.org/abs/2604.01947)|null|
 |**2026-04-02**|**A deep learning pipeline for PAM50 subtype classification using histopathology images and multi-objective patch selection**|Arezoo Borji et.al.|[2604.01798](http://arxiv.org/abs/2604.01798)|null|
-|**2026-04-02**|**Quantum-Enhanced Processing with Tensor-Network Frontends for Privacy-Aware Federated Medical Diagnosis**|Hiroshi Yamauchi et.al.|[2604.01616](http://arxiv.org/abs/2604.01616)|null|
+|**2026-04-03**|**Quantum-Enhanced Processing with Tensor-Network Frontends for Privacy-Aware Federated Medical Diagnosis**|Hiroshi Yamauchi et.al.|[2604.01616](http://arxiv.org/abs/2604.01616)|null|
 |**2026-04-01**|**AdaLoRA-QAT: Adaptive Low-Rank and Quantization-Aware Segmentation**|Prantik Deb et.al.|[2604.01167](http://arxiv.org/abs/2604.01167)|null|
 |**2026-04-01**|**Foundation Model-guided Iteratively Prompting and Pseudo-Labeling for Partially Labeled Medical Image Segmentation**|Qiaochu Zhao et.al.|[2604.01038](http://arxiv.org/abs/2604.01038)|null|
 |**2026-04-01**|**Automated Detection of Multiple Sclerosis Lesions on 7-tesla MRI Using U-net and Transformer-based Segmentation**|Michael Maynord et.al.|[2604.00469](http://arxiv.org/abs/2604.00469)|null|
@@ -43,12 +47,22 @@
 |**2026-03-31**|**Calibrated Confidence Expression for Radiology Report Generation**|David Bani-Harouni et.al.|[2603.29492](http://arxiv.org/abs/2603.29492)|null|
 |**2026-03-31**|**Rich-U-Net: A medical image segmentation model for fusing spatial depth features and capturing minute structural details**|Zhuoyi Fang et.al.|[2603.29404](http://arxiv.org/abs/2603.29404)|null|
 
-<p align=right>(<a href=#updated-on-20260404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Vision-Language Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Ankan Deria et.al.|[2604.03231](http://arxiv.org/abs/2604.03231)|null|
+|**2026-04-03**|**Unmixing the Crowd: Learning Mixture-to-Set Speaker Embeddings for Enrollment-Free Target Speech Extraction**|FNU Sidharth et.al.|[2604.03219](http://arxiv.org/abs/2604.03219)|null|
+|**2026-04-03**|**BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence**|Sean Wu et.al.|[2604.03216](http://arxiv.org/abs/2604.03216)|null|
+|**2026-04-03**|**Coupled Control, Structured Memory, and Verifiable Action in Agentic AI (SCRAT -- Stochastic Control with Retrieval and Auditable Trajectories): A Comparative Perspective from Squirrel Locomotion and Scatter-Hoarding**|Maximiliano Armesto et.al.|[2604.03201](http://arxiv.org/abs/2604.03201)|null|
+|**2026-04-03**|**Bifurcations in Stokes Flow Sedimentation**|Elias Huseby et.al.|[2604.03193](http://arxiv.org/abs/2604.03193)|null|
+|**2026-04-03**|**The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling**|Takuya Shiba et.al.|[2604.03191](http://arxiv.org/abs/2604.03191)|null|
+|**2026-04-03**|**Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model**|Peiyan Li et.al.|[2604.03181](http://arxiv.org/abs/2604.03181)|null|
+|**2026-04-03**|**Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models**|Gengwei Zhang et.al.|[2604.03179](http://arxiv.org/abs/2604.03179)|null|
+|**2026-04-03**|**EffiMiniVLM: A Compact Dual-Encoder Regression Framework**|Yin-Loon Khor et.al.|[2604.03172](http://arxiv.org/abs/2604.03172)|null|
+|**2026-04-03**|**Chart-RL: Policy Optimization Reinforcement Learning for Enhanced Visual Reasoning in Chart Question Answering with Vision Language Models**|Yunfei Bai et.al.|[2604.03157](http://arxiv.org/abs/2604.03157)|null|
 |**2026-04-02**|**Steerable Visual Representations**|Jona Ruthardt et.al.|[2604.02327](http://arxiv.org/abs/2604.02327)|null|
 |**2026-04-02**|**Beyond Referring Expressions: Scenario Comprehension Visual Grounding**|Ruozhen He et.al.|[2604.02323](http://arxiv.org/abs/2604.02323)|null|
 |**2026-04-02**|**Disentangled Deep Priors for Bayesian Inverse Problems**|Arkaprabha Ganguli et.al.|[2604.02304](http://arxiv.org/abs/2604.02304)|null|
@@ -60,12 +74,16 @@
 |**2026-04-02**|**Novel Memory Forgetting Techniques for Autonomous AI Agents: Balancing Relevance and Efficiency**|Payal Fofadiya et.al.|[2604.02280](http://arxiv.org/abs/2604.02280)|null|
 |**2026-04-02**|**De Jure: Iterative LLM Self-Refinement for Structured Extraction of Regulatory Rules**|Keerat Guliani et.al.|[2604.02276](http://arxiv.org/abs/2604.02276)|null|
 
-<p align=right>(<a href=#updated-on-20260404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## SAM & Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**OMNI-PoseX: A Fast Vision Model for 6D Object Pose Estimation in Embodied Tasks**|Michael Zhang et.al.|[2604.02759](http://arxiv.org/abs/2604.02759)|null|
+|**2026-04-03**|**Cross-Vehicle 3D Geometric Consistency for Self-Supervised Surround Depth Estimation on Articulated Vehicles**|Weimin Liu et.al.|[2604.02639](http://arxiv.org/abs/2604.02639)|null|
+|**2026-04-03**|**Smart Transfer: Leveraging Vision Foundation Model for Rapid Building Damage Mapping with Post-Earthquake VHR Imagery**|Hao Li et.al.|[2604.02627](http://arxiv.org/abs/2604.02627)|null|
+|**2026-04-02**|**Rapidly deploying on-device eye tracking by distilling visual foundation models**|Cheng Jiang et.al.|[2604.02509](http://arxiv.org/abs/2604.02509)|null|
 |**2026-04-02**|**Large-scale Codec Avatars: The Unreasonable Effectiveness of Large-scale Avatar Pretraining**|Junxuan Li et.al.|[2604.02320](http://arxiv.org/abs/2604.02320)|null|
 |**2026-04-02**|**SPAR: Single-Pass Any-Resolution ViT for Open-vocabulary Segmentation**|Naomi Kombol et.al.|[2604.02252](http://arxiv.org/abs/2604.02252)|null|
 |**2026-04-02**|**GeoAI Agency Primitives**|Akram Zaytar et.al.|[2604.01869](http://arxiv.org/abs/2604.01869)|null|
@@ -77,7 +95,7 @@
 |**2026-04-01**|**PC-SAM: Patch-Constrained Fine-Grained Interactive Road Segmentation in High-Resolution Remote Sensing Images**|Chengcheng Lv et.al.|[2604.00495](http://arxiv.org/abs/2604.00495)|null|
 |**2026-04-01**|**Mine-JEPA: In-Domain Self-Supervised Learning for Mine-Like Object Classification in Side-Scan Sonar**|Taeyoun Kwon et.al.|[2604.00383](http://arxiv.org/abs/2604.00383)|null|
 
-<p align=right>(<a href=#updated-on-20260404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
