@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.06
+## Updated on 2026.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CLIP Prompt Learning
@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**When Fine-Tuning Changes the Evidence: Architecture-Dependent Semantic Drift in Chest X-Ray Explanations**|Kabilan Elangovan et.al.|[2604.08513](http://arxiv.org/abs/2604.08513)|null|
+|**2026-04-09**|**Quantifying Explanation Consistency: The C-Score Metric for CAM-Based Explainability in Medical Image Classification**|Kabilan Elangovan et.al.|[2604.08502](http://arxiv.org/abs/2604.08502)|null|
+|**2026-04-09**|**Lost in the Hype: Revealing and Dissecting the Performance Degradation of Medical Multimodal Large Language Models in Image Classification**|Xun Zhu et.al.|[2604.08333](http://arxiv.org/abs/2604.08333)|null|
+|**2026-04-09**|**Weakly-Supervised Lung Nodule Segmentation via Training-Free Guidance of 3D Rectified Flow**|Richard Petersen et.al.|[2604.08313](http://arxiv.org/abs/2604.08313)|null|
+|**2026-04-09**|**T-Gated Adapter: A Lightweight Temporal Adapter for Vision-Language Medical Segmentation**|Pranjal Khadka et.al.|[2604.08167](http://arxiv.org/abs/2604.08167)|null|
+|**2026-04-09**|**Adapting Foundation Models for Annotation-Efficient Adnexal Mass Segmentation in Cine Images**|Francesca Fati et.al.|[2604.08045](http://arxiv.org/abs/2604.08045)|null|
+|**2026-04-09**|**Component-Adaptive and Lesion-Level Supervision for Improved Small Structure Segmentation in Brain MRI**|Minh Sao Khue Luu et.al.|[2604.08015](http://arxiv.org/abs/2604.08015)|null|
+|**2026-04-09**|**Needle in a Haystack -- One-Class Representation Learning for Detecting Rare Malignant Cells in Computational Cytology**|Swarnadip Chatterjee et.al.|[2604.07722](http://arxiv.org/abs/2604.07722)|null|
+|**2026-04-08**|**Distilling Photon-Counting CT into Routine Chest CT through Clinically Validated Degradation Modeling**|Junqi Liu et.al.|[2604.07329](http://arxiv.org/abs/2604.07329)|null|
+|**2026-04-08**|**Region-Graph Optimal Transport Routing for Mixture-of-Experts Whole-Slide Image Classification**|Xin Tian et.al.|[2604.07298](http://arxiv.org/abs/2604.07298)|null|
 |**2026-04-03**|**SD-FSMIS: Adapting Stable Diffusion for Few-Shot Medical Image Segmentation**|Meihua Li et.al.|[2604.03134](http://arxiv.org/abs/2604.03134)|null|
 |**2026-04-03**|**Few-Shot Distribution-Aligned Flow Matching for Data Synthesis in Medical Image Segmentation**|Jie Yang et.al.|[2604.02868](http://arxiv.org/abs/2604.02868)|null|
 |**2026-04-02**|**An Explainable Vision-Language Model Framework with Adaptive PID-Tversky Loss for Lumbar Spinal Stenosis Diagnosis**|Md. Sajeebul Islam Sk. et.al.|[2604.02502](http://arxiv.org/abs/2604.02502)|null|
@@ -43,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets**|Xiaoben Li et.al.|[2604.08548](http://arxiv.org/abs/2604.08548)|null|
+|**2026-04-09**|**When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models**|Zhengyang Sun et.al.|[2604.08546](http://arxiv.org/abs/2604.08546)|null|
+|**2026-04-09**|**SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds**|Yunsong Zhou et.al.|[2604.08544](http://arxiv.org/abs/2604.08544)|null|
+|**2026-04-09**|**E-3DPSM: A State Machine for Event-Based Egocentric 3D Human Pose Estimation**|Mayur Deshmukh et.al.|[2604.08543](http://arxiv.org/abs/2604.08543)|null|
+|**2026-04-09**|**Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts**|Haolei Xu et.al.|[2604.08541](http://arxiv.org/abs/2604.08541)|null|
+|**2026-04-09**|**AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation**|Ziwei Zhou et.al.|[2604.08540](http://arxiv.org/abs/2604.08540)|null|
+|**2026-04-09**|**OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks**|Wenbo Hu et.al.|[2604.08539](http://arxiv.org/abs/2604.08539)|null|
+|**2026-04-09**|**ParseBench: A Document Parsing Benchmark for AI Agents**|Boyang Zhang et.al.|[2604.08538](http://arxiv.org/abs/2604.08538)|null|
+|**2026-04-09**|**Meta-learning In-Context Enables Training-Free Cross Subject Brain Decoding**|Mu Nan et.al.|[2604.08537](http://arxiv.org/abs/2604.08537)|null|
+|**2026-04-09**|**RewardFlow: Generate Images by Optimizing What You Reward**|Onkar Susladkar et.al.|[2604.08536](http://arxiv.org/abs/2604.08536)|null|
 |**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Ankan Deria et.al.|[2604.03231](http://arxiv.org/abs/2604.03231)|null|
 |**2026-04-03**|**Unmixing the Crowd: Learning Mixture-to-Set Speaker Embeddings for Enrollment-Free Target Speech Extraction**|FNU Sidharth et.al.|[2604.03219](http://arxiv.org/abs/2604.03219)|null|
 |**2026-04-03**|**BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence**|Sean Wu et.al.|[2604.03216](http://arxiv.org/abs/2604.03216)|null|
@@ -68,6 +88,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance**|Haoxi Zeng et.al.|[2604.08461](http://arxiv.org/abs/2604.08461)|null|
+|**2026-04-09**|**OV-Stitcher: A Global Context-Aware Framework for Training-Free Open-Vocabulary Semantic Segmentation**|Seungjae Moon et.al.|[2604.08110](http://arxiv.org/abs/2604.08110)|null|
+|**2026-04-09**|**DinoRADE: Full Spectral Radar-Camera Fusion with Vision Foundation Model Features for Multi-class Object Detection in Adverse Weather**|Christof Leitgeb et.al.|[2604.08074](http://arxiv.org/abs/2604.08074)|null|
+|**2026-04-09**|**Tarot-SAM3: Training-free SAM3 for Any Referring Expression Segmentation**|Weiming Zhang et.al.|[2604.07916](http://arxiv.org/abs/2604.07916)|null|
+|**2026-04-09**|**PanoSAM2: Lightweight Distortion- and Memory-aware Adaptions of SAM2 for 360 Video Object Segmentation**|Dingwen Xiao et.al.|[2604.07901](http://arxiv.org/abs/2604.07901)|null|
+|**2026-04-08**|**DINO-QPM: Adapting Visual Foundation Models for Globally Interpretable Image Classification**|Robert Zimmermann et.al.|[2604.07166](http://arxiv.org/abs/2604.07166)|null|
+|**2026-04-08**|**From Static to Interactive: Adapting Visual in-Context Learners for User-Driven Tasks**|Carlos Schmidt et.al.|[2604.06748](http://arxiv.org/abs/2604.06748)|null|
+|**2026-04-07**|**Semantic-Topological Graph Reasoning for Language-Guided Pulmonary Screening**|Chenyu Xue et.al.|[2604.05620](http://arxiv.org/abs/2604.05620)|null|
+|**2026-04-07**|**Few-Shot Semantic Segmentation Meets SAM3**|Yi-Jen Tsai et.al.|[2604.05433](http://arxiv.org/abs/2604.05433)|null|
+|**2026-04-07**|**Learning to Synergize Semantic and Geometric Priors for Limited-Data Wheat Disease Segmentation**|Shijie Wang et.al.|[2604.05415](http://arxiv.org/abs/2604.05415)|null|
 |**2026-04-03**|**OMNI-PoseX: A Fast Vision Model for 6D Object Pose Estimation in Embodied Tasks**|Michael Zhang et.al.|[2604.02759](http://arxiv.org/abs/2604.02759)|null|
 |**2026-04-03**|**Cross-Vehicle 3D Geometric Consistency for Self-Supervised Surround Depth Estimation on Articulated Vehicles**|Weimin Liu et.al.|[2604.02639](http://arxiv.org/abs/2604.02639)|null|
 |**2026-04-03**|**Smart Transfer: Leveraging Vision Foundation Model for Rapid Building Damage Mapping with Post-Earthquake VHR Imagery**|Hao Li et.al.|[2604.02627](http://arxiv.org/abs/2604.02627)|null|
