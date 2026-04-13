@@ -1,4 +1,4 @@
-## Updated on 2026.04.11
+## Updated on 2026.04.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,7 +27,7 @@
 |**2026-03-16**|**Improved Degree Bounds for Hyperbolicity of Surfaces and Curve Complements**|Lei Hou et.al.|[2603.14881](http://arxiv.org/abs/2603.14881)|null|
 |**2026-03-09**|**MAPLE: Elevating Medical Reasoning from Statistical Consensus to Process-Led Alignment**|Kailong Fan et.al.|[2603.08987](http://arxiv.org/abs/2603.08987)|null|
 
-<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
 
 ## Medical Image Deep Learning
 
@@ -57,7 +57,7 @@
 |**2026-03-31**|**Calibrated Confidence Expression for Radiology Report Generation**|David Bani-Harouni et.al.|[2603.29492](http://arxiv.org/abs/2603.29492)|null|
 |**2026-03-31**|**Rich-U-Net: A medical image segmentation model for fusing spatial depth features and capturing minute structural details**|Zhuoyi Fang et.al.|[2603.29404](http://arxiv.org/abs/2603.29404)|null|
 
-<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -94,7 +94,7 @@
 |**2026-04-02**|**Novel Memory Forgetting Techniques for Autonomous AI Agents: Balancing Relevance and Efficiency**|Payal Fofadiya et.al.|[2604.02280](http://arxiv.org/abs/2604.02280)|null|
 |**2026-04-02**|**De Jure: Iterative LLM Self-Refinement for Structured Extraction of Regulatory Rules**|Keerat Guliani et.al.|[2604.02276](http://arxiv.org/abs/2604.02276)|null|
 
-<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
 
 ## SAM & Foundation Models
 
@@ -125,7 +125,7 @@
 |**2026-04-01**|**PC-SAM: Patch-Constrained Fine-Grained Interactive Road Segmentation in High-Resolution Remote Sensing Images**|Chengcheng Lv et.al.|[2604.00495](http://arxiv.org/abs/2604.00495)|null|
 |**2026-04-01**|**Mine-JEPA: In-Domain Self-Supervised Learning for Mine-Like Object Classification in Side-Scan Sonar**|Taeyoun Kwon et.al.|[2604.00383](http://arxiv.org/abs/2604.00383)|null|
 
-<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
