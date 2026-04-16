@@ -21,94 +21,109 @@ md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
 # keywords to search
+# keywords to search
 keywords:
-    "CLIP Prompt Learning":
-        filters:
-            [
-              "CLIP prompt learning",
-              "CLIP prompt tuning",
-              "context optimization for CLIP",
-              "CLIP soft prompt",
-              "CLIP continuous prompt",
-              "CoOp",
-              "CoCoOp",
-              "MaPLe",
-              "KgCoOp",
-              "ProDA",
-              "PromptSRC",
-              "test-time prompt tuning"
-            ]
-    "Medical Image Deep Learning":
-        filters:
-            [
-              "medical image segmentation",
-              "medical image classification",
-              "medical image registration",
-              "medical image reconstruction",
-              "medical image synthesis",
-              "lesion detection",
-              "organ segmentation",
-              "tumor segmentation",
-              "radiology report generation",
-              "digital pathology",
-              "histopathology image analysis",
-              "whole slide image",
-              "CT segmentation",
-              "MRI segmentation",
-              "chest X-ray classification",
-              "ultrasound image analysis",
-              "fundus image analysis",
-              "retinal image analysis",
-              "OCT image analysis",
-              "mammography detection",
-              "endoscopy image analysis"
-            ]
-    "Vision-Language Models":
-        filters:
-            [
-              "vision-language model",
-              "vision-language pre-training",
-              "image-text pretraining",
-              "image-text representation learning",
-              "image-text alignment",
-              "large vision-language model",
-              "multimodal large language model",
-              "visual instruction tuning",
-              "BLIP",
-              "BLIP-2",
-              "InstructBLIP",
-              "ALBEF",
-              "ALIGN",
-              "PaLI",
-              "Flamingo",
-              "LLaVA",
-              "Kosmos-2",
-              "Qwen-VL",
-              "InternVL",
-              "CogVLM",
-              "IDEFICS"
-            ]
-    "SAM & Foundation Models":
-        filters:
-            [
-              "Segment Anything",
-              "Segment Anything Model",
-              "SAM 2",
-              "MedSAM",
-              "SAM-Med2D",
-              "Grounded-SAM",
-              "Grounded Segment Anything",
-              "EfficientSAM",
-              "MobileSAM",
-              "FastSAM",
-              "HQ-SAM",
-              "Semantic-SAM",
-              "vision foundation model",
-              "visual foundation model",
-              "image foundation model",
-              "medical imaging foundation model",
-              "foundation model for medical imaging",
-              "promptable segmentation",
-              "interactive segmentation",
-              "open-vocabulary segmentation"
-            ]            
+  "CLIP Prompt Learning":
+    filters:
+      - "prompt learning for CLIP"
+      - "prompt tuning for CLIP"
+      - "CLIP prompt learning"
+      - "CLIP prompt tuning"
+      - "CLIP prompt optimization"
+      - "context optimization for CLIP"
+      - "soft prompt for CLIP"
+      - "continuous prompt for CLIP"
+      - "prompt adaptation for CLIP"
+      - "test-time prompt tuning"
+      - "conditional prompt learning for vision-language models"
+      - "multi-modal prompt learning for vision-language models"
+      - "CoCoOp"
+      - "MaPLe"
+      - "KgCoOp"
+      - "ProDA"
+      - "PromptSRC"
+      - "ProGrad"
+
+  "DINO & Self-Supervised ViT":
+    filters:
+      - "DINO"
+      - "DINOv2"
+      - "self-distillation with no labels"
+      - "DINO pretraining"
+      - "DINO features"
+      - "dense DINO"
+      - "DINO-based representation learning"
+      - "iBOT"
+      - "EsViT"
+
+  "Vision Foundation Models":
+    filters:
+      - "vision foundation model"
+      - "visual foundation model"
+      - "image foundation model"
+      - "foundation model for computer vision"
+      - "foundation model for visual recognition"
+      - "generalist model for vision"
+      - "pretrained vision foundation model"
+
+  "Medical Foundation Models":
+    filters:
+      - "medical imaging foundation model"
+      - "medical image foundation model"
+      - "foundation model for medical imaging"
+      - "medical vision foundation model"
+      - "generalist model for medical imaging"
+      - "foundation model for radiology"
+      - "foundation model for pathology"
+      - "medical image pretraining"
+      - "self-supervised learning for medical imaging"
+
+  "Medical Image Deep Learning":
+    filters:
+      - "medical image analysis"
+      - "medical image understanding"
+      - "medical image segmentation"
+      - "3D medical image segmentation"
+      - "medical image classification"
+      - "medical image registration"
+      - "medical image reconstruction"
+      - "medical image synthesis"
+      - "lesion segmentation"
+      - "tumor segmentation"
+      - "organ segmentation"
+      - "radiology report generation"
+      - "digital pathology"
+      - "histopathology image analysis"
+      - "whole slide image analysis"
+      - "CT image analysis"
+      - "MRI image analysis"
+      - "PET image analysis"
+      - "chest X-ray analysis"
+      - "ultrasound image analysis"
+      - "fundus image analysis"
+      - "retinal image analysis"
+      - "OCT image analysis"
+      - "mammography detection"
+      - "endoscopy image analysis"
+      - "dermoscopic image analysis"
+
+  "SAM / Promptable Segmentation":
+    filters:
+      - "Segment Anything"
+      - "Segment Anything Model"
+      - "SAM 2"
+      - "SAM2"
+      - "Grounded-SAM"
+      - "Grounded Segment Anything"
+      - "MedSAM"
+      - "LiteMedSAM"
+      - "3D MedSAM"
+      - "SAM-Med2D"
+      - "EfficientSAM"
+      - "MobileSAM"
+      - "FastSAM"
+      - "HQ-SAM"
+      - "Semantic-SAM"
+      - "promptable segmentation"
+      - "SAM for medical image segmentation"
+      - "SAM-based segmentation"
