@@ -1,4 +1,4 @@
-## Updated on 2026.04.20
+## Updated on 2026.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-19**|**MAPLE: A Meta-learning Framework for Cross-Prompt Essay Scoring**|Salam Albatarni et.al.|[2604.17569](http://arxiv.org/abs/2604.17569)|null|
+|**2026-04-17**|**Circular polarization images of Sgr A* for different magnetic field geometries**|Hao Yin et.al.|[2604.15673](http://arxiv.org/abs/2604.15673)|null|
+|**2026-04-16**|**Misaligned circumbinary discs around unequal-mass eccentric binaries: alignment, morphology, and binary accretion variability**|Ruiqi Yang et.al.|[2604.14555](http://arxiv.org/abs/2604.14555)|null|
 |**2026-04-15**|**MApLe: Multi-instance Alignment of Diagnostic Reports and Large Medical Images**|Felicia Bader et.al.|[2604.13970](http://arxiv.org/abs/2604.13970)|null|
 |**2026-04-14**|**Dual-Modality Anchor-Guided Filtering for Test-time Prompt Tuning**|Jungwon Choi et.al.|[2604.12403](http://arxiv.org/abs/2604.12403)|null|
 |**2026-04-11**|**Global monitoring of methane point sources using deep learning on hyperspectral radiance measurements from EMIT**|Vishal V. Batchu et.al.|[2604.10094](http://arxiv.org/abs/2604.10094)|null|
@@ -28,12 +31,22 @@
 |**2026-03-29**|**A Possible Mechanism to Explain the Prograde Equatorial Jet of a Jupiter-like Gaseous Giant**|Yuchen Lian et.al.|[2603.27591](http://arxiv.org/abs/2603.27591)|null|
 |**2026-03-31**|**ROLLIN': Rotating globular cluster simulations. I. The kinematic evolution of realistic direct N-body models**|P. Bianchini et.al.|[2603.26195](http://arxiv.org/abs/2603.26195)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
 ## DINO & Self-Supervised ViT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-20**|**MARCO: Navigating the Unseen Space of Semantic Correspondence**|Claudia Cuttano et.al.|[2604.18267](http://arxiv.org/abs/2604.18267)|null|
+|**2026-04-20**|**CFSR: Geometry-Conditioned Shadow Removal via Physical Disentanglement**|Pan Wang et.al.|[2604.18032](http://arxiv.org/abs/2604.18032)|null|
+|**2026-04-20**|**Sharpening Lightweight Models for Generalized Polyp Segmentation: A Boundary Guided Distillation from Foundation Models**|Shivanshu Agnihotri et.al.|[2604.17865](http://arxiv.org/abs/2604.17865)|null|
+|**2026-04-19**|**Towards Generalizable Deepfake Image Detection with Vision Transformers**|Kaliki V Srinanda et.al.|[2604.17376](http://arxiv.org/abs/2604.17376)|null|
+|**2026-04-18**|**KIRA: Knowledge-Intensive Image Retrieval and Reasoning Architecture for Specialized Visual Domains**|Parthaw Goswami et.al.|[2604.16915](http://arxiv.org/abs/2604.16915)|null|
+|**2026-04-17**|**Automated Palynological Analysis System: Integrating Deep Metric Learning and $U^{2}$-Net Detection in $H\infty$ bright field microscopy**|J. Staforelli-Vivanco et.al.|[2604.16743](http://arxiv.org/abs/2604.16743)|null|
+|**2026-04-17**|**Winner of CVPR2026 NTIRE Challenge on Image Shadow Removal: Semantic and Geometric Guidance for Shadow Removal via Cascaded Refinement**|Lorenzo Beltrame et.al.|[2604.16177](http://arxiv.org/abs/2604.16177)|null|
+|**2026-04-17**|**Stylistic-STORM (ST-STORM) : Perceiving the Semantic Nature of Appearance**|Hamed Ouattara et.al.|[2604.16086](http://arxiv.org/abs/2604.16086)|null|
+|**2026-04-16**|**Unconventional plasmon dynamics due to strong correlations in Sr $_2$RuO$_4$**|Juraj Krsnik et.al.|[2604.14859](http://arxiv.org/abs/2604.14859)|null|
+|**2026-04-15**|**Zero-Ablation Overstates Register Content Dependence in DINO Vision Transformers**|Felipe Parodi et.al.|[2604.14433](http://arxiv.org/abs/2604.14433)|null|
 |**2026-04-14**|**SemiFA: An Agentic Multi-Modal Framework for Autonomous Semiconductor Failure Analysis Report Generation**|Shivam Chand Kaushik et.al.|[2604.13236](http://arxiv.org/abs/2604.13236)|null|
 |**2026-04-14**|**DINO-Explorer: Active Underwater Discovery via Ego-Motion Compensated Semantic Predictive Coding**|Yuhan Jin et.al.|[2604.12933](http://arxiv.org/abs/2604.12933)|null|
 |**2026-04-14**|**Beyond Pre-Training: The Full Lifecycle of Foundation Models on HPC Systems**|Dino Conciatore et.al.|[2604.12599](http://arxiv.org/abs/2604.12599)|null|
@@ -45,12 +58,21 @@
 |**2026-04-13**|**Boxes2Pixels: Learning Defect Segmentation from Noisy SAM Masks**|Camile Lendering et.al.|[2604.11162](http://arxiv.org/abs/2604.11162)|null|
 |**2026-04-13**|**Using Deep Learning Models Pretrained by Self-Supervised Learning for Protein Localization**|Ben Isselmann et.al.|[2604.10970](http://arxiv.org/abs/2604.10970)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
 ## Vision Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-20**|**Can LLM-Generated Text Empower Surgical Vision-Language Pre-training?**|Chengan Che et.al.|[2604.18134](http://arxiv.org/abs/2604.18134)|null|
+|**2026-04-20**|**DifFoundMAD: Foundation Models meet Differential Morphing Attack Detection**|Lazaro J. Gonzalez-Soler et.al.|[2604.17961](http://arxiv.org/abs/2604.17961)|null|
+|**2026-04-20**|**Prompting Foundation Models for Zero-Shot Ship Instance Segmentation in SAR Imagery**|Islam Mansour et.al.|[2604.17920](http://arxiv.org/abs/2604.17920)|null|
+|**2026-04-20**|**Sharpening Lightweight Models for Generalized Polyp Segmentation: A Boundary Guided Distillation from Foundation Models**|Shivanshu Agnihotri et.al.|[2604.17865](http://arxiv.org/abs/2604.17865)|null|
+|**2026-04-18**|**Adaptive Forensic Feature Refinement via Intrinsic Importance Perception**|Jiazhen Yang et.al.|[2604.16879](http://arxiv.org/abs/2604.16879)|null|
+|**2026-04-17**|**C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion**|Yuval Haitman et.al.|[2604.16680](http://arxiv.org/abs/2604.16680)|null|
+|**2026-04-17**|**AdaVFM: Adaptive Vision Foundation Models for Edge Intelligence via LLM-Guided Execution**|Yiwei Zhao et.al.|[2604.15622](http://arxiv.org/abs/2604.15622)|null|
+|**2026-04-16**|**Robustness of Vision Foundation Models to Common Perturbations**|Hongbin Liu et.al.|[2604.14973](http://arxiv.org/abs/2604.14973)|null|
+|**2026-04-16**|**MapSR: Prompt-Driven Land Cover Map Super-Resolution via Vision Foundation Models**|Ruiqi Wang et.al.|[2604.14582](http://arxiv.org/abs/2604.14582)|null|
 |**2026-04-15**|**Context Sensitivity Improves Human-Machine Visual Alignment**|Frieda Born et.al.|[2604.13883](http://arxiv.org/abs/2604.13883)|null|
 |**2026-04-14**|**Chain-of-Models Pre-Training: Rethinking Training Acceleration of Vision Foundation Models**|Jiawei Fan et.al.|[2604.12391](http://arxiv.org/abs/2604.12391)|null|
 |**2026-04-14**|**Boosting Robust AIGI Detection with LoRA-based Pairwise Training**|Ruiyang Xia et.al.|[2604.12307](http://arxiv.org/abs/2604.12307)|null|
@@ -62,12 +84,13 @@
 |**2026-04-12**|**ReplicateAnyScene: Zero-Shot Video-to-3D Composition via Textual-Visual-Spatial Alignment**|Mingyu Dong et.al.|[2604.10789](http://arxiv.org/abs/2604.10789)|null|
 |**2026-04-12**|**AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Afford Correspondence**|Jiawei Zhang et.al.|[2604.10579](http://arxiv.org/abs/2604.10579)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
 ## Medical Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**Co-distilled attention guided masked image modeling with noisy teacher for self-supervised learning on medical images**|Jue Jiang et.al.|[2604.14506](http://arxiv.org/abs/2604.14506)|null|
 |**2026-04-01**|**AdaLoRA-QAT: Adaptive Low-Rank and Quantization-Aware Segmentation**|Prantik Deb et.al.|[2604.01167](http://arxiv.org/abs/2604.01167)|null|
 |**2026-03-15**|**Toward Clinically Ready Foundation Models in Medical Image Analysis: Adaptation Mechanisms and Deployment Trade-offs**|Karma Phuntsho et.al.|[2603.14271](http://arxiv.org/abs/2603.14271)|null|
 |**2026-03-14**|**Learning Generalizable 3D Medical Image Representations from Mask-Guided Self-Supervision**|Yunhe Gao et.al.|[2603.13660](http://arxiv.org/abs/2603.13660)|null|
@@ -79,12 +102,22 @@
 |**2026-02-25**|**Axial-Centric Cross-Plane Attention for 3D Medical Image Classification**|Doyoung Park et.al.|[2602.21636](http://arxiv.org/abs/2602.21636)|null|
 |**2026-02-17**|**Foundation Models for Medical Imaging: Status, Challenges, and Directions**|Chuang Niu et.al.|[2602.15913](http://arxiv.org/abs/2602.15913)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
 ## Medical Image Deep Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-20**|**Medical Image Understanding Improves Survival Prediction via Visual Instruction Tuning**|Xixi Liu et.al.|[2604.18250](http://arxiv.org/abs/2604.18250)|null|
+|**2026-04-20**|**Is SAM3 ready for pathology segmentation?**|Qiuyu Kong et.al.|[2604.18225](http://arxiv.org/abs/2604.18225)|null|
+|**2026-04-19**|**From Adaptation to Generalization: Adaptive Visual Prompting for Medical Image Segmentation**|Evren Çetinkaya et.al.|[2604.17455](http://arxiv.org/abs/2604.17455)|null|
+|**2026-04-19**|**SegTTA: Training-Free Test-Time Augmentation for Zero-Shot Medical Imaging Segmentation**|Yihong Yao et.al.|[2604.17451](http://arxiv.org/abs/2604.17451)|null|
+|**2026-04-19**|**T-DuMpRa: Teacher-guided Dual-path Multi-prototype Retrieval Augmented framework for fine-grained medical image classification**|Zixuan Tang et.al.|[2604.17360](http://arxiv.org/abs/2604.17360)|null|
+|**2026-04-19**|**Chaos-Enhanced Prototypical Networks for Few-Shot Medical Image Classification**|Chinhtakuntla Meghan Sai et.al.|[2604.17300](http://arxiv.org/abs/2604.17300)|null|
+|**2026-04-19**|**Detecting Breast Carcinoma Metastasis on Whole-Slide Images by Partially Subsampled Multiple Instance Learning**|Baichen Yu et.al.|[2604.17254](http://arxiv.org/abs/2604.17254)|null|
+|**2026-04-18**|**Hybrid Quantum Neural Networks for Enhanced Breast Cancer Thermographic Classification: A Novel Quantum-Classical Integration Approach**|Riza Alaudin Syah et.al.|[2604.16953](http://arxiv.org/abs/2604.16953)|null|
+|**2026-04-18**|**Bias-constrained multimodal intelligence for equitable and reliable clinical AI**|Cheng Li et.al.|[2604.16884](http://arxiv.org/abs/2604.16884)|null|
+|**2026-04-17**|**MARCH: Multi-Agent Radiology Clinical Hierarchy for CT Report Generation**|Yi Lin et.al.|[2604.16175](http://arxiv.org/abs/2604.16175)|null|
 |**2026-04-15**|**PBE-UNet: A light weight Progressive Boundary-Enhanced U-Net with Scale-Aware Aggregation for Ultrasound Image Segmentation**|Chen Wang et.al.|[2604.13791](http://arxiv.org/abs/2604.13791)|null|
 |**2026-04-15**|**Making AI Compliance Evidence Machine-Readable**|Rodrigo Cilla Ugarte et.al.|[2604.13767](http://arxiv.org/abs/2604.13767)|null|
 |**2026-04-15**|**Enhancing Reinforcement Learning for Radiology Report Generation with Evidence-aware Rewards and Self-correcting Preference Learning**|Qin Zhou et.al.|[2604.13598](http://arxiv.org/abs/2604.13598)|null|
@@ -96,12 +129,20 @@
 |**2026-04-14**|**DeferredSeg: A Multi-Expert Deferral Framework for Trustworthy Medical Image Segmentation**|Qiuyu Tian et.al.|[2604.12411](http://arxiv.org/abs/2604.12411)|null|
 |**2026-04-13**|**MedConcept: Unsupervised Concept Discovery for Interpretability in Medical VLMs**|Md Rakibul Haque et.al.|[2604.11868](http://arxiv.org/abs/2604.11868)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
 ## SAM / Promptable Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-20**|**Is SAM3 ready for pathology segmentation?**|Qiuyu Kong et.al.|[2604.18225](http://arxiv.org/abs/2604.18225)|null|
+|**2026-04-20**|**Prompting Foundation Models for Zero-Shot Ship Instance Segmentation in SAR Imagery**|Islam Mansour et.al.|[2604.17920](http://arxiv.org/abs/2604.17920)|null|
+|**2026-04-20**|**Sharpening Lightweight Models for Generalized Polyp Segmentation: A Boundary Guided Distillation from Foundation Models**|Shivanshu Agnihotri et.al.|[2604.17865](http://arxiv.org/abs/2604.17865)|null|
+|**2026-04-19**|**Dual-Anchoring: Addressing State Drift in Vision-Language Navigation**|Kangyi Wu et.al.|[2604.17473](http://arxiv.org/abs/2604.17473)|null|
+|**2026-04-18**|**Inference-Time Temporal Probability Smoothing for Stable Video Segmentation with SAM2 under Weak Prompts**|Dawar Jyoti Deka et.al.|[2604.17115](http://arxiv.org/abs/2604.17115)|null|
+|**2026-04-16**|**SRMU: Relevance-Gated Updates for Streaming Hyperdimensional Memories**|Shay Snyder et.al.|[2604.15121](http://arxiv.org/abs/2604.15121)|null|
+|**2026-04-16**|**From Boundaries to Semantics: Prompt-Guided Multi-Task Learning for Petrographic Thin-section Segmentation**|Yili Ren et.al.|[2604.14805](http://arxiv.org/abs/2604.14805)|null|
+|**2026-04-16**|**WILD-SAM: Phase-Aware Expert Adaptation of SAM for Landslide Detection in Wrapped InSAR Interferograms**|Yucheng Pan et.al.|[2604.14540](http://arxiv.org/abs/2604.14540)|null|
 |**2026-04-15**|**Training-Free Semantic Multi-Object Tracking with Vision-Language Models**|Laurence Bonat et.al.|[2604.14074](http://arxiv.org/abs/2604.14074)|null|
 |**2026-04-14**|**Pi-HOC: Pairwise 3D Human-Object Contact Estimation**|Sravan Chittupalli et.al.|[2604.12923](http://arxiv.org/abs/2604.12923)|null|
 |**2026-04-14**|**DeferredSeg: A Multi-Expert Deferral Framework for Trustworthy Medical Image Segmentation**|Qiuyu Tian et.al.|[2604.12411](http://arxiv.org/abs/2604.12411)|null|
@@ -114,7 +155,7 @@
 |**2026-04-14**|**Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation**|Jihun Kim et.al.|[2604.10950](http://arxiv.org/abs/2604.10950)|null|
 |**2026-04-12**|**Self-supervised Pretraining of Cell Segmentation Models**|Kaden Stillwagon et.al.|[2604.10609](http://arxiv.org/abs/2604.10609)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
