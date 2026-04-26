@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.21
+## Updated on 2026.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CLIP Prompt Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Orbital evolution of highly eccentric bodies embedded in a ringed accretion disc**|R. A. Anaya-Sánchez et.al.|[2604.21136](http://arxiv.org/abs/2604.21136)|null|
 |**2026-04-19**|**MAPLE: A Meta-learning Framework for Cross-Prompt Essay Scoring**|Salam Albatarni et.al.|[2604.17569](http://arxiv.org/abs/2604.17569)|null|
 |**2026-04-17**|**Circular polarization images of Sgr A* for different magnetic field geometries**|Hao Yin et.al.|[2604.15673](http://arxiv.org/abs/2604.15673)|null|
 |**2026-04-16**|**Misaligned circumbinary discs around unequal-mass eccentric binaries: alignment, morphology, and binary accretion variability**|Ruiqi Yang et.al.|[2604.14555](http://arxiv.org/abs/2604.14555)|null|
@@ -27,6 +28,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion**|Eghbal A. Hosseini et.al.|[2604.21836](http://arxiv.org/abs/2604.21836)|null|
+|**2026-04-23**|**Supervised Learning Has a Necessary Geometric Blind Spot: Theory, Consequences, and Minimal Repair**|Vishal Rajput et.al.|[2604.21395](http://arxiv.org/abs/2604.21395)|null|
+|**2026-04-21**|**Frequency-Forcing: From Scaling-as-Time to Soft Frequency Guidance**|Weitao Du et.al.|[2604.20902](http://arxiv.org/abs/2604.20902)|null|
+|**2026-04-22**|**Self-supervised pretraining for an iterative image size agnostic vision transformer**|Nedyalko Prisadnikov et.al.|[2604.20392](http://arxiv.org/abs/2604.20392)|null|
+|**2026-04-22**|**Fluctuation-driven multi-step charge density wave transition in monolayer TiSe $_2$**|Luka Benić et.al.|[2604.20355](http://arxiv.org/abs/2604.20355)|null|
+|**2026-04-21**|**DINO Eats CLIP: Adapting Beyond Knowns for Open-set 3D Object Retrieval**|Xinwei He et.al.|[2604.19432](http://arxiv.org/abs/2604.19432)|null|
+|**2026-04-21**|**Attend what matters: Leveraging vision foundational models for breast cancer classification using mammograms**|Samyak Sanghvi et.al.|[2604.19350](http://arxiv.org/abs/2604.19350)|null|
+|**2026-04-21**|**Benchmarking Vision Foundation Models for Domain-Generalizable Face Anti-Spoofing**|Mika Feng et.al.|[2604.19196](http://arxiv.org/abs/2604.19196)|null|
+|**2026-04-20**|**Multi-Domain Learning with Global Expert Mapping**|Pourya Shamsolmoali et.al.|[2604.18842](http://arxiv.org/abs/2604.18842)|null|
 |**2026-04-20**|**MARCO: Navigating the Unseen Space of Semantic Correspondence**|Claudia Cuttano et.al.|[2604.18267](http://arxiv.org/abs/2604.18267)|null|
 |**2026-04-20**|**CFSR: Geometry-Conditioned Shadow Removal via Physical Disentanglement**|Pan Wang et.al.|[2604.18032](http://arxiv.org/abs/2604.18032)|null|
 |**2026-04-20**|**Sharpening Lightweight Models for Generalized Polyp Segmentation: A Boundary Guided Distillation from Foundation Models**|Shivanshu Agnihotri et.al.|[2604.17865](http://arxiv.org/abs/2604.17865)|null|
@@ -52,6 +62,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**VFM $^{4}$ SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection**|Yupeng Zhang et.al.|[2604.21502](http://arxiv.org/abs/2604.21502)|null|
+|**2026-04-21**|**InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**|Nikita Kister et.al.|[2604.19673](http://arxiv.org/abs/2604.19673)|null|
+|**2026-04-21**|**DINO Eats CLIP: Adapting Beyond Knowns for Open-set 3D Object Retrieval**|Xinwei He et.al.|[2604.19432](http://arxiv.org/abs/2604.19432)|null|
+|**2026-04-21**|**Attend what matters: Leveraging vision foundational models for breast cancer classification using mammograms**|Samyak Sanghvi et.al.|[2604.19350](http://arxiv.org/abs/2604.19350)|null|
+|**2026-04-21**|**Benchmarking Vision Foundation Models for Domain-Generalizable Face Anti-Spoofing**|Mika Feng et.al.|[2604.19196](http://arxiv.org/abs/2604.19196)|null|
+|**2026-04-21**|**Bridging Foundation Models and ASTM Metallurgical Standards for Automated Grain Size Estimation from Microscopy Images**|Abdul Mueez et.al.|[2604.18957](http://arxiv.org/abs/2604.18957)|null|
+|**2026-04-20**|**Feasibility of Indoor Frame-Wise Lidar Semantic Segmentation via Distillation from Visual Foundation Model**|Haiyang Wu et.al.|[2604.18831](http://arxiv.org/abs/2604.18831)|null|
 |**2026-04-20**|**Can LLM-Generated Text Empower Surgical Vision-Language Pre-training?**|Chengan Che et.al.|[2604.18134](http://arxiv.org/abs/2604.18134)|null|
 |**2026-04-20**|**DifFoundMAD: Foundation Models meet Differential Morphing Attack Detection**|Lazaro J. Gonzalez-Soler et.al.|[2604.17961](http://arxiv.org/abs/2604.17961)|null|
 |**2026-04-20**|**Prompting Foundation Models for Zero-Shot Ship Instance Segmentation in SAR Imagery**|Islam Mansour et.al.|[2604.17920](http://arxiv.org/abs/2604.17920)|null|
@@ -92,6 +109,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**PanGuide3D: Cohort-Robust Pancreas Tumor Segmentation via Probabilistic Pancreas Conditioning and a Transformer Bottleneck**|Sunny Joy Ma et.al.|[2604.20981](http://arxiv.org/abs/2604.20981)|null|
+|**2026-04-22**|**MambaLiteUNet: Cross-Gated Adaptive Feature Fusion for Robust Skin Lesion Segmentation**|Md Maklachur Rahman et.al.|[2604.20286](http://arxiv.org/abs/2604.20286)|null|
+|**2026-04-21**|**3DPipe: A Pipelined GPU Framework for Scalable Generalized Spatial Join over Polyhedral Objects**|Lyuheng Yuan et.al.|[2604.19982](http://arxiv.org/abs/2604.19982)|null|
+|**2026-04-21**|**MedFlowSeg: Flow Matching for Medical Image Segmentation with Frequency-Aware Attention**|Zhi Chen et.al.|[2604.19675](http://arxiv.org/abs/2604.19675)|null|
+|**2026-04-21**|**RF-HiT: Rectified Flow Hierarchical Transformer for General Medical Image Segmentation**|Ahmed Marouane Djouama et.al.|[2604.19570](http://arxiv.org/abs/2604.19570)|null|
+|**2026-04-21**|**Attend what matters: Leveraging vision foundational models for breast cancer classification using mammograms**|Samyak Sanghvi et.al.|[2604.19350](http://arxiv.org/abs/2604.19350)|null|
+|**2026-04-21**|**Toward Clinically Acceptable Chest X-ray Report Generation: A Qualitative Retrospective Pilot Study of CXRMate-2**|Aaron Nicolson et.al.|[2604.18967](http://arxiv.org/abs/2604.18967)|null|
+|**2026-04-20**|**Align then Refine: Text-Guided 3D Prostate Lesion Segmentation**|Cuiling Sun et.al.|[2604.18713](http://arxiv.org/abs/2604.18713)|null|
 |**2026-04-20**|**Medical Image Understanding Improves Survival Prediction via Visual Instruction Tuning**|Xixi Liu et.al.|[2604.18250](http://arxiv.org/abs/2604.18250)|null|
 |**2026-04-20**|**Is SAM3 ready for pathology segmentation?**|Qiuyu Kong et.al.|[2604.18225](http://arxiv.org/abs/2604.18225)|null|
 |**2026-04-19**|**From Adaptation to Generalization: Adaptive Visual Prompting for Medical Image Segmentation**|Evren Çetinkaya et.al.|[2604.17455](http://arxiv.org/abs/2604.17455)|null|
@@ -117,6 +142,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures**|Xu Wang et.al.|[2604.21631](http://arxiv.org/abs/2604.21631)|null|
+|**2026-04-22**|**Amodal SAM: A Unified Amodal Segmentation Framework with Generalization**|Bo Zhang et.al.|[2604.20748](http://arxiv.org/abs/2604.20748)|null|
+|**2026-04-22**|**Image Generators are Generalist Vision Learners**|Valentin Gabeur et.al.|[2604.20329](http://arxiv.org/abs/2604.20329)|null|
+|**2026-04-22**|**From Scene to Object: Text-Guided Dual-Gaze Prediction**|Zehong Ke et.al.|[2604.20191](http://arxiv.org/abs/2604.20191)|null|
+|**2026-04-23**|**Semantic-Fast-SAM: Efficient Semantic Segmenter**|Byunghyun Kim et.al.|[2604.20169](http://arxiv.org/abs/2604.20169)|null|
 |**2026-04-20**|**Is SAM3 ready for pathology segmentation?**|Qiuyu Kong et.al.|[2604.18225](http://arxiv.org/abs/2604.18225)|null|
 |**2026-04-20**|**Prompting Foundation Models for Zero-Shot Ship Instance Segmentation in SAR Imagery**|Islam Mansour et.al.|[2604.17920](http://arxiv.org/abs/2604.17920)|null|
 |**2026-04-20**|**Sharpening Lightweight Models for Generalized Polyp Segmentation: A Boundary Guided Distillation from Foundation Models**|Shivanshu Agnihotri et.al.|[2604.17865](http://arxiv.org/abs/2604.17865)|null|
