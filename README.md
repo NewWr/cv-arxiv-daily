@@ -1,4 +1,4 @@
-## Updated on 2026.04.26
+## Updated on 2026.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -32,7 +32,7 @@
 |**2026-03-29**|**A Possible Mechanism to Explain the Prograde Equatorial Jet of a Jupiter-like Gaseous Giant**|Yuchen Lian et.al.|[2603.27591](http://arxiv.org/abs/2603.27591)|null|
 |**2026-03-31**|**ROLLIN': Rotating globular cluster simulations. I. The kinematic evolution of realistic direct N-body models**|P. Bianchini et.al.|[2603.26195](http://arxiv.org/abs/2603.26195)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 ## DINO & Self-Supervised ViT
 
@@ -68,7 +68,7 @@
 |**2026-04-13**|**Boxes2Pixels: Learning Defect Segmentation from Noisy SAM Masks**|Camile Lendering et.al.|[2604.11162](http://arxiv.org/abs/2604.11162)|null|
 |**2026-04-13**|**Using Deep Learning Models Pretrained by Self-Supervised Learning for Protein Localization**|Ben Isselmann et.al.|[2604.10970](http://arxiv.org/abs/2604.10970)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 ## Vision Foundation Models
 
@@ -101,7 +101,7 @@
 |**2026-04-12**|**ReplicateAnyScene: Zero-Shot Video-to-3D Composition via Textual-Visual-Spatial Alignment**|Mingyu Dong et.al.|[2604.10789](http://arxiv.org/abs/2604.10789)|null|
 |**2026-04-12**|**AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Afford Correspondence**|Jiawei Zhang et.al.|[2604.10579](http://arxiv.org/abs/2604.10579)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 ## Medical Foundation Models
 
@@ -119,7 +119,7 @@
 |**2026-02-25**|**Axial-Centric Cross-Plane Attention for 3D Medical Image Classification**|Doyoung Park et.al.|[2602.21636](http://arxiv.org/abs/2602.21636)|null|
 |**2026-02-17**|**Foundation Models for Medical Imaging: Status, Challenges, and Directions**|Chuang Niu et.al.|[2602.15913](http://arxiv.org/abs/2602.15913)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 ## Medical Image Deep Learning
 
@@ -154,7 +154,7 @@
 |**2026-04-14**|**DeferredSeg: A Multi-Expert Deferral Framework for Trustworthy Medical Image Segmentation**|Qiuyu Tian et.al.|[2604.12411](http://arxiv.org/abs/2604.12411)|null|
 |**2026-04-13**|**MedConcept: Unsupervised Concept Discovery for Interpretability in Medical VLMs**|Md Rakibul Haque et.al.|[2604.11868](http://arxiv.org/abs/2604.11868)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 ## SAM / Promptable Segmentation
 
@@ -185,7 +185,7 @@
 |**2026-04-14**|**Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation**|Jihun Kim et.al.|[2604.10950](http://arxiv.org/abs/2604.10950)|null|
 |**2026-04-12**|**Self-supervised Pretraining of Cell Segmentation Models**|Kaden Stillwagon et.al.|[2604.10609](http://arxiv.org/abs/2604.10609)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
