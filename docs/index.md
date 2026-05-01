@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.04.27
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CLIP Prompt Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining**|Hyeonseo Jang et.al.|[2604.27715](http://arxiv.org/abs/2604.27715)|null|
+|**2026-04-28**|**Multi-action Tangled Program Graphs for Multi-task Reinforcement Learning with Continuous Control**|Quentin Vacher et.al.|[2604.25369](http://arxiv.org/abs/2604.25369)|null|
+|**2026-04-27**|**Galaxy mergers and disk angular momentum evolution: stellar halos as a critical test**|Eric F. Bell et.al.|[2604.24965](http://arxiv.org/abs/2604.24965)|null|
+|**2026-04-27**|**Spin excitation of the Heisenberg antiferromagnet with frustration: from the bounce-lattice antiferromagnet through the maple-leaf-lattice antiferromagnet to the exact-dimer system**|Hiroki Nakano et.al.|[2604.24055](http://arxiv.org/abs/2604.24055)|null|
+|**2026-04-24**|**EV-CLIP: Efficient Visual Prompt Adaptation for CLIP in Few-shot Action Recognition under Visual Challenges**|Hyo Jin Jon et.al.|[2604.22595](http://arxiv.org/abs/2604.22595)|null|
 |**2026-04-22**|**Orbital evolution of highly eccentric bodies embedded in a ringed accretion disc**|R. A. Anaya-Sánchez et.al.|[2604.21136](http://arxiv.org/abs/2604.21136)|null|
 |**2026-04-19**|**MAPLE: A Meta-learning Framework for Cross-Prompt Essay Scoring**|Salam Albatarni et.al.|[2604.17569](http://arxiv.org/abs/2604.17569)|null|
 |**2026-04-17**|**Circular polarization images of Sgr A* for different magnetic field geometries**|Hao Yin et.al.|[2604.15673](http://arxiv.org/abs/2604.15673)|null|
@@ -28,6 +33,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**ClimateVID -- Social Media Videos Analysis and Challenges Involved**|Shiqi Xu et.al.|[2604.27968](http://arxiv.org/abs/2604.27968)|null|
+|**2026-04-29**|**Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization**|Mingbo Hong et.al.|[2604.26820](http://arxiv.org/abs/2604.26820)|null|
+|**2026-04-29**|**MemOVCD: Training-Free Open-Vocabulary Change Detection via Cross-Temporal Memory Reasoning and Global-Local Adaptive Rectification**|Zuzheng Kuang et.al.|[2604.26774](http://arxiv.org/abs/2604.26774)|null|
+|**2026-04-29**|**Last-Layer-Centric Feature Recombination: Unleashing 3D Geometric Knowledge in DINOv3 for Monocular Depth Estimation**|Gongshu Wang et.al.|[2604.26454](http://arxiv.org/abs/2604.26454)|null|
+|**2026-04-28**|**Robust Deepfake Detection: Mitigating Spatial Attention Drift via Calibrated Complementary Ensembles**|Minh-Khoa Le-Phan et.al.|[2604.25889](http://arxiv.org/abs/2604.25889)|null|
+|**2026-04-28**|**Towards Robust Deep Learning-based Rumex Obtusifolius Detection from Drone Images**|Fabian Dionys Schrag et.al.|[2604.25316](http://arxiv.org/abs/2604.25316)|null|
+|**2026-04-27**|**Quantum Kernel Advantage over Classical Collapse in Medical Foundation Model Embeddings**|Sebastian Cajas Ordóñez et.al.|[2604.24597](http://arxiv.org/abs/2604.24597)|null|
+|**2026-04-26**|**Deploy DINO with Many-to-Many Association**|Haodong Jiang et.al.|[2604.23670](http://arxiv.org/abs/2604.23670)|null|
+|**2026-04-26**|**Uncertainty Propagation in LLM-Based Systems**|Boming Xia et.al.|[2604.23505](http://arxiv.org/abs/2604.23505)|null|
+|**2026-04-24**|**Are Natural-Domain Foundation Models Effective for Accelerated Cardiac MRI Reconstruction?**|Anam Hashmi et.al.|[2604.22557](http://arxiv.org/abs/2604.22557)|null|
 |**2026-04-23**|**Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion**|Eghbal A. Hosseini et.al.|[2604.21836](http://arxiv.org/abs/2604.21836)|null|
 |**2026-04-23**|**Supervised Learning Has a Necessary Geometric Blind Spot: Theory, Consequences, and Minimal Repair**|Vishal Rajput et.al.|[2604.21395](http://arxiv.org/abs/2604.21395)|null|
 |**2026-04-21**|**Frequency-Forcing: From Scaling-as-Time to Soft Frequency Guidance**|Weitao Du et.al.|[2604.20902](http://arxiv.org/abs/2604.20902)|null|
@@ -62,6 +77,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Frequency-Aware Semantic Fusion with Gated Injection for AI-generated Image Detection**|Shuchang Zhou et.al.|[2604.27875](http://arxiv.org/abs/2604.27875)|null|
+|**2026-04-29**|**Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization**|Mingbo Hong et.al.|[2604.26820](http://arxiv.org/abs/2604.26820)|null|
+|**2026-04-29**|**TAP into the Patch Tokens: Leveraging Vision Foundation Model Features for AI-Generated Image Detection**|Ahmed Abdullah et.al.|[2604.26772](http://arxiv.org/abs/2604.26772)|null|
+|**2026-04-29**|**Featurising Pixels from Dynamic 3D Scenes with Linear In-Context Learners**|Nikita Araslanov et.al.|[2604.26488](http://arxiv.org/abs/2604.26488)|null|
+|**2026-04-29**|**Cross-Domain Transfer of Hyperspectral Foundation Models**|Nick Theisen et.al.|[2604.26478](http://arxiv.org/abs/2604.26478)|null|
+|**2026-04-29**|**Last-Layer-Centric Feature Recombination: Unleashing 3D Geometric Knowledge in DINOv3 for Monocular Depth Estimation**|Gongshu Wang et.al.|[2604.26454](http://arxiv.org/abs/2604.26454)|null|
+|**2026-04-29**|**Decoupled Prototype Matching with Vision Foundation Models for Few-Shot Industrial Object Detection**|Hari Prasanth S. M. et.al.|[2604.26404](http://arxiv.org/abs/2604.26404)|null|
+|**2026-04-27**|**DouC: Dual-Branch CLIP for Training-Free Open-Vocabulary Segmentation**|Mohamad Zamini et.al.|[2604.24997](http://arxiv.org/abs/2604.24997)|null|
+|**2026-04-27**|**EXACT: an explainable anomaly-aware vision foundation model for analysis of 3D chest CT**|Xuguang Bai et.al.|[2604.24146](http://arxiv.org/abs/2604.24146)|null|
+|**2026-04-26**|**PhysLayer: Language-Guided Layered Animation with Depth-Aware Physics**|Tianyidan Xie et.al.|[2604.23574](http://arxiv.org/abs/2604.23574)|null|
 |**2026-04-23**|**VFM $^{4}$ SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection**|Yupeng Zhang et.al.|[2604.21502](http://arxiv.org/abs/2604.21502)|null|
 |**2026-04-21**|**InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**|Nikita Kister et.al.|[2604.19673](http://arxiv.org/abs/2604.19673)|null|
 |**2026-04-21**|**DINO Eats CLIP: Adapting Beyond Knowns for Open-set 3D Object Retrieval**|Xinwei He et.al.|[2604.19432](http://arxiv.org/abs/2604.19432)|null|
@@ -93,6 +118,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-25**|**Learning from Noisy Prompts: Saliency-Guided Prompt Distillation for Robust Segmentation with SAM**|Jingxuan Kang et.al.|[2604.23314](http://arxiv.org/abs/2604.23314)|null|
 |**2026-04-16**|**Co-distilled attention guided masked image modeling with noisy teacher for self-supervised learning on medical images**|Jue Jiang et.al.|[2604.14506](http://arxiv.org/abs/2604.14506)|null|
 |**2026-04-01**|**AdaLoRA-QAT: Adaptive Low-Rank and Quantization-Aware Segmentation**|Prantik Deb et.al.|[2604.01167](http://arxiv.org/abs/2604.01167)|null|
 |**2026-03-15**|**Toward Clinically Ready Foundation Models in Medical Image Analysis: Adaptation Mechanisms and Deployment Trade-offs**|Karma Phuntsho et.al.|[2603.14271](http://arxiv.org/abs/2603.14271)|null|
@@ -109,6 +135,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**UHR-Net: An Uncertainty-Aware Hypergraph Refinement Network for Medical Image Segmentation**|Shuokun Cheng et.al.|[2604.28095](http://arxiv.org/abs/2604.28095)|null|
+|**2026-04-30**|**RIHA: Report-Image Hierarchical Alignment for Radiology Report Generation**|Yucheng Chen et.al.|[2604.27559](http://arxiv.org/abs/2604.27559)|null|
+|**2026-04-30**|**BrainDINO: A Brain MRI Foundation Model for Generalizable Clinical Representation Learning**|Yizhou Wu et.al.|[2604.27277](http://arxiv.org/abs/2604.27277)|null|
+|**2026-04-28**|**People-Centred Medical Image Analysis**|Zheng Zhang et.al.|[2604.26991](http://arxiv.org/abs/2604.26991)|null|
+|**2026-04-29**|**Are Data Augmentation and Segmentation Always Necessary? Insights from COVID-19 X-Rays and a Methodology Thereof**|Aman Swaraj et.al.|[2604.26437](http://arxiv.org/abs/2604.26437)|null|
+|**2026-04-29**|**Federated Medical Image Classification under Class and Domain Imbalance exploiting Synthetic Sample Generation**|Martina Pavan et.al.|[2604.26324](http://arxiv.org/abs/2604.26324)|null|
+|**2026-04-28**|**Model-agnostic information transfer and fusion for classification with label noise**|Zhu Guojun et.al.|[2604.25845](http://arxiv.org/abs/2604.25845)|null|
+|**2026-04-28**|**Robustness Evaluation of a Foundation Segmentation Model Under Simulated Domain Shifts in Abdominal CT: Implications for Health Digital Twin Deployment**|Sanghati Basu et.al.|[2604.25685](http://arxiv.org/abs/2604.25685)|null|
+|**2026-04-29**|**TopoMamba: Topology-Aware Scanning and Fusion for Segmenting Heterogeneous Medical Visual Media**|Fuchen Zheng et.al.|[2604.25545](http://arxiv.org/abs/2604.25545)|null|
+|**2026-04-28**|**CoRE: Concept-Reasoning Expansion for Continual Brain Lesion Segmentation**|Qianqian Chen et.al.|[2604.25376](http://arxiv.org/abs/2604.25376)|null|
 |**2026-04-22**|**PanGuide3D: Cohort-Robust Pancreas Tumor Segmentation via Probabilistic Pancreas Conditioning and a Transformer Bottleneck**|Sunny Joy Ma et.al.|[2604.20981](http://arxiv.org/abs/2604.20981)|null|
 |**2026-04-22**|**MambaLiteUNet: Cross-Gated Adaptive Feature Fusion for Robust Skin Lesion Segmentation**|Md Maklachur Rahman et.al.|[2604.20286](http://arxiv.org/abs/2604.20286)|null|
 |**2026-04-21**|**3DPipe: A Pipelined GPU Framework for Scalable Generalized Spatial Join over Polyhedral Objects**|Lyuheng Yuan et.al.|[2604.19982](http://arxiv.org/abs/2604.19982)|null|
@@ -142,6 +178,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**MemOVCD: Training-Free Open-Vocabulary Change Detection via Cross-Temporal Memory Reasoning and Global-Local Adaptive Rectification**|Zuzheng Kuang et.al.|[2604.26774](http://arxiv.org/abs/2604.26774)|null|
+|**2026-04-28**|**Robustness Evaluation of a Foundation Segmentation Model Under Simulated Domain Shifts in Abdominal CT: Implications for Health Digital Twin Deployment**|Sanghati Basu et.al.|[2604.25685](http://arxiv.org/abs/2604.25685)|null|
+|**2026-04-25**|**CRC-SAM: SAM-Based Multi-Modal Segmentation and Quantification of Colorectal Cancer in CT, Colonoscopy, and Histology Images**|Daniel Lao et.al.|[2604.24793](http://arxiv.org/abs/2604.24793)|null|
+|**2026-04-27**|**DiffuSAM: Diffusion-Based Prompt-Free SAM2 for Few-Shot and Source-Free Medical Image Segmentation**|Tal Grossman et.al.|[2604.24719](http://arxiv.org/abs/2604.24719)|null|
+|**2026-04-25**|**Learning from Noisy Prompts: Saliency-Guided Prompt Distillation for Robust Segmentation with SAM**|Jingxuan Kang et.al.|[2604.23314](http://arxiv.org/abs/2604.23314)|null|
+|**2026-04-24**|**HFS-TriNet: A Three-Branch Collaborative Feature Learning Network for Prostate Cancer Classification from TRUS Videos**|Xu Lu et.al.|[2604.22388](http://arxiv.org/abs/2604.22388)|null|
+|**2026-04-23**|**H-Sets: Hessian-Guided Discovery of Set-Level Feature Interactions in Image Classifiers**|Ayushi Mehrotra et.al.|[2604.22045](http://arxiv.org/abs/2604.22045)|null|
 |**2026-04-23**|**DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures**|Xu Wang et.al.|[2604.21631](http://arxiv.org/abs/2604.21631)|null|
 |**2026-04-22**|**Amodal SAM: A Unified Amodal Segmentation Framework with Generalization**|Bo Zhang et.al.|[2604.20748](http://arxiv.org/abs/2604.20748)|null|
 |**2026-04-22**|**Image Generators are Generalist Vision Learners**|Valentin Gabeur et.al.|[2604.20329](http://arxiv.org/abs/2604.20329)|null|
