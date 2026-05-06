@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.05.04
+## Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CLIP Prompt Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**Orbital Nodal Phase as a Pipeline Invariant in Black Hole Timing**|Mehmet Baran Ökten et.al.|[2605.02984](http://arxiv.org/abs/2605.02984)|null|
 |**2026-04-30**|**Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining**|Hyeonseo Jang et.al.|[2604.27715](http://arxiv.org/abs/2604.27715)|null|
 |**2026-04-28**|**Multi-action Tangled Program Graphs for Multi-task Reinforcement Learning with Continuous Control**|Quentin Vacher et.al.|[2604.25369](http://arxiv.org/abs/2604.25369)|null|
 |**2026-04-27**|**Galaxy mergers and disk angular momentum evolution: stellar halos as a critical test**|Eric F. Bell et.al.|[2604.24965](http://arxiv.org/abs/2604.24965)|null|
@@ -33,6 +34,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**DINO Soars: DINOv3 for Open-Vocabulary Semantic Segmentation of Remote Sensing Imagery**|Ryan Faulkenberry et.al.|[2605.03175](http://arxiv.org/abs/2605.03175)|null|
+|**2026-05-04**|**Measuring Differences between Conditional Distributions using Kernel Embeddings**|Peter Moskvichev et.al.|[2605.02260](http://arxiv.org/abs/2605.02260)|null|
+|**2026-05-04**|**SpectraDINO: Bridging the Spectral Gap in Vision Foundation Models via Lightweight Adapters**|Yagiz Nalcakan et.al.|[2605.02258](http://arxiv.org/abs/2605.02258)|null|
+|**2026-05-03**|**TumorXAI: Self-Supervised Deep Learning Framework for Explainable Brain MRI Tumor Classification**|Abrar Hossain Zahin et.al.|[2605.01999](http://arxiv.org/abs/2605.01999)|null|
+|**2026-05-02**|**AttnRouter: Per-Category Attention Routing for Training-Free Image Editing on MMDiT**|Guandong Li et.al.|[2605.01480](http://arxiv.org/abs/2605.01480)|null|
+|**2026-05-02**|**Action Agent: Agentic Video Generation Meets Flow-Constrained Diffusion**|Jeffrin Sam et.al.|[2605.01477](http://arxiv.org/abs/2605.01477)|null|
+|**2026-05-01**|**Energy-Based Constraint Networks: Learning Structural Coherence Across Modalities**|Chirag Shinde et.al.|[2605.00960](http://arxiv.org/abs/2605.00960)|null|
+|**2026-04-30**|**Adaptive Geodesic Conformal Prediction for Egocentric Camera Pose Estimation**|Aishani Pathak et.al.|[2605.00233](http://arxiv.org/abs/2605.00233)|null|
 |**2026-04-30**|**ClimateVID -- Social Media Videos Analysis and Challenges Involved**|Shiqi Xu et.al.|[2604.27968](http://arxiv.org/abs/2604.27968)|null|
 |**2026-04-29**|**Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization**|Mingbo Hong et.al.|[2604.26820](http://arxiv.org/abs/2604.26820)|null|
 |**2026-04-29**|**MemOVCD: Training-Free Open-Vocabulary Change Detection via Cross-Temporal Memory Reasoning and Global-Local Adaptive Rectification**|Zuzheng Kuang et.al.|[2604.26774](http://arxiv.org/abs/2604.26774)|null|
@@ -77,6 +86,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**OphMAE: Bridging Volumetric and Planar Imaging with a Foundation Model for Adaptive Ophthalmological Diagnosis**|Tienyu Chang et.al.|[2605.02714](http://arxiv.org/abs/2605.02714)|null|
+|**2026-05-04**|**Rethinking Electro-Optical Vision Foundation Models for Remote Sensing Retrieval: A Controlled Comparison with Generalist VFM**|Hyobin Park et.al.|[2605.02283](http://arxiv.org/abs/2605.02283)|null|
+|**2026-05-04**|**SpectraDINO: Bridging the Spectral Gap in Vision Foundation Models via Lightweight Adapters**|Yagiz Nalcakan et.al.|[2605.02258](http://arxiv.org/abs/2605.02258)|null|
+|**2026-05-04**|**End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer**|Wenda Chu et.al.|[2605.00503](http://arxiv.org/abs/2605.00503)|null|
 |**2026-04-30**|**Frequency-Aware Semantic Fusion with Gated Injection for AI-generated Image Detection**|Shuchang Zhou et.al.|[2604.27875](http://arxiv.org/abs/2604.27875)|null|
 |**2026-04-29**|**Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization**|Mingbo Hong et.al.|[2604.26820](http://arxiv.org/abs/2604.26820)|null|
 |**2026-04-29**|**TAP into the Patch Tokens: Leveraging Vision Foundation Model Features for AI-Generated Image Detection**|Ahmed Abdullah et.al.|[2604.26772](http://arxiv.org/abs/2604.26772)|null|
@@ -135,6 +148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training**|Adwaitt Pandya et.al.|[2605.04008](http://arxiv.org/abs/2605.04008)|null|
+|**2026-05-05**|**A Robust Unsupervised Domain Adaptation Framework for Medical Image Classification Using RKHS-MMD**|Sapna Sachan et.al.|[2605.03787](http://arxiv.org/abs/2605.03787)|null|
+|**2026-05-05**|**Dante: An Open Source Model Pre-Training and Fine-Tuning Tool for the Dafne Federated Framework for Medical Image Segmentation**|Giuseppe Timpano et.al.|[2605.03602](http://arxiv.org/abs/2605.03602)|null|
+|**2026-05-05**|**DALPHIN: Benchmarking Digital Pathology AI Copilots Against Pathologists on an Open Multicentric Dataset**|Carlijn Lems et.al.|[2605.03544](http://arxiv.org/abs/2605.03544)|null|
+|**2026-05-04**|**Synthetic Data Generation for Long-Tail Medical Image Classification: A Case Study in Skin Lesions**|Jiaxiang Jiang et.al.|[2605.03221](http://arxiv.org/abs/2605.03221)|null|
+|**2026-05-04**|**One Sequence to Segment Them All: Efficient Data Augmentation for CT and MRI Cross-Domain 3D Spine Segmentation**|Nathan Molinier et.al.|[2605.03098](http://arxiv.org/abs/2605.03098)|null|
+|**2026-05-04**|**Representation learning from OCT images**|Hedi Tabia et.al.|[2605.02589](http://arxiv.org/abs/2605.02589)|null|
+|**2026-05-04**|**M\textsuperscript{4}Fuse: Lightweight State-Space MoE with a Cross-Scale Gating Bridge for Brain Tumor Segmentation**|Meihua Zhou et.al.|[2605.02444](http://arxiv.org/abs/2605.02444)|null|
+|**2026-05-04**|**Multi-Rater Calibrated Segmentation Models**|Meritxell Riera-Marín et.al.|[2605.02437](http://arxiv.org/abs/2605.02437)|null|
+|**2026-05-04**|**Momentum-Anchored Multi-Scale Fusion Model for Long-Tailed Chest X-Ray Classification**|Duy Hoang Khuong et.al.|[2605.02292](http://arxiv.org/abs/2605.02292)|null|
 |**2026-04-30**|**UHR-Net: An Uncertainty-Aware Hypergraph Refinement Network for Medical Image Segmentation**|Shuokun Cheng et.al.|[2604.28095](http://arxiv.org/abs/2604.28095)|null|
 |**2026-04-30**|**RIHA: Report-Image Hierarchical Alignment for Radiology Report Generation**|Yucheng Chen et.al.|[2604.27559](http://arxiv.org/abs/2604.27559)|null|
 |**2026-04-30**|**BrainDINO: A Brain MRI Foundation Model for Generalizable Clinical Representation Learning**|Yizhou Wu et.al.|[2604.27277](http://arxiv.org/abs/2604.27277)|null|
@@ -178,6 +201,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**SAM-NER: Semantic Archetype Mediation for Zero-Shot Named Entity Recognition**|Ruichu Cai et.al.|[2605.03706](http://arxiv.org/abs/2605.03706)|null|
+|**2026-05-05**|**VL-SAM-v3: Memory-Guided Visual Priors for Open-World Object Detection**|Chih-Chung Liu et.al.|[2605.03456](http://arxiv.org/abs/2605.03456)|null|
+|**2026-05-05**|**Dual-Foundation Models for Unsupervised Domain Adaptation**|Yerin Cheon et.al.|[2605.03365](http://arxiv.org/abs/2605.03365)|null|
+|**2026-05-04**|**Approaching human parity in the quality of automated organoid image segmentation**|Chase Cartwright et.al.|[2605.03053](http://arxiv.org/abs/2605.03053)|null|
+|**2026-05-04**|**ViewSAM: Learning View-aware Cross-modal Semantics for Weakly Supervised Cross-view Referring Multi-Object Tracking**|Jiawei Ge et.al.|[2605.02638](http://arxiv.org/abs/2605.02638)|null|
+|**2026-05-04**|**Global-Local Feature Decoding with Adapter-Guided SAMv2 for Salient Object Detection**|Morteza Moradi et.al.|[2605.02616](http://arxiv.org/abs/2605.02616)|null|
+|**2026-04-29**|**SAMamba3D: adapting Segment Anything for generalizable 3D segmentation of multiphase pore-scale images**|Rui Zhang et.al.|[2605.00916](http://arxiv.org/abs/2605.00916)|null|
+|**2026-04-30**|**Remote SAMsing: From Segment Anything to Segment Everything**|Osmar Luiz Ferreira de Carvalho et.al.|[2605.00256](http://arxiv.org/abs/2605.00256)|null|
 |**2026-04-29**|**MemOVCD: Training-Free Open-Vocabulary Change Detection via Cross-Temporal Memory Reasoning and Global-Local Adaptive Rectification**|Zuzheng Kuang et.al.|[2604.26774](http://arxiv.org/abs/2604.26774)|null|
 |**2026-04-28**|**Robustness Evaluation of a Foundation Segmentation Model Under Simulated Domain Shifts in Abdominal CT: Implications for Health Digital Twin Deployment**|Sanghati Basu et.al.|[2604.25685](http://arxiv.org/abs/2604.25685)|null|
 |**2026-04-25**|**CRC-SAM: SAM-Based Multi-Modal Segmentation and Quantification of Colorectal Cancer in CT, Colonoscopy, and Histology Images**|Daniel Lao et.al.|[2604.24793](http://arxiv.org/abs/2604.24793)|null|
