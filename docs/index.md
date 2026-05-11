@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.05.06
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CLIP Prompt Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**SpecPL: Disentangling Spectral Granularity for Prompt Learning**|Jingtao Zhou et.al.|[2605.04504](http://arxiv.org/abs/2605.04504)|null|
 |**2026-05-04**|**Orbital Nodal Phase as a Pipeline Invariant in Black Hole Timing**|Mehmet Baran Ökten et.al.|[2605.02984](http://arxiv.org/abs/2605.02984)|null|
 |**2026-04-30**|**Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining**|Hyeonseo Jang et.al.|[2604.27715](http://arxiv.org/abs/2604.27715)|null|
 |**2026-04-28**|**Multi-action Tangled Program Graphs for Multi-task Reinforcement Learning with Continuous Control**|Quentin Vacher et.al.|[2604.25369](http://arxiv.org/abs/2604.25369)|null|
@@ -34,6 +35,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Rethinking Dense Optical Flow without Test-Time Scaling**|Praroop Chanda et.al.|[2605.08000](http://arxiv.org/abs/2605.08000)|null|
+|**2026-05-08**|**BRIDGE: Background Routing and Isolated Discrete Gating for Coarse-Mask Local Editing**|Peilin Xiong et.al.|[2605.07846](http://arxiv.org/abs/2605.07846)|null|
+|**2026-05-08**|**APEX: Assumption-free Projection-based Embedding eXamination Metric for Image Quality Assessment**|Caterina Gallegati et.al.|[2605.07786](http://arxiv.org/abs/2605.07786)|null|
+|**2026-05-08**|**Dynamic Mode Decomposition along Depth in Vision Transformers**|Nishant Suresh Aswani et.al.|[2605.07556](http://arxiv.org/abs/2605.07556)|null|
+|**2026-05-08**|**Lightweight Unpaired Smartphone ISP Transfer with Semantic Pseudo-Pairing**|Yujin Cho et.al.|[2605.07495](http://arxiv.org/abs/2605.07495)|null|
+|**2026-05-08**|**DINO-MVR: Multi-View Readout of Frozen DINOv3 for Annotation-Efficient Medical Segmentation**|Wei Jiang et.al.|[2605.07221](http://arxiv.org/abs/2605.07221)|null|
+|**2026-05-08**|**Learning Visual Feature-Based World Models via Residual Latent Action**|Xinyu Zhang et.al.|[2605.07079](http://arxiv.org/abs/2605.07079)|null|
+|**2026-05-07**|**Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models**|Nilaksh et.al.|[2605.06388](http://arxiv.org/abs/2605.06388)|null|
+|**2026-05-07**|**When Labels Have Structure: Improving Image Classification with Hierarchy-Aware Cross-Entropy**|April Chan et.al.|[2605.06274](http://arxiv.org/abs/2605.06274)|null|
+|**2026-05-07**|**Metonymy in vision models undermines attention-based interpretability**|Ananthu Aniraj et.al.|[2605.06095](http://arxiv.org/abs/2605.06095)|null|
 |**2026-05-04**|**DINO Soars: DINOv3 for Open-Vocabulary Semantic Segmentation of Remote Sensing Imagery**|Ryan Faulkenberry et.al.|[2605.03175](http://arxiv.org/abs/2605.03175)|null|
 |**2026-05-04**|**Measuring Differences between Conditional Distributions using Kernel Embeddings**|Peter Moskvichev et.al.|[2605.02260](http://arxiv.org/abs/2605.02260)|null|
 |**2026-05-04**|**SpectraDINO: Bridging the Spectral Gap in Vision Foundation Models via Lightweight Adapters**|Yagiz Nalcakan et.al.|[2605.02258](http://arxiv.org/abs/2605.02258)|null|
@@ -86,6 +97,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**SARA: Semantically Adaptive Relational Alignment for Video Diffusion Models**|Jiesong Lian et.al.|[2605.07800](http://arxiv.org/abs/2605.07800)|null|
+|**2026-05-07**|**Knowledge Transfer Scaling Laws for 3D Medical Imaging**|Ho Hin Lee et.al.|[2605.06859](http://arxiv.org/abs/2605.06859)|null|
+|**2026-05-08**|**Zero-Shot Satellite Image Retrieval through Joint Embeddings: Application to Crisis Response**|James Walsh et.al.|[2605.05405](http://arxiv.org/abs/2605.05405)|null|
 |**2026-05-04**|**OphMAE: Bridging Volumetric and Planar Imaging with a Foundation Model for Adaptive Ophthalmological Diagnosis**|Tienyu Chang et.al.|[2605.02714](http://arxiv.org/abs/2605.02714)|null|
 |**2026-05-04**|**Rethinking Electro-Optical Vision Foundation Models for Remote Sensing Retrieval: A Controlled Comparison with Generalist VFM**|Hyobin Park et.al.|[2605.02283](http://arxiv.org/abs/2605.02283)|null|
 |**2026-05-04**|**SpectraDINO: Bridging the Spectral Gap in Vision Foundation Models via Lightweight Adapters**|Yagiz Nalcakan et.al.|[2605.02258](http://arxiv.org/abs/2605.02258)|null|
@@ -148,6 +162,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**TimeLesSeg: Unified Contrast-Agnostic Cross-Sectional and Longitudinal MS Lesion Segmentation via a Stochastic Generative Model**|Vicent Caselles-Ballester et.al.|[2605.07955](http://arxiv.org/abs/2605.07955)|null|
+|**2026-05-08**|**DINO-MVR: Multi-View Readout of Frozen DINOv3 for Annotation-Efficient Medical Segmentation**|Wei Jiang et.al.|[2605.07221](http://arxiv.org/abs/2605.07221)|null|
+|**2026-05-07**|**Knowledge Transfer Scaling Laws for 3D Medical Imaging**|Ho Hin Lee et.al.|[2605.06859](http://arxiv.org/abs/2605.06859)|null|
+|**2026-05-07**|**Medical Imaging Classification with Cold-Atom Reservoir Computing using Auto-Encoders and Surrogate-Driven Training**|Nuno Batista et.al.|[2605.06727](http://arxiv.org/abs/2605.06727)|null|
+|**2026-05-07**|**ZScribbleSeg: A comprehensive segmentation framework with modeling of efficient annotation and maximization of scribble supervision**|Ke Zhang et.al.|[2605.06266](http://arxiv.org/abs/2605.06266)|null|
+|**2026-05-07**|**Beyond Forgetting in Continual Medical Image Segmentation: A Comprehensive Benchmark Study**|Bomin Wang et.al.|[2605.06160](http://arxiv.org/abs/2605.06160)|null|
+|**2026-05-07**|**The autoPET3 Challenge -- Automated Lesion Segmentation in Whole-Body PET/CT - Multitracer Multicenter Generalization**|Jakob Dexl et.al.|[2605.05775](http://arxiv.org/abs/2605.05775)|null|
+|**2026-05-06**|**FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching**|Andranik Sargsyan et.al.|[2605.05077](http://arxiv.org/abs/2605.05077)|null|
+|**2026-05-06**|**An MRI-informed poromechanical model for organ-scale prediction of glioma growth**|Meryem Abbad Andaloussi et.al.|[2605.05013](http://arxiv.org/abs/2605.05013)|null|
+|**2026-05-06**|**Attention-Based Chaotic Self-Supervision for Medical Image Classification**|Joao Batista Florindo et.al.|[2605.04985](http://arxiv.org/abs/2605.04985)|null|
 |**2026-05-05**|**Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training**|Adwaitt Pandya et.al.|[2605.04008](http://arxiv.org/abs/2605.04008)|null|
 |**2026-05-05**|**A Robust Unsupervised Domain Adaptation Framework for Medical Image Classification Using RKHS-MMD**|Sapna Sachan et.al.|[2605.03787](http://arxiv.org/abs/2605.03787)|null|
 |**2026-05-05**|**Dante: An Open Source Model Pre-Training and Fine-Tuning Tool for the Dafne Federated Framework for Medical Image Segmentation**|Giuseppe Timpano et.al.|[2605.03602](http://arxiv.org/abs/2605.03602)|null|
@@ -201,8 +225,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**SARA: Semantically Adaptive Relational Alignment for Video Diffusion Models**|Jiesong Lian et.al.|[2605.07800](http://arxiv.org/abs/2605.07800)|null|
+|**2026-05-08**|**UniD-Shift: Towards Unified Semantic Segmentation via Interpretable Share-Private Multimodal Decomposition**|Shuai Zhang et.al.|[2605.07356](http://arxiv.org/abs/2605.07356)|null|
+|**2026-05-08**|**RCoT-Seg: Reinforced Chain-of-Thought for Video Reasoning and Segmentation**|Junwei Wen et.al.|[2605.07334](http://arxiv.org/abs/2605.07334)|null|
+|**2026-05-08**|**Qwen3-VL-Seg: Unlocking Open-World Referring Segmentation with Vision-Language Grounding**|Yuan Yao et.al.|[2605.07141](http://arxiv.org/abs/2605.07141)|null|
+|**2026-05-07**|**GA3T: A Ground-Aerial Terrain Traversability Dataset for Heterogeneous Robot Teams in Unstructured Environments**|Siwei Cai et.al.|[2605.06478](http://arxiv.org/abs/2605.06478)|null|
+|**2026-05-07**|**Prompt-Free and Efficient SAM2 Adaptation for Biomedical Semantic Segmentation via Dual Adapters**|Hinako Mitsuoka et.al.|[2605.05979](http://arxiv.org/abs/2605.05979)|null|
+|**2026-05-06**|**Ilov3Splat: Instance-Level Open-Vocabulary 3D Scene Understanding in Gaussian Splatting**|Binh Long Nguyen et.al.|[2605.04506](http://arxiv.org/abs/2605.04506)|null|
 |**2026-05-05**|**SAM-NER: Semantic Archetype Mediation for Zero-Shot Named Entity Recognition**|Ruichu Cai et.al.|[2605.03706](http://arxiv.org/abs/2605.03706)|null|
-|**2026-05-05**|**VL-SAM-v3: Memory-Guided Visual Priors for Open-World Object Detection**|Chih-Chung Liu et.al.|[2605.03456](http://arxiv.org/abs/2605.03456)|null|
+|**2026-05-06**|**VL-SAM-v3: Memory-Guided Visual Priors for Open-World Object Detection**|Chih-Chung Liu et.al.|[2605.03456](http://arxiv.org/abs/2605.03456)|null|
 |**2026-05-05**|**Dual-Foundation Models for Unsupervised Domain Adaptation**|Yerin Cheon et.al.|[2605.03365](http://arxiv.org/abs/2605.03365)|null|
 |**2026-05-04**|**Approaching human parity in the quality of automated organoid image segmentation**|Chase Cartwright et.al.|[2605.03053](http://arxiv.org/abs/2605.03053)|null|
 |**2026-05-04**|**ViewSAM: Learning View-aware Cross-modal Semantics for Weakly Supervised Cross-view Referring Multi-Object Tracking**|Jiawei Ge et.al.|[2605.02638](http://arxiv.org/abs/2605.02638)|null|
