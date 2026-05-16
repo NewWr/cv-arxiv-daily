@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.05.11
+## Updated on 2026.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CLIP Prompt Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning**|Yan Jiang et.al.|[2605.14809](http://arxiv.org/abs/2605.14809)|null|
+|**2026-05-13**|**MAPLE: Latent Multi-Agent Play for End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2605.14201](http://arxiv.org/abs/2605.14201)|null|
+|**2026-05-12**|**Incommensurate Spin-Density Waves in a Frustrated Maple-Leaf Lattice Ferromagnet**|Paul L. Ebert et.al.|[2605.12592](http://arxiv.org/abs/2605.12592)|null|
+|**2026-05-13**|**A New Timing Signature of Black Hole Spin: Time-Delay Asymmetry in Kerr Accretion Flows**|Shakibul Chowdhury et.al.|[2605.11734](http://arxiv.org/abs/2605.11734)|null|
+|**2026-05-12**|**Reviving In-domain Fine-tuning Methods for Source-Free Cross-domain Few-shot Learning**|Yaze Zhao et.al.|[2605.11659](http://arxiv.org/abs/2605.11659)|null|
+|**2026-05-11**|**PRISM: Generation-Time Detection and Mitigation of Secret Leakage in Multi-Agent LLM Pipelines**|Riya Tapwal et.al.|[2605.10614](http://arxiv.org/abs/2605.10614)|null|
+|**2026-05-10**|**Optical Appearance of the Kerr-Bertotti-Robinson Black Hole with a Magnetically Driven Synchrotron Emissivity Model**|Zeng-Yi Zhang et.al.|[2605.09593](http://arxiv.org/abs/2605.09593)|null|
+|**2026-05-10**|**When Adaptation Fails: A Gradient-Based Diagnosis of Collapsed Gating in Vision-Language Prompt Learning**|Yunxuan Fang et.al.|[2605.09549](http://arxiv.org/abs/2605.09549)|null|
+|**2026-05-09**|**Field-Localized Forgery Detection for Digital Identity Documents**|Abhishek Kumar et.al.|[2605.09089](http://arxiv.org/abs/2605.09089)|null|
+|**2026-05-09**|**Single-Configuration Attack Success Rate Is Not Enough: Jailbreak Evaluations Should Report Distributional Attack Success**|Carsten Maple et.al.|[2605.09070](http://arxiv.org/abs/2605.09070)|null|
 |**2026-05-06**|**SpecPL: Disentangling Spectral Granularity for Prompt Learning**|Jingtao Zhou et.al.|[2605.04504](http://arxiv.org/abs/2605.04504)|null|
 |**2026-05-04**|**Orbital Nodal Phase as a Pipeline Invariant in Black Hole Timing**|Mehmet Baran Ökten et.al.|[2605.02984](http://arxiv.org/abs/2605.02984)|null|
 |**2026-04-30**|**Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining**|Hyeonseo Jang et.al.|[2604.27715](http://arxiv.org/abs/2604.27715)|null|
@@ -35,6 +45,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**A Systematic Evaluation of Imbalance Handling Methods in Biomedical Binary Classification**|Jiandong Chen et.al.|[2605.14147](http://arxiv.org/abs/2605.14147)|null|
+|**2026-05-13**|**Rethinking the Good Enough Embedding for Easy Few-Shot Learning**|Michael Karnes et.al.|[2605.14145](http://arxiv.org/abs/2605.14145)|null|
+|**2026-05-13**|**Bridging the Rural Healthcare Gap: A Cascaded Edge-Cloud Architecture for Automated Retinal Screening**|Nishi Doshi et.al.|[2605.14108](http://arxiv.org/abs/2605.14108)|null|
+|**2026-05-13**|**Support-Conditioned Flow Matching Is Kernel Smoothing**|Daniel Matsui Smola et.al.|[2605.13386](http://arxiv.org/abs/2605.13386)|null|
+|**2026-05-13**|**VIP: Visual-guided Prompt Evolution for Efficient Dense Vision-Language Inference**|Hao Zhu et.al.|[2605.12325](http://arxiv.org/abs/2605.12325)|null|
+|**2026-05-12**|**Anomaly-Aware Vision-Language Adapters for Zero-Shot Anomaly Detection**|Muhammad Aqeel et.al.|[2605.12069](http://arxiv.org/abs/2605.12069)|null|
+|**2026-05-11**|**VEGA: Visual Encoder Grounding Alignment for Spatially-Aware Vision-Language-Action Models**|Hao Wang et.al.|[2605.10485](http://arxiv.org/abs/2605.10485)|null|
+|**2026-05-09**|**When Style Similarity Scores Fail: Diagnosing Raw CSD Cosine in Artist-Style Evaluation**|Jörg Frochte et.al.|[2605.09030](http://arxiv.org/abs/2605.09030)|null|
+|**2026-05-08**|**PaceVGGT: Pre-Alternating-Attention Token Pruning for Visual Geometry Transformers**|Haotang Li et.al.|[2605.08371](http://arxiv.org/abs/2605.08371)|null|
 |**2026-05-08**|**Rethinking Dense Optical Flow without Test-Time Scaling**|Praroop Chanda et.al.|[2605.08000](http://arxiv.org/abs/2605.08000)|null|
 |**2026-05-08**|**BRIDGE: Background Routing and Isolated Discrete Gating for Coarse-Mask Local Editing**|Peilin Xiong et.al.|[2605.07846](http://arxiv.org/abs/2605.07846)|null|
 |**2026-05-08**|**APEX: Assumption-free Projection-based Embedding eXamination Metric for Image Quality Assessment**|Caterina Gallegati et.al.|[2605.07786](http://arxiv.org/abs/2605.07786)|null|
@@ -97,6 +116,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Learning with Semantic Priors: Stabilizing Point-Supervised Infrared Small Target Detection via Hierarchical Knowledge Distillation**|Yuanhang Yao et.al.|[2605.14346](http://arxiv.org/abs/2605.14346)|null|
+|**2026-05-12**|**Elastic Attention Cores for Scalable Vision Transformers**|Alan Z. Song et.al.|[2605.12491](http://arxiv.org/abs/2605.12491)|null|
+|**2026-05-11**|**BGG: Bridging the Geometric Gap between Cross-View images by Vision Foundation Model Adaptation for Geo-Localization**|Wei Wang et.al.|[2605.10345](http://arxiv.org/abs/2605.10345)|null|
+|**2026-05-11**|**AdaptSplat: Adapting Vision Foundation Models for Feed-Forward 3D Gaussian Splatting**|Mingwei Xing et.al.|[2605.10239](http://arxiv.org/abs/2605.10239)|null|
+|**2026-05-10**|**VFM-SDM: A vision foundation model-based framework for training-free, marker-free, and calibration-free structural displacement measurement**|Qingyu Xian et.al.|[2605.09677](http://arxiv.org/abs/2605.09677)|null|
+|**2026-05-07**|**Dimensional Coactivation for Representational Consistency in Frozen Vision Foundation Models**|Izaldein Al-Zyoud Abdulmotaleb El Saddik et.al.|[2605.08249](http://arxiv.org/abs/2605.08249)|null|
+|**2026-05-06**|**SPECTRA-Net: Scalable Pipeline for Explainable Cross-domain Tensor Representations for AI-generated Images Detection**|Sarra Arab et.al.|[2605.08226](http://arxiv.org/abs/2605.08226)|null|
 |**2026-05-08**|**SARA: Semantically Adaptive Relational Alignment for Video Diffusion Models**|Jiesong Lian et.al.|[2605.07800](http://arxiv.org/abs/2605.07800)|null|
 |**2026-05-07**|**Knowledge Transfer Scaling Laws for 3D Medical Imaging**|Ho Hin Lee et.al.|[2605.06859](http://arxiv.org/abs/2605.06859)|null|
 |**2026-05-08**|**Zero-Shot Satellite Image Retrieval through Joint Embeddings: Application to Crisis Response**|James Walsh et.al.|[2605.05405](http://arxiv.org/abs/2605.05405)|null|
@@ -162,6 +188,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Med-DisSeg: Dispersion-Driven Representation Learning for Fine-Grained Medical Image Segmentation**|Zhiquan Chen et.al.|[2605.14579](http://arxiv.org/abs/2605.14579)|null|
+|**2026-05-14**|**SpectraFlow: Unifying Structural Pretraining and Frequency Adaptation for Medical Image Segmentation**|Zhiquan Chen et.al.|[2605.14566](http://arxiv.org/abs/2605.14566)|null|
+|**2026-05-14**|**DermAgent: A Self-Reflective Agentic System for Dermatological Image Analysis with Multi-Tool Reasoning and Traceable Decision-Making**|Yize Liu et.al.|[2605.14403](http://arxiv.org/abs/2605.14403)|null|
+|**2026-05-14**|**Generative Deep Learning for Computational Destaining and Restaining of Unregistered Digital Pathology Images**|Aarushi Kulkarni et.al.|[2605.14251](http://arxiv.org/abs/2605.14251)|null|
+|**2026-05-13**|**Keyed Nonlinear Transform: Lightweight Privacy-Enhancing Feature Sharing for Medical Image Analysis**|Haebom Lee et.al.|[2605.14123](http://arxiv.org/abs/2605.14123)|null|
+|**2026-05-13**|**VoxCor: Training-Free Volumetric Features for Multimodal Voxel Correspondence**|Guney Tombak et.al.|[2605.13798](http://arxiv.org/abs/2605.13798)|null|
+|**2026-05-13**|**Generating synthetic computed tomography for radiotherapy: SynthRAD2025 challenge report**|Viktor Rogowski et.al.|[2605.13555](http://arxiv.org/abs/2605.13555)|null|
+|**2026-05-13**|**CA-GCL: Cross-Anatomy Global-Local Contrastive Learning for Robust 3D Medical Image Understanding**|Hanwen Zhang et.al.|[2605.13544](http://arxiv.org/abs/2605.13544)|null|
+|**2026-05-13**|**Adaptive Conformal Prediction for Reliable and Explainable Medical Image Classification**|One Octadion et.al.|[2605.12917](http://arxiv.org/abs/2605.12917)|null|
+|**2026-05-12**|**CRAFT: Clinical Reward-Aligned Finetuning for Medical Image Synthesis**|Yunsung Chung et.al.|[2605.12650](http://arxiv.org/abs/2605.12650)|null|
 |**2026-05-08**|**TimeLesSeg: Unified Contrast-Agnostic Cross-Sectional and Longitudinal MS Lesion Segmentation via a Stochastic Generative Model**|Vicent Caselles-Ballester et.al.|[2605.07955](http://arxiv.org/abs/2605.07955)|null|
 |**2026-05-08**|**DINO-MVR: Multi-View Readout of Frozen DINOv3 for Annotation-Efficient Medical Segmentation**|Wei Jiang et.al.|[2605.07221](http://arxiv.org/abs/2605.07221)|null|
 |**2026-05-07**|**Knowledge Transfer Scaling Laws for 3D Medical Imaging**|Ho Hin Lee et.al.|[2605.06859](http://arxiv.org/abs/2605.06859)|null|
@@ -225,6 +261,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Quantitative Video World Model Evaluation for Geometric-Consistency**|Jiaxin Wu et.al.|[2605.15185](http://arxiv.org/abs/2605.15185)|null|
+|**2026-05-13**|**Venus-DeFakerOne: Unified Fake Image Detection & Localization**|GuangJian Team et.al.|[2605.14091](http://arxiv.org/abs/2605.14091)|null|
+|**2026-05-13**|**MedCore: Boundary-Preserving Medical Core Pruning for MedSAM**|Cenwei Zhang et.al.|[2605.13688](http://arxiv.org/abs/2605.13688)|null|
+|**2026-05-13**|**Weakly Supervised Segmentation as Semantic-Based Regularization**|Stefano Colamonaco et.al.|[2605.13674](http://arxiv.org/abs/2605.13674)|null|
+|**2026-05-13**|**Seg-Agent: Test-Time Multimodal Reasoning for Training-Free Language-Guided Segmentation**|Chao Hao et.al.|[2605.12953](http://arxiv.org/abs/2605.12953)|null|
+|**2026-05-12**|**M $^4$ -SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection**|Jiyuan Liu et.al.|[2605.11760](http://arxiv.org/abs/2605.11760)|null|
+|**2026-05-12**|**Focusable Monocular Depth Estimation**|Yuxin Du et.al.|[2605.11756](http://arxiv.org/abs/2605.11756)|null|
+|**2026-05-12**|**PointGS: Semantic-Consistent Unsupervised 3D Point Cloud Segmentation with 3D Gaussian Splatting**|Yixiao Song et.al.|[2605.11520](http://arxiv.org/abs/2605.11520)|null|
+|**2026-05-11**|**Segment Anything with Robust Uncertainty-Accuracy Correlation**|Hongyou Zhou et.al.|[2605.10603](http://arxiv.org/abs/2605.10603)|null|
+|**2026-05-11**|**Frequency Adapter with SAM for Generalized Medical Image Segmentation**|Phuoc-Nguyen Bui et.al.|[2605.09925](http://arxiv.org/abs/2605.09925)|null|
 |**2026-05-08**|**SARA: Semantically Adaptive Relational Alignment for Video Diffusion Models**|Jiesong Lian et.al.|[2605.07800](http://arxiv.org/abs/2605.07800)|null|
 |**2026-05-08**|**UniD-Shift: Towards Unified Semantic Segmentation via Interpretable Share-Private Multimodal Decomposition**|Shuai Zhang et.al.|[2605.07356](http://arxiv.org/abs/2605.07356)|null|
 |**2026-05-08**|**RCoT-Seg: Reinforced Chain-of-Thought for Video Reasoning and Segmentation**|Junwei Wen et.al.|[2605.07334](http://arxiv.org/abs/2605.07334)|null|
