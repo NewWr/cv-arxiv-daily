@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.31
+## Updated on 2026.06.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CLIP Prompt Learning
@@ -56,6 +56,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**Interpretability Without Tradeoffs: Disentangling Polysemanticity At Equal Predictive Performance**|Doğukan Bağcı et.al.|[2605.31304](http://arxiv.org/abs/2605.31304)|null|
+|**2026-05-29**|**Topologically Consistent Multi-view 3D Head Reconstruction via Coarse-Guided Layered Surface Sampling**|Timo Bolkart et.al.|[2605.31283](http://arxiv.org/abs/2605.31283)|null|
+|**2026-05-29**|**RDGen: Demonstration Generation for High-Quality Robot Learning via Reinforcement Learning**|Zijian Zhu et.al.|[2605.30957](http://arxiv.org/abs/2605.30957)|null|
 |**2026-05-28**|**Geometry Matters: 3D Foundation Priors for Learning Semantic Correspondence**|Artur Jesslen et.al.|[2605.30093](http://arxiv.org/abs/2605.30093)|null|
 |**2026-05-28**|**Genetically Aligned Patient Representations Improve Hematological Diagnosis**|Muhammed Furkan Dasdelen et.al.|[2605.29980](http://arxiv.org/abs/2605.29980)|null|
 |**2026-05-28**|**Turbulence-Robust Dynamic Object Segmentation with Multi-Signal Priors and SAM2 Refinement**|Bolian Peng et.al.|[2605.29292](http://arxiv.org/abs/2605.29292)|null|
@@ -157,6 +160,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597](http://arxiv.org/abs/2605.31597)|null|
 |**2026-05-28**|**From General Vision to Reliable Traversability Estimation: Adapting Vision Foundation Models for Unstructured Outdoor Environments**|Ji-Hoon Hwang et.al.|[2605.29565](http://arxiv.org/abs/2605.29565)|null|
 |**2026-05-28**|**EarthShift: a benchmark for measuring robustness to real-world distribution shifts in Earth observation**|Kelsey Doerksen et.al.|[2605.29330](http://arxiv.org/abs/2605.29330)|null|
 |**2026-05-27**|**SIGMA: Bridging Structural and Distributional Gaps for Vision Foundation Model Adaptation**|Lingyu Xiong et.al.|[2605.27893](http://arxiv.org/abs/2605.27893)|null|
@@ -258,6 +262,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**BiSegMamba: Efficient Bidirectional Tri-Oriented Mamba for 3D Medical Image Segmentation**|Bakht Zada et.al.|[2605.30972](http://arxiv.org/abs/2605.30972)|null|
+|**2026-05-29**|**LegSegNet: A Public Deep Learning System for Lower Extremity CT Tissue Segmentation and Quantification**|Yuwen Chen et.al.|[2605.30829](http://arxiv.org/abs/2605.30829)|null|
+|**2026-05-28**|**A Novel Global Context-aware Deep Neural Network for Enhanced Brain Tumor Segmentation using Magnetic Resonance Images**|Sourjya Mukherjee et.al.|[2605.30510](http://arxiv.org/abs/2605.30510)|null|
 |**2026-05-28**|**CCS: Clinical Consensus Selection for Radiology Report Generation**|Xi Zhang et.al.|[2605.30131](http://arxiv.org/abs/2605.30131)|null|
 |**2026-05-28**|**Fairness Beyond Demographics: Optimizing Performance Across Appearance-Based Hidden Cohorts in Medical Imaging**|Milad Masroor et.al.|[2605.29827](http://arxiv.org/abs/2605.29827)|null|
 |**2026-05-26**|**Not All NVFP4 QAT Recipes Are Equal: How Architecture and Scale Shape Model Quality for Anomaly Segmentation**|Zijian Du et.al.|[2605.27616](http://arxiv.org/abs/2605.27616)|null|
@@ -360,6 +367,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy**|Suyog Jadhav et.al.|[2605.31284](http://arxiv.org/abs/2605.31284)|null|
 |**2026-05-28**|**From General Vision to Reliable Traversability Estimation: Adapting Vision Foundation Models for Unstructured Outdoor Environments**|Ji-Hoon Hwang et.al.|[2605.29565](http://arxiv.org/abs/2605.29565)|null|
 |**2026-05-28**|**ESAM++: Efficient Online 3D Perception on the Edge**|Qin Liu et.al.|[2605.29505](http://arxiv.org/abs/2605.29505)|null|
 |**2026-05-28**|**One Click per Cell Type Suffices: Training-free Group Interaction for Cell Instance Segmentation**|Sanghyun Jo et.al.|[2605.29429](http://arxiv.org/abs/2605.29429)|null|
