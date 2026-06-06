@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.01
+## Updated on 2026.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CLIP Prompt Learning
@@ -262,6 +262,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-04**|**Symb-xMIL: Symbolic Explanations for Multiple Instance Learning in Digital Pathology**|Yanqing Luo et.al.|[2606.06224](http://arxiv.org/abs/2606.06224)|null|
+|**2026-06-04**|**SC-MFJ: A Simple Haptic Quality Metric for Medical Image Segmentation**|Souraj Adhikary et.al.|[2606.06199](http://arxiv.org/abs/2606.06199)|null|
+|**2026-06-04**|**MS-DKC: A Dataset Knowledge Card Framework for Designing and Adapting Medical Image Segmentation Models**|Tariq M. Khan et.al.|[2606.06103](http://arxiv.org/abs/2606.06103)|null|
+|**2026-06-04**|**Dual Feature Decoupling for Fine-Grained OOD Detection**|Xiaokun Li et.al.|[2606.05536](http://arxiv.org/abs/2606.05536)|null|
+|**2026-06-03**|**ORACLE-CT: Anatomy-Aware Support Pooling for CT Classification**|Lavsen Dahal et.al.|[2606.05460](http://arxiv.org/abs/2606.05460)|null|
+|**2026-06-03**|**CDPM-Align: Multi-Scale Guidance-Aligned Diffusion Pretraining for Robust Few-Shot Anatomical Landmark Detection**|Roberto Di Via et.al.|[2606.04898](http://arxiv.org/abs/2606.04898)|null|
+|**2026-06-03**|**HD-DinoMoE: A Class-Aware Hierarchical Dual Mixture-of-Experts Network for Scleral Anomaly Segmentation in Complex Acquisition Scenarios**|Yinxiang Yu et.al.|[2606.04888](http://arxiv.org/abs/2606.04888)|null|
+|**2026-06-03**|**Enhancing MedSAM with a Lightweight Box Predictor for Medical Image Segmentation**|Amirhossein Movahedisefat et.al.|[2606.04705](http://arxiv.org/abs/2606.04705)|null|
+|**2026-06-03**|**A New Angle on Bones: Robust Pose Estimation in X-Ray and Ultrasound**|Ron Keuth et.al.|[2606.04700](http://arxiv.org/abs/2606.04700)|null|
+|**2026-06-03**|**Implicit Fuzzification via Bounded Noise Injection for Robust Medical Image Segmentation**|Bisheng Tang et.al.|[2606.04427](http://arxiv.org/abs/2606.04427)|null|
 |**2026-05-29**|**BiSegMamba: Efficient Bidirectional Tri-Oriented Mamba for 3D Medical Image Segmentation**|Bakht Zada et.al.|[2605.30972](http://arxiv.org/abs/2605.30972)|null|
 |**2026-05-29**|**LegSegNet: A Public Deep Learning System for Lower Extremity CT Tissue Segmentation and Quantification**|Yuwen Chen et.al.|[2605.30829](http://arxiv.org/abs/2605.30829)|null|
 |**2026-05-28**|**A Novel Global Context-aware Deep Neural Network for Enhanced Brain Tumor Segmentation using Magnetic Resonance Images**|Sourjya Mukherjee et.al.|[2605.30510](http://arxiv.org/abs/2605.30510)|null|
@@ -367,6 +377,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-04**|**SAM-Flow: Source-Anchored Masked Flow for Training-Free Image Editing**|Haowang Cui et.al.|[2606.06228](http://arxiv.org/abs/2606.06228)|null|
+|**2026-06-03**|**TopoPult-SSL: Gland-Mask-Free Cross-Device Meibomian Gland Segmentation via Self-Distilled Weak Clinical Priors**|Nicolò Savioli et.al.|[2606.05347](http://arxiv.org/abs/2606.05347)|null|
+|**2026-06-03**|**Enhancing MedSAM with a Lightweight Box Predictor for Medical Image Segmentation**|Amirhossein Movahedisefat et.al.|[2606.04705](http://arxiv.org/abs/2606.04705)|null|
+|**2026-06-02**|**Seg2Track++: Probabilistic Track Validation and Data Association for Multi-Object Tracking and Segmentation**|Diogo Mendonça et.al.|[2606.03875](http://arxiv.org/abs/2606.03875)|null|
+|**2026-06-02**|**AmbientEye: A Dataset for Pupil Segmentation under Natural Ambient Infrared Illumination**|Mingyu Han et.al.|[2606.03774](http://arxiv.org/abs/2606.03774)|null|
+|**2026-06-03**|**CR-Seg: Attention-Guided and CoT-Enhanced Coarse-to-Refined Reasoning Segmentation**|Yifan Cao et.al.|[2606.03564](http://arxiv.org/abs/2606.03564)|null|
+|**2026-06-02**|**SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching**|Xu Pan et.al.|[2606.03406](http://arxiv.org/abs/2606.03406)|null|
+|**2026-05-30**|**Single-Channel Tissue Segmentation via Cross-Modal Distillation from Foundation Models**|Sakib Mohammad et.al.|[2606.00928](http://arxiv.org/abs/2606.00928)|null|
+|**2026-06-02**|**3D Segment Anything Model with Visual Mamba for Diagnosing Placenta Accreta Spectrum**|Yuliang Zhang et.al.|[2606.00489](http://arxiv.org/abs/2606.00489)|null|
+|**2026-05-30**|**GeoSAM-3D: Geodesic Prompt Propagation for Open-Vocabulary 3D Scene Segmentation from Monocular Video**|Arun Sharma et.al.|[2606.00447](http://arxiv.org/abs/2606.00447)|null|
 |**2026-05-29**|**SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy**|Suyog Jadhav et.al.|[2605.31284](http://arxiv.org/abs/2605.31284)|null|
 |**2026-05-28**|**From General Vision to Reliable Traversability Estimation: Adapting Vision Foundation Models for Unstructured Outdoor Environments**|Ji-Hoon Hwang et.al.|[2605.29565](http://arxiv.org/abs/2605.29565)|null|
 |**2026-05-28**|**ESAM++: Efficient Online 3D Perception on the Edge**|Qin Liu et.al.|[2605.29505](http://arxiv.org/abs/2605.29505)|null|
