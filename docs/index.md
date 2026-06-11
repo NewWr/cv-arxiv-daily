@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.06.08
+## Updated on 2026.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CLIP Prompt Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**The 35-Myr old infant planet TOI-837 b has a mildly misaligned orbit**|G. Mantovan et.al.|[2606.12010](http://arxiv.org/abs/2606.12010)|null|
+|**2026-06-09**|**Ring Position Angles and Spin in M87* and Sgr A***|Nicholas S. Conroy et.al.|[2606.11322](http://arxiv.org/abs/2606.11322)|null|
+|**2026-06-09**|**AGN-driven BBH mergers: Black hole populations and hierarchical growth across the AGN parameter space**|Maria Paola Vaccaro et.al.|[2606.10823](http://arxiv.org/abs/2606.10823)|null|
+|**2026-06-08**|**Graviton-mediated entanglement due to light bending from a quantum rotor**|Dripto Biswas et.al.|[2606.09991](http://arxiv.org/abs/2606.09991)|null|
+|**2026-06-05**|**Superconductivity in the high-pressure tetragonal phase of UTe2**|Yuhang Deng et.al.|[2606.07903](http://arxiv.org/abs/2606.07903)|null|
+|**2026-06-05**|**SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models**|Sunoh Kim et.al.|[2606.06943](http://arxiv.org/abs/2606.06943)|null|
+|**2026-06-04**|**Analytic insight into the physics of SASI II. Spiral instability of the prograde mode in a rotating stellar core**|T. Foglizzo et.al.|[2606.06471](http://arxiv.org/abs/2606.06471)|null|
+|**2026-06-03**|**Learned Subspace Compression for Communication-Efficient Pipeline Parallelism**|Paul Janson et.al.|[2606.05484](http://arxiv.org/abs/2606.05484)|null|
+|**2026-06-03**|**Self-force calculations with numerical relativity methods**|Nils L. Vu et.al.|[2606.04998](http://arxiv.org/abs/2606.04998)|null|
+|**2026-06-01**|**The Role of Stellar Spin in Repeating Partial Tidal Disruption Events**|Ananya Bandopadhyay et.al.|[2606.02692](http://arxiv.org/abs/2606.02692)|null|
 |**2026-05-28**|**Gyroscopic Precession in Axisymmetric Kerr Spacetime: Horizon Regularity and Coordinate Effects**|Paulami Majumder et.al.|[2605.29759](http://arxiv.org/abs/2605.29759)|null|
 |**2026-05-23**|**Testing loop quantum gravity through EHT observations of M87* and Sgr A* using rotating holonomy-corrected black holes**|Heena Ali et.al.|[2605.28871](http://arxiv.org/abs/2605.28871)|null|
 |**2026-05-25**|**Equatorial Circular Motion of Charged Test Particles in a Weakly Magnetized Taub--NUT Background**|B. J. Bansawang et.al.|[2605.26395](http://arxiv.org/abs/2605.26395)|null|
@@ -56,6 +66,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**The TEAMx Observational Campaign**|Manuela Lehner et.al.|[2606.12152](http://arxiv.org/abs/2606.12152)|null|
+|**2026-06-10**|**Tac-DINO: Learning Vision-Tactile Features with Patch Alignment**|Hong Li et.al.|[2606.12069](http://arxiv.org/abs/2606.12069)|null|
+|**2026-06-10**|**Frozen Foundation-Model Embeddings Discard Small-Lesion Signal in Chest Radiography: Implications for Pre-Deployment Evaluation**|Raajitha Muthyala et.al.|[2606.11606](http://arxiv.org/abs/2606.11606)|null|
+|**2026-06-10**|**FreqKD: Frequency-Decoupled Cross-Modal Knowledge Distillation for Infrared Object Detection**|Keval Thaker et.al.|[2606.11572](http://arxiv.org/abs/2606.11572)|null|
+|**2026-06-10**|**VL-DINO: Leveraging CLIP Vision-Language Knowledge for Open-Vocabulary Object Detectio**|Hao Zhang et.al.|[2606.11546](http://arxiv.org/abs/2606.11546)|null|
+|**2026-06-07**|**Patch-Level DINOv2 Scoring for Gravitational-Wave Glitch Detection: Breaking the Signal Dilution Barrier via Vector-Quantized Local Feature Indexing**|Luca Cirfeta et.al.|[2606.09933](http://arxiv.org/abs/2606.09933)|null|
+|**2026-06-07**|**Syntax-driven Incremental Program Verification of Matching Logic Properties**|Domenico Bianculli et.al.|[2606.08824](http://arxiv.org/abs/2606.08824)|null|
+|**2026-06-06**|**Self-Supervised Vision Transformers for CBCT-Based Detection of Temporomandibular Joint Osteoarthritis**|Shradhdha Trivedi et.al.|[2606.08364](http://arxiv.org/abs/2606.08364)|null|
+|**2026-06-06**|**Aqua Boundary-Saliency Attention Module for Lightweight Underwater Salient Instance Segmentation Detection Transformer**|M. Fazri Nizar et.al.|[2606.08002](http://arxiv.org/abs/2606.08002)|null|
+|**2026-06-05**|**The Cross-Architecture Substrate: A Domain-Transcendent, Calibration-Surviving Geometric Invariant of Modern Vision Encoders**|Yousef Radwan et.al.|[2606.07882](http://arxiv.org/abs/2606.07882)|null|
 |**2026-05-29**|**Interpretability Without Tradeoffs: Disentangling Polysemanticity At Equal Predictive Performance**|Doğukan Bağcı et.al.|[2605.31304](http://arxiv.org/abs/2605.31304)|null|
 |**2026-05-29**|**Topologically Consistent Multi-view 3D Head Reconstruction via Coarse-Guided Layered Surface Sampling**|Timo Bolkart et.al.|[2605.31283](http://arxiv.org/abs/2605.31283)|null|
 |**2026-05-29**|**RDGen: Demonstration Generation for High-Quality Robot Learning via Reinforcement Learning**|Zijian Zhu et.al.|[2605.30957](http://arxiv.org/abs/2605.30957)|null|
@@ -160,6 +180,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**SheafStain: Sheaf-Theoretic Schrödinger Bridge for Spatially and Biologically Coherent Virtual Staining**|Hyeongyeol Lim et.al.|[2606.11846](http://arxiv.org/abs/2606.11846)|null|
+|**2026-06-10**|**Cross-Modal Benchmarking for Robotic Perception in Natural Environments**|David Hall et.al.|[2606.11563](http://arxiv.org/abs/2606.11563)|null|
+|**2026-06-09**|**IDEAL: In-DEpth ALignment Makes A Discrete Representation AutoEncoder**|Yitong Chen et.al.|[2606.11096](http://arxiv.org/abs/2606.11096)|null|
+|**2026-06-09**|**GRAR: Glass-induced Reflection Artifact Removal in LiDAR Point Clouds**|Wanpeng Shao et.al.|[2606.10541](http://arxiv.org/abs/2606.10541)|null|
+|**2026-06-07**|**PhysAgent: Automating Physics-Based 4D Synthesis via Trajectory-Grounded Multi-Agent Feedback**|Chunji Lv et.al.|[2606.08688](http://arxiv.org/abs/2606.08688)|null|
+|**2026-06-05**|**STREAM: Stochastic Riemannian Flow Matching with Anisotropic Decoder for Digital Histopathology Image Generation**|Won June Cho et.al.|[2606.07036](http://arxiv.org/abs/2606.07036)|null|
+|**2026-06-05**|**DaX: Learning General Pathology Representations Across Scales**|Bokai Zhao et.al.|[2606.06983](http://arxiv.org/abs/2606.06983)|null|
+|**2026-06-05**|**DRIFT: From Robustness Gaps to Invariance Manifolds for AI-Generated Image Detection**|Abhishek Ameta et.al.|[2606.06918](http://arxiv.org/abs/2606.06918)|null|
+|**2026-06-03**|**Attention Consistent Longitudinal Medical Visual Question Answering Guided by Vision Foundation Models**|Jialin Wu et.al.|[2606.06534](http://arxiv.org/abs/2606.06534)|null|
+|**2026-06-04**|**LadderMan: Learning Humanoid Perceptive Ladder Climbing**|Siheng Zhao et.al.|[2606.05873](http://arxiv.org/abs/2606.05873)|null|
 |**2026-05-29**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597](http://arxiv.org/abs/2605.31597)|null|
 |**2026-05-28**|**From General Vision to Reliable Traversability Estimation: Adapting Vision Foundation Models for Unstructured Outdoor Environments**|Ji-Hoon Hwang et.al.|[2605.29565](http://arxiv.org/abs/2605.29565)|null|
 |**2026-05-28**|**EarthShift: a benchmark for measuring robustness to real-world distribution shifts in Earth observation**|Kelsey Doerksen et.al.|[2605.29330](http://arxiv.org/abs/2605.29330)|null|
@@ -242,7 +272,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-18**|**Task-Aligned Self-Supervised Learning for Medical Image Analysis: A Systematic Review and Practical Design Guidelines**|Chathura Wimalasiri et.al.|[2605.23995](http://arxiv.org/abs/2605.23995)|null|
+|**2026-06-07**|**Shift-Dependent Asymmetry: Orthogonal Inverse Low-Rank Adaptation for Federated Medical Segmentation**|Xingyue Zhao et.al.|[2606.08687](http://arxiv.org/abs/2606.08687)|null|
+|**2026-06-02**|**Task-Aligned Self-Supervised Learning for Medical Image Analysis: A Systematic Review and Practical Design Guidelines**|Chathura Wimalasiri et.al.|[2605.23995](http://arxiv.org/abs/2605.23995)|null|
 |**2026-05-21**|**Entropy-Guided Self-Supervised Learning for Medical Image Classification**|Joao Florindo et.al.|[2605.21970](http://arxiv.org/abs/2605.21970)|null|
 |**2026-05-21**|**Learning Emergent Modular Representations in Multi-modality Medical Vision Foundation Models**|Yuting He et.al.|[2605.21861](http://arxiv.org/abs/2605.21861)|null|
 |**2026-04-25**|**Learning from Noisy Prompts: Saliency-Guided Prompt Distillation for Robust Segmentation with SAM**|Jingxuan Kang et.al.|[2604.23314](http://arxiv.org/abs/2604.23314)|null|
@@ -262,6 +293,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**From Patches to Patients: A study of the tile-to-slide performance transferability in Digital Pathology**|Sofiène Boutaj et.al.|[2606.10778](http://arxiv.org/abs/2606.10778)|null|
+|**2026-06-08**|**Improving PET/CT-Based Whole-Body Lesion Segmentation Using Prediction Uncertainty-Augmented Models**|Bashirul Azam Biswas et.al.|[2606.10115](http://arxiv.org/abs/2606.10115)|null|
+|**2026-06-08**|**SpineReport: Automated 3D Quantification and Reporting of Lumbar Spine Degeneration on MRI**|Nathan Molinier et.al.|[2606.10021](http://arxiv.org/abs/2606.10021)|null|
+|**2026-06-08**|**DiffSight-Former: Modeling Structural Differences and Temporal Dynamics for Glaucoma Progression Prediction**|Yi Huang et.al.|[2606.09140](http://arxiv.org/abs/2606.09140)|null|
+|**2026-06-07**|**RadOT-Eval: Auditable Structured-Evidence Transport for Radiology Report Evaluation**|Weixin Liu et.al.|[2606.08769](http://arxiv.org/abs/2606.08769)|null|
+|**2026-06-07**|**Active Source-free Domain Adaptation in Open-set Medical Image Segmentation via Decomposed Uncertainty and Prototype Discrepancy**|Jin Yang et.al.|[2606.08749](http://arxiv.org/abs/2606.08749)|null|
+|**2026-06-07**|**Stain-Aware Wavelet Regularization for Instant Adversarial Purification in Histopathology**|Zhe Li et.al.|[2606.08745](http://arxiv.org/abs/2606.08745)|null|
+|**2026-06-07**|**AUCp: Pseudo-AUC for Inference Model Selection with Unlabeled Validation Data in Abnormality Detection**|Md Mahfuzur Rahman Siddiquee et.al.|[2606.08742](http://arxiv.org/abs/2606.08742)|null|
+|**2026-06-06**|**How Much MRI Preprocessing Is Enough? A Cost-Utility Study for Brain MRI Foundation Models**|Jiangshuan Pang et.al.|[2606.08164](http://arxiv.org/abs/2606.08164)|null|
+|**2026-06-05**|**LLM-Guided Evolution for Medical Decision Pipelines**|Ivan Sviridov et.al.|[2606.07342](http://arxiv.org/abs/2606.07342)|null|
 |**2026-06-04**|**Symb-xMIL: Symbolic Explanations for Multiple Instance Learning in Digital Pathology**|Yanqing Luo et.al.|[2606.06224](http://arxiv.org/abs/2606.06224)|null|
 |**2026-06-04**|**SC-MFJ: A Simple Haptic Quality Metric for Medical Image Segmentation**|Souraj Adhikary et.al.|[2606.06199](http://arxiv.org/abs/2606.06199)|null|
 |**2026-06-04**|**MS-DKC: A Dataset Knowledge Card Framework for Designing and Adapting Medical Image Segmentation Models**|Tariq M. Khan et.al.|[2606.06103](http://arxiv.org/abs/2606.06103)|null|
@@ -377,6 +418,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**ZODS-RS -- Zero-training Oriented Detection & Segmentation for Remote Sensing**|Zuan Gu et.al.|[2606.10769](http://arxiv.org/abs/2606.10769)|null|
+|**2026-06-09**|**Don't waste SAM**|Nermeen Abou Baker et.al.|[2606.10696](http://arxiv.org/abs/2606.10696)|null|
+|**2026-06-10**|**Inside the Latent Flow: Causal Deciphering of Attention Dynamics in Audio Separation Foundation Models**|Yuxuan Chen et.al.|[2606.10046](http://arxiv.org/abs/2606.10046)|null|
+|**2026-06-08**|**Learning the Universe with cosmological rescaling of merger trees and semi-analytic galaxy formation models**|Richard Stiskalek et.al.|[2606.10024](http://arxiv.org/abs/2606.10024)|null|
+|**2026-06-08**|**Training-Free Generalized Few-Shot Segmentation through Open-Vocabulary Semantic Arbitration**|Silas Kwabla Gah et.al.|[2606.09474](http://arxiv.org/abs/2606.09474)|null|
 |**2026-06-04**|**SAM-Flow: Source-Anchored Masked Flow for Training-Free Image Editing**|Haowang Cui et.al.|[2606.06228](http://arxiv.org/abs/2606.06228)|null|
 |**2026-06-03**|**TopoPult-SSL: Gland-Mask-Free Cross-Device Meibomian Gland Segmentation via Self-Distilled Weak Clinical Priors**|Nicolò Savioli et.al.|[2606.05347](http://arxiv.org/abs/2606.05347)|null|
 |**2026-06-03**|**Enhancing MedSAM with a Lightweight Box Predictor for Medical Image Segmentation**|Amirhossein Movahedisefat et.al.|[2606.04705](http://arxiv.org/abs/2606.04705)|null|
