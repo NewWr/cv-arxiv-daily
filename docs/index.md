@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.06.15
+## Updated on 2026.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CLIP Prompt Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**Understanding Scam Trends and Rail Paths from Reddit Self-Disclosure Narratives**|Yangjun Zhang et.al.|[2606.16874](http://arxiv.org/abs/2606.16874)|null|
+|**2026-06-12**|**Efficient Multi-Precision Computation of Bessel Functions for Real Orders and Complex Arguments with Fortran Implementation -- Part II: The Modified Bessel Function of the Second Kind, $K_ν(z)$**|Mofreh R. Zaghloul et.al.|[2606.14839](http://arxiv.org/abs/2606.14839)|null|
 |**2026-06-10**|**The 35-Myr old infant planet TOI-837 b has a mildly misaligned orbit**|G. Mantovan et.al.|[2606.12010](http://arxiv.org/abs/2606.12010)|null|
 |**2026-06-09**|**Ring Position Angles and Spin in M87* and Sgr A***|Nicholas S. Conroy et.al.|[2606.11322](http://arxiv.org/abs/2606.11322)|null|
 |**2026-06-09**|**AGN-driven BBH mergers: Black hole populations and hierarchical growth across the AGN parameter space**|Maria Paola Vaccaro et.al.|[2606.10823](http://arxiv.org/abs/2606.10823)|null|
@@ -66,6 +68,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-14**|**Classifying by Proxy: Explainable and Reproducible Ensemble of Proxy Tasks for Child Sexual Abuse Imagery Classification**|Clara Ernesto et.al.|[2606.15993](http://arxiv.org/abs/2606.15993)|null|
+|**2026-06-14**|**Text region detection in historical astronomical diagrams**|Zeynep Sonat Baltacı et.al.|[2606.15886](http://arxiv.org/abs/2606.15886)|null|
+|**2026-06-14**|**CogCanvas: A Benchmark for Evaluating Multi-Subject Reference-Based Image Generation**|Long-Bao Nguyen et.al.|[2606.15867](http://arxiv.org/abs/2606.15867)|null|
+|**2026-06-14**|**Distilling Drifting Transformers with Representation Autoencoders**|Jiawei Zhang et.al.|[2606.15553](http://arxiv.org/abs/2606.15553)|null|
+|**2026-06-13**|**Scott Analysis below the Vaught Ordinal**|David Gonzalez et.al.|[2606.15205](http://arxiv.org/abs/2606.15205)|null|
+|**2026-06-13**|**Structural vs. computational complexity**|Johanna N. Y. Franklin et.al.|[2606.15196](http://arxiv.org/abs/2606.15196)|null|
+|**2026-06-12**|**When the UE Turns Adversary: Real-Time Uplink Jamming from Within 5G Networks**|Rosolino Alaimo et.al.|[2606.14465](http://arxiv.org/abs/2606.14465)|null|
+|**2026-06-12**|**Encoder Winners Do Not Reliably Transfer Across VLA Backbone Scale: A Frozen-Backbone Grafting Diagnostic**|Qingping Zeng et.al.|[2606.14153](http://arxiv.org/abs/2606.14153)|null|
+|**2026-06-12**|**A Modular Dual-Arm Apple Harvesting Robot with Enhanced Field Performance**|Keyi Zhu et.al.|[2606.14089](http://arxiv.org/abs/2606.14089)|null|
+|**2026-06-11**|**Visual Place Recognition in Forests with Depth-Aware Distillation**|Walter Nedov et.al.|[2606.13206](http://arxiv.org/abs/2606.13206)|null|
 |**2026-06-10**|**The TEAMx Observational Campaign**|Manuela Lehner et.al.|[2606.12152](http://arxiv.org/abs/2606.12152)|null|
 |**2026-06-10**|**Tac-DINO: Learning Vision-Tactile Features with Patch Alignment**|Hong Li et.al.|[2606.12069](http://arxiv.org/abs/2606.12069)|null|
 |**2026-06-10**|**Frozen Foundation-Model Embeddings Discard Small-Lesion Signal in Chest Radiography: Implications for Pre-Deployment Evaluation**|Raajitha Muthyala et.al.|[2606.11606](http://arxiv.org/abs/2606.11606)|null|
@@ -180,6 +192,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-14**|**Domain-Guided Prompting of the Segment Anything Model for Seismic Interpretation: The Role of Attributes, Visualization, and Hybrid Prompts**|Aniq Ahmad et.al.|[2606.15786](http://arxiv.org/abs/2606.15786)|null|
+|**2026-06-14**|**LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies**|Jialei Chen et.al.|[2606.15768](http://arxiv.org/abs/2606.15768)|null|
+|**2026-06-14**|**Task-Instructed Causal Routing of Vision Foundation Models for Multi-Task Learning**|Donghyun Han et.al.|[2606.15765](http://arxiv.org/abs/2606.15765)|null|
+|**2026-06-14**|**Mutual Distillation of Dual-Foundation Models for Semi-Supervised PET/CT Segmentation**|Fuyou Mao et.al.|[2606.15611](http://arxiv.org/abs/2606.15611)|null|
+|**2026-06-12**|**Unlocking Latent Dimensions: Exploring Representations of Large-Scale X-ray Scattering Data using Variational Autoencoders**|Monika Choudhary et.al.|[2606.14999](http://arxiv.org/abs/2606.14999)|null|
+|**2026-06-11**|**GeoHAT: Geometry-Adaptive Hybrid Action Transformer for Mobile Manipulation**|Xiangyu Zhu et.al.|[2606.13394](http://arxiv.org/abs/2606.13394)|null|
 |**2026-06-10**|**SheafStain: Sheaf-Theoretic Schrödinger Bridge for Spatially and Biologically Coherent Virtual Staining**|Hyeongyeol Lim et.al.|[2606.11846](http://arxiv.org/abs/2606.11846)|null|
 |**2026-06-10**|**Cross-Modal Benchmarking for Robotic Perception in Natural Environments**|David Hall et.al.|[2606.11563](http://arxiv.org/abs/2606.11563)|null|
 |**2026-06-09**|**IDEAL: In-DEpth ALignment Makes A Discrete Representation AutoEncoder**|Yitong Chen et.al.|[2606.11096](http://arxiv.org/abs/2606.11096)|null|
@@ -293,6 +311,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**A Multi-Center Benchmark for Abdominal Disease Diagnosis and Report Generation from Non-Contrast CT**|Mariam Elbakry et.al.|[2606.16991](http://arxiv.org/abs/2606.16991)|null|
+|**2026-06-15**|**Federated Medical Image Segmentation under Real-World Label Noise: A Benchmark Suite for Noisy Label Learning Method Selection**|Markus Bujotzek et.al.|[2606.16868](http://arxiv.org/abs/2606.16868)|null|
+|**2026-06-15**|**Vision-Language Models as Zero-Annotation Oracles in Histopathology**|Vishal Jain et.al.|[2606.16658](http://arxiv.org/abs/2606.16658)|null|
+|**2026-06-15**|**Input-Dependent Fisher Information for Local Sensitivity Analysis of Medical Image Classifiers**|Sourya Sengupta. Mark A. Anastasio et.al.|[2606.16362](http://arxiv.org/abs/2606.16362)|null|
+|**2026-06-15**|**Attention-Based Prototype Calibration for Multi-Rater Few-Shot Medical Image Segmentation**|Truong Vu et.al.|[2606.16325](http://arxiv.org/abs/2606.16325)|null|
+|**2026-06-15**|**To forget is to preserve: Machine Unlearning for 3D medical image segmentation**|Nitesh Kumar Singh et.al.|[2606.16180](http://arxiv.org/abs/2606.16180)|null|
+|**2026-06-15**|**A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, and Beyond**|Pengyu Zhu et.al.|[2606.16153](http://arxiv.org/abs/2606.16153)|null|
+|**2026-06-14**|**CRIS: Cross-Plane Self-Supervised Isotropic Restoration for Anisotropic Volumetric Imaging Across Modalities**|Adi Ahituv et.al.|[2606.15967](http://arxiv.org/abs/2606.15967)|null|
+|**2026-06-14**|**Learning Directional Semantic Transitions for Longitudinal Chest X-ray Analysis**|Zhangfeng Hu et.al.|[2606.15938](http://arxiv.org/abs/2606.15938)|null|
+|**2026-06-14**|**Mutual Distillation of Dual-Foundation Models for Semi-Supervised PET/CT Segmentation**|Fuyou Mao et.al.|[2606.15611](http://arxiv.org/abs/2606.15611)|null|
 |**2026-06-09**|**From Patches to Patients: A study of the tile-to-slide performance transferability in Digital Pathology**|Sofiène Boutaj et.al.|[2606.10778](http://arxiv.org/abs/2606.10778)|null|
 |**2026-06-08**|**Improving PET/CT-Based Whole-Body Lesion Segmentation Using Prediction Uncertainty-Augmented Models**|Bashirul Azam Biswas et.al.|[2606.10115](http://arxiv.org/abs/2606.10115)|null|
 |**2026-06-08**|**SpineReport: Automated 3D Quantification and Reporting of Lumbar Spine Degeneration on MRI**|Nathan Molinier et.al.|[2606.10021](http://arxiv.org/abs/2606.10021)|null|
@@ -418,6 +446,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**ActiveSAM: Image-Conditional Class Pruning for Fast and Accurate Open-Vocabulary Segmentation**|Tran Dinh Tien et.al.|[2606.16996](http://arxiv.org/abs/2606.16996)|null|
+|**2026-06-15**|**Gen-VCoT: Generative Visual Chain-of-Thought Reasoning via Diffusion-Based RGB Intermediate Representations**|Zhiqiang Zhou et.al.|[2606.16783](http://arxiv.org/abs/2606.16783)|null|
+|**2026-06-14**|**Agentic Framework for Deep Learning workload migration via In-Context Learning**|Qiyue Liang et.al.|[2606.15994](http://arxiv.org/abs/2606.15994)|null|
+|**2026-06-14**|**CogCanvas: A Benchmark for Evaluating Multi-Subject Reference-Based Image Generation**|Long-Bao Nguyen et.al.|[2606.15867](http://arxiv.org/abs/2606.15867)|null|
+|**2026-06-14**|**Object Tokens as a Bridge Between Segmentation and Visual Question Answering in Robotic Surgery**|Yiping Li et.al.|[2606.15861](http://arxiv.org/abs/2606.15861)|null|
+|**2026-06-14**|**Domain-Guided Prompting of the Segment Anything Model for Seismic Interpretation: The Role of Attributes, Visualization, and Hybrid Prompts**|Aniq Ahmad et.al.|[2606.15786](http://arxiv.org/abs/2606.15786)|null|
+|**2026-06-14**|**Parameter-Efficient Adaptation of SAM 3 for Automated ITV Generation from 4DCT Images**|Changwoo Song et.al.|[2606.15604](http://arxiv.org/abs/2606.15604)|null|
+|**2026-06-12**|**Multi-HMR 2: Multi-Person Camera-Centric Human Detection, Mesh Recovery and Tracking**|Guénolé Fiche et.al.|[2606.14841](http://arxiv.org/abs/2606.14841)|null|
+|**2026-06-12**|**A Modular Dual-Arm Apple Harvesting Robot with Enhanced Field Performance**|Keyi Zhu et.al.|[2606.14089](http://arxiv.org/abs/2606.14089)|null|
 |**2026-06-09**|**ZODS-RS -- Zero-training Oriented Detection & Segmentation for Remote Sensing**|Zuan Gu et.al.|[2606.10769](http://arxiv.org/abs/2606.10769)|null|
 |**2026-06-09**|**Don't waste SAM**|Nermeen Abou Baker et.al.|[2606.10696](http://arxiv.org/abs/2606.10696)|null|
 |**2026-06-10**|**Inside the Latent Flow: Causal Deciphering of Attention Dynamics in Audio Separation Foundation Models**|Yuxuan Chen et.al.|[2606.10046](http://arxiv.org/abs/2606.10046)|null|
