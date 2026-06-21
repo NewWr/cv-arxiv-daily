@@ -1,4 +1,4 @@
-## Updated on 2026.06.16
+## Updated on 2026.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**Execution-bound advisory automation for agentic AI: a reproducible AIBOM-driven CSAF-VEX framework**|Petar Radanliev et.al.|[2606.19390](http://arxiv.org/abs/2606.19390)|null|
+|**2026-06-17**|**Disentangling the Distant Stellar Halo Using K-Giants in the DESI Year 3 Data**|Namitha Kizhuprakkat et.al.|[2606.18849](http://arxiv.org/abs/2606.18849)|null|
 |**2026-06-15**|**Understanding Scam Trends and Rail Paths from Reddit Self-Disclosure Narratives**|Yangjun Zhang et.al.|[2606.16874](http://arxiv.org/abs/2606.16874)|null|
 |**2026-06-12**|**Efficient Multi-Precision Computation of Bessel Functions for Real Orders and Complex Arguments with Fortran Implementation -- Part II: The Modified Bessel Function of the Second Kind, $K_ν(z)$**|Mofreh R. Zaghloul et.al.|[2606.14839](http://arxiv.org/abs/2606.14839)|null|
 |**2026-06-10**|**The 35-Myr old infant planet TOI-837 b has a mildly misaligned orbit**|G. Mantovan et.al.|[2606.12010](http://arxiv.org/abs/2606.12010)|null|
@@ -72,12 +74,18 @@
 |**2026-03-29**|**A Possible Mechanism to Explain the Prograde Equatorial Jet of a Jupiter-like Gaseous Giant**|Yuchen Lian et.al.|[2603.27591](http://arxiv.org/abs/2603.27591)|null|
 |**2026-03-31**|**ROLLIN': Rotating globular cluster simulations. I. The kinematic evolution of realistic direct N-body models**|P. Bianchini et.al.|[2603.26195](http://arxiv.org/abs/2603.26195)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260621>back to top</a>)</p>
 
 ## DINO & Self-Supervised ViT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-17**|**LEAP: Layer-skipping Efficiency via Adaptive Progression for Vision Transformer Distillation**|Jiaqi Zhang et.al.|[2606.19483](http://arxiv.org/abs/2606.19483)|null|
+|**2026-06-17**|**DINO-Med3D: Bridging Dimension and Domain Gaps in Volumetric Segmentation via Progressive Adaptation**|Haoyu Hu et.al.|[2606.18886](http://arxiv.org/abs/2606.18886)|null|
+|**2026-06-17**|**TimeLAVA: Learning-Agnostic Data Valuation for Time Series**|Wenqin Liu et.al.|[2606.18729](http://arxiv.org/abs/2606.18729)|null|
+|**2026-06-16**|**SegDINO: Introducing Multi-Scale Structure into DINO for Efficient Medical Image Segmentation**|Sicheng Yang et.al.|[2606.17972](http://arxiv.org/abs/2606.17972)|null|
+|**2026-06-16**|**GRB 250424A: A Case Study of Energy Injection with Multiwavelength Observations**|Yifang Liang et.al.|[2606.17444](http://arxiv.org/abs/2606.17444)|null|
+|**2026-06-15**|**Contrastive Action-Image Pre-training for Visuomotor Control**|Yuvan Sharma et.al.|[2606.17256](http://arxiv.org/abs/2606.17256)|null|
 |**2026-06-14**|**Classifying by Proxy: Explainable and Reproducible Ensemble of Proxy Tasks for Child Sexual Abuse Imagery Classification**|Clara Ernesto et.al.|[2606.15993](http://arxiv.org/abs/2606.15993)|null|
 |**2026-06-14**|**Text region detection in historical astronomical diagrams**|Zeynep Sonat Baltacı et.al.|[2606.15886](http://arxiv.org/abs/2606.15886)|null|
 |**2026-06-14**|**CogCanvas: A Benchmark for Evaluating Multi-Subject Reference-Based Image Generation**|Long-Bao Nguyen et.al.|[2606.15867](http://arxiv.org/abs/2606.15867)|null|
@@ -198,12 +206,17 @@
 |**2026-04-13**|**Boxes2Pixels: Learning Defect Segmentation from Noisy SAM Masks**|Camile Lendering et.al.|[2604.11162](http://arxiv.org/abs/2604.11162)|null|
 |**2026-04-13**|**Using Deep Learning Models Pretrained by Self-Supervised Learning for Protein Localization**|Ben Isselmann et.al.|[2604.10970](http://arxiv.org/abs/2604.10970)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260621>back to top</a>)</p>
 
 ## Vision Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-18**|**HilDA: Hierarchical Distillation with Diffusion for Advancing Self-Supervised LiDAR Pre-trainin**|Maciej Wozniak et.al.|[2606.20189](http://arxiv.org/abs/2606.20189)|null|
+|**2026-06-18**|**SAM3 Self-Distillation for Fine-Grained GOOSE 2D Semantic Segmentation**|Xuesong Wang et.al.|[2606.20130](http://arxiv.org/abs/2606.20130)|null|
+|**2026-06-17**|**Language-Instructed Vision Embeddings for Controllable and Generalizable Perception**|Chengzhi Mao et.al.|[2606.19584](http://arxiv.org/abs/2606.19584)|null|
+|**2026-06-17**|**LEAP: Layer-skipping Efficiency via Adaptive Progression for Vision Transformer Distillation**|Jiaqi Zhang et.al.|[2606.19483](http://arxiv.org/abs/2606.19483)|null|
+|**2026-06-15**|**Geometry-Consistent Endoscopic Representations for Image-Guided Navigation via Structured Foundation Model Adaptation**|Hongchao Shu et.al.|[2606.17340](http://arxiv.org/abs/2606.17340)|null|
 |**2026-06-14**|**Domain-Guided Prompting of the Segment Anything Model for Seismic Interpretation: The Role of Attributes, Visualization, and Hybrid Prompts**|Aniq Ahmad et.al.|[2606.15786](http://arxiv.org/abs/2606.15786)|null|
 |**2026-06-14**|**LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies**|Jialei Chen et.al.|[2606.15768](http://arxiv.org/abs/2606.15768)|null|
 |**2026-06-14**|**Task-Instructed Causal Routing of Vision Foundation Models for Multi-Task Learning**|Donghyun Han et.al.|[2606.15765](http://arxiv.org/abs/2606.15765)|null|
@@ -298,7 +311,7 @@
 |**2026-04-12**|**ReplicateAnyScene: Zero-Shot Video-to-3D Composition via Textual-Visual-Spatial Alignment**|Mingyu Dong et.al.|[2604.10789](http://arxiv.org/abs/2604.10789)|null|
 |**2026-04-12**|**AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Afford Correspondence**|Jiawei Zhang et.al.|[2604.10579](http://arxiv.org/abs/2604.10579)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260621>back to top</a>)</p>
 
 ## Medical Foundation Models
 
@@ -321,12 +334,21 @@
 |**2026-02-25**|**Axial-Centric Cross-Plane Attention for 3D Medical Image Classification**|Doyoung Park et.al.|[2602.21636](http://arxiv.org/abs/2602.21636)|null|
 |**2026-02-17**|**Foundation Models for Medical Imaging: Status, Challenges, and Directions**|Chuang Niu et.al.|[2602.15913](http://arxiv.org/abs/2602.15913)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260621>back to top</a>)</p>
 
 ## Medical Image Deep Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-18**|**PU-UNet: Stable Multiplicative Interactions for Medical Image Segmentation**|Ziyuan Li et.al.|[2606.20035](http://arxiv.org/abs/2606.20035)|null|
+|**2026-06-18**|**OTCHA: Optimal Transport-driven Confidence-aware Latent Hub Alignment for Multi-View Medical Image Classification**|Jiwoong Yang et.al.|[2606.19838](http://arxiv.org/abs/2606.19838)|null|
+|**2026-06-18**|**A Controlled Benchmark of Quantum-Latent GAN Augmentation for Brain MRI**|Syed Mujtaba Haider et.al.|[2606.18970](http://arxiv.org/abs/2606.18970)|null|
+|**2026-06-17**|**Quantification of Uncertainty with Adversarial Models in Medical Image Segmentation**|Hana Jebril et.al.|[2606.18860](http://arxiv.org/abs/2606.18860)|null|
+|**2026-06-17**|**PEFT-MedSAM: Efficient Fine-Tuning of Medical Foundation Models for Explainable Skin Lesion Segmentation**|Asad Channa et.al.|[2606.18707](http://arxiv.org/abs/2606.18707)|null|
+|**2026-06-16**|**When LLMs Analyze Scars: From Images to Clinically-Meaningful Features**|Ruman Wang et.al.|[2606.18063](http://arxiv.org/abs/2606.18063)|null|
+|**2026-06-16**|**SegDINO: Introducing Multi-Scale Structure into DINO for Efficient Medical Image Segmentation**|Sicheng Yang et.al.|[2606.17972](http://arxiv.org/abs/2606.17972)|null|
+|**2026-06-16**|**Beyond Visual Cues: CoT-Enhanced Reasoning for Semi-supervised Medical Image Segmentation**|Yuming Chen et.al.|[2606.17958](http://arxiv.org/abs/2606.17958)|null|
+|**2026-06-16**|**Fine-UNETR for PSMA PET/CT Lesion Segmentation: Automated Tumor Quantification and Overall Survival Stratification in Prostate Cancer**|Mansour Abtahi et.al.|[2606.17570](http://arxiv.org/abs/2606.17570)|null|
 |**2026-06-15**|**A Multi-Center Benchmark for Abdominal Disease Diagnosis and Report Generation from Non-Contrast CT**|Mariam Elbakry et.al.|[2606.16991](http://arxiv.org/abs/2606.16991)|null|
 |**2026-06-15**|**Federated Medical Image Segmentation under Real-World Label Noise: A Benchmark Suite for Noisy Label Learning Method Selection**|Markus Bujotzek et.al.|[2606.16868](http://arxiv.org/abs/2606.16868)|null|
 |**2026-06-15**|**Vision-Language Models as Zero-Annotation Oracles in Histopathology**|Vishal Jain et.al.|[2606.16658](http://arxiv.org/abs/2606.16658)|null|
@@ -458,12 +480,17 @@
 |**2026-04-14**|**DeferredSeg: A Multi-Expert Deferral Framework for Trustworthy Medical Image Segmentation**|Qiuyu Tian et.al.|[2604.12411](http://arxiv.org/abs/2604.12411)|null|
 |**2026-04-13**|**MedConcept: Unsupervised Concept Discovery for Interpretability in Medical VLMs**|Md Rakibul Haque et.al.|[2604.11868](http://arxiv.org/abs/2604.11868)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260621>back to top</a>)</p>
 
 ## SAM / Promptable Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-18**|**ARTEMIS: Agent-guided Reliability-aware Temporal Mask Evolution for Imperfectly Supervised Video Polyp Segmentation**|Tong Wang et.al.|[2606.20161](http://arxiv.org/abs/2606.20161)|null|
+|**2026-06-18**|**SAM3 Self-Distillation for Fine-Grained GOOSE 2D Semantic Segmentation**|Xuesong Wang et.al.|[2606.20130](http://arxiv.org/abs/2606.20130)|null|
+|**2026-06-17**|**PEFT-MedSAM: Efficient Fine-Tuning of Medical Foundation Models for Explainable Skin Lesion Segmentation**|Asad Channa et.al.|[2606.18707](http://arxiv.org/abs/2606.18707)|null|
+|**2026-06-15**|**Vision AI Agent for Continuous Material Monitoring of LEGEND-1000 LoFi Reentrant Tube**|Sonata Simonaitis-Boyd et.al.|[2606.18294](http://arxiv.org/abs/2606.18294)|null|
+|**2026-06-16**|**Human-in-the-Loop Atlas-Based 3D Asset Segmentation for Interactive Content Workflows**|Paul Julius Kühn et.al.|[2606.17824](http://arxiv.org/abs/2606.17824)|null|
 |**2026-06-15**|**ActiveSAM: Image-Conditional Class Pruning for Fast and Accurate Open-Vocabulary Segmentation**|Tran Dinh Tien et.al.|[2606.16996](http://arxiv.org/abs/2606.16996)|null|
 |**2026-06-15**|**Gen-VCoT: Generative Visual Chain-of-Thought Reasoning via Diffusion-Based RGB Intermediate Representations**|Zhiqiang Zhou et.al.|[2606.16783](http://arxiv.org/abs/2606.16783)|null|
 |**2026-06-14**|**Agentic Framework for Deep Learning workload migration via In-Context Learning**|Qiyue Liang et.al.|[2606.15994](http://arxiv.org/abs/2606.15994)|null|
@@ -573,7 +600,7 @@
 |**2026-04-14**|**Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation**|Jihun Kim et.al.|[2604.10950](http://arxiv.org/abs/2604.10950)|null|
 |**2026-04-12**|**Self-supervised Pretraining of Cell Segmentation Models**|Kaden Stillwagon et.al.|[2604.10609](http://arxiv.org/abs/2604.10609)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260621>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
