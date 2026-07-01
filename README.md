@@ -1,4 +1,4 @@
-## Updated on 2026.06.29
+## Updated on 2026.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-29**|**No Adaptation Without Observation: Observability-Constrained Test-Time Prompt Tuning for LiDAR Semantic Segmentation**|Linlian Jiang et.al.|[2606.30937](http://arxiv.org/abs/2606.30937)|null|
+|**2026-06-29**|**Ray tracing ultracompact boson stars: visibility modulations and incomplete photon rings**|Seppe J. Staelens et.al.|[2606.30729](http://arxiv.org/abs/2606.30729)|null|
+|**2026-06-28**|**Gravitational lensing by extremal rotating black holes in the strong deflection limit**|Fabiano Feleppa et.al.|[2606.29418](http://arxiv.org/abs/2606.29418)|null|
+|**2026-06-28**|**Stable Families of Ballistic Prograde Cyclers in the Restricted Three-Body Problem**|Shane D. Ross et.al.|[2606.29189](http://arxiv.org/abs/2606.29189)|null|
+|**2026-06-26**|**Stellar discs and intermediate-mass black holes in galactic nuclei I. Fragmenting the disc in an isotropic stellar potential**|Taras Panamarev et.al.|[2606.28497](http://arxiv.org/abs/2606.28497)|null|
 |**2026-06-22**|**A Pedagogical Introduction to the Unified Transform Method: The Heat Equation on a Finite Interval**|Athanasios Paraskevopoulos et.al.|[2606.26148](http://arxiv.org/abs/2606.26148)|null|
 |**2026-06-24**|**MAPL: Multi-Objective Preference Learning for Robot Locomotion**|Xiyue Chen et.al.|[2606.25398](http://arxiv.org/abs/2606.25398)|null|
 |**2026-06-23**|**Shape model and dynamical state of the asteroid (300) Geraldina: Implications for its possible ancient origin**|G. Apostolovska et.al.|[2606.25052](http://arxiv.org/abs/2606.25052)|null|
@@ -82,12 +87,22 @@
 |**2026-03-29**|**A Possible Mechanism to Explain the Prograde Equatorial Jet of a Jupiter-like Gaseous Giant**|Yuchen Lian et.al.|[2603.27591](http://arxiv.org/abs/2603.27591)|null|
 |**2026-03-31**|**ROLLIN': Rotating globular cluster simulations. I. The kinematic evolution of realistic direct N-body models**|P. Bianchini et.al.|[2603.26195](http://arxiv.org/abs/2603.26195)|null|
 
-<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
 ## DINO & Self-Supervised ViT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-30**|**GEAR: Guided End-to-End AutoRegression for Image Synthesis**|Bin Lin et.al.|[2606.32039](http://arxiv.org/abs/2606.32039)|null|
+|**2026-06-30**|**Autonomous UAV Navigation for Individual Wildlife Re-Identification**|Claire Sun et.al.|[2606.31772](http://arxiv.org/abs/2606.31772)|null|
+|**2026-06-30**|**Surprise as a Signal for Plasticity and Metacognition**|Louis Mouchon et.al.|[2606.31495](http://arxiv.org/abs/2606.31495)|null|
+|**2026-06-30**|**Phonon-induced pseudogap phase in TiSe $_2$**|Sotirios Fragkos et.al.|[2606.31298](http://arxiv.org/abs/2606.31298)|null|
+|**2026-06-30**|**Rethinking the Role of Feature Engineering and Learning Strategies in Few-Shot Hidden Emotion Recognition**|Xiaochuan Guo et.al.|[2606.31249](http://arxiv.org/abs/2606.31249)|null|
+|**2026-06-29**|**Latent Actions from Factorized Transition Effects under Agent Ambiguity**|Heejeong Nam et.al.|[2606.30544](http://arxiv.org/abs/2606.30544)|null|
+|**2026-06-28**|**Benchmark AUC Is Not Deployable Reliability: A Cross-Dataset Audit of Off-the-Shelf Features for Surveillance Video Anomaly Detection**|Mohammadreza Rashidi et.al.|[2606.29506](http://arxiv.org/abs/2606.29506)|null|
+|**2026-06-30**|**TacGen: Touch Is a Necessary Dimension of Physical-World Representation -- Addressing Tactile Data Scarcity with Scalable Vision-to-Touch Alignment and Generation**|Wanghao Ye et.al.|[2606.29173](http://arxiv.org/abs/2606.29173)|null|
+|**2026-06-27**|**Clustering Unsupervised Representations as Defense against Poisoning Attacks on Speech Commands Classification System**|Thomas Thebaud et.al.|[2606.28953](http://arxiv.org/abs/2606.28953)|null|
+|**2026-06-27**|**HKVLM: Faithful Reasoning Grounding by Binding Language Queries to a Frozen Detector**|Bo Ma et.al.|[2606.28862](http://arxiv.org/abs/2606.28862)|null|
 |**2026-06-25**|**Pseudo-Text-Conditioned 3D Grounding DINO for Organ Localization in Abdominal CT**|Siqi Chen et.al.|[2606.27084](http://arxiv.org/abs/2606.27084)|null|
 |**2026-06-24**|**DANTE: A Reference-Guided Unsupervised Pipeline for Extended-Transient Anomaly Characterization in LIGO O4a**|Luca Cirfeta et.al.|[2606.25702](http://arxiv.org/abs/2606.25702)|null|
 |**2026-06-24**|**Hypergraph Normal World Models for Logical Visual Anomaly Detection**|Weizhi Nie et.al.|[2606.25368](http://arxiv.org/abs/2606.25368)|null|
@@ -224,12 +239,18 @@
 |**2026-04-13**|**Boxes2Pixels: Learning Defect Segmentation from Noisy SAM Masks**|Camile Lendering et.al.|[2604.11162](http://arxiv.org/abs/2604.11162)|null|
 |**2026-04-13**|**Using Deep Learning Models Pretrained by Self-Supervised Learning for Protein Localization**|Ben Isselmann et.al.|[2604.10970](http://arxiv.org/abs/2604.10970)|null|
 
-<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
 ## Vision Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-30**|**Rethinking the Role of Feature Engineering and Learning Strategies in Few-Shot Hidden Emotion Recognition**|Xiaochuan Guo et.al.|[2606.31249](http://arxiv.org/abs/2606.31249)|null|
+|**2026-06-30**|**Dense Structural Priors for Sparse Functional Landmark Localization in Surgical Videos**|Chenyan Jing et.al.|[2606.31007](http://arxiv.org/abs/2606.31007)|null|
+|**2026-06-29**|**GROW $^2$ : Grounding Which and Where for Robot Tool Use**|Yuhong Deng et.al.|[2606.30632](http://arxiv.org/abs/2606.30632)|null|
+|**2026-06-28**|**Articulating then Matching: Zero-Shot Shape Matching for Uncurated Data**|Qilong Liu et.al.|[2606.29167](http://arxiv.org/abs/2606.29167)|null|
+|**2026-06-25**|**JuZhou 1.0 Technical Report: The First Edge-Native Text-to-Image Foundation Model Trained Entirely on China-Developed AI Accelerators**|Ce Chen et.al.|[2606.28421](http://arxiv.org/abs/2606.28421)|null|
+|**2026-06-29**|**TextDS: Parameter-Efficient Representation Alignment for Scene Text Detection under Distribution Shifts**|Boyuan Chen et.al.|[2606.28077](http://arxiv.org/abs/2606.28077)|null|
 |**2026-06-25**|**Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders**|Nathanaël Jacquier et.al.|[2606.27321](http://arxiv.org/abs/2606.27321)|null|
 |**2026-06-25**|**RelAfford6D: Relational 6D Affordance Graphs for Constraint-Driven Robotic Manipulation**|Guodong Zhang et.al.|[2606.27036](http://arxiv.org/abs/2606.27036)|null|
 |**2026-06-24**|**Layer-Specific Prompt Fusion Discovery via Differentiable Search in Vision Foundation Models**|Xi Xiao et.al.|[2606.26379](http://arxiv.org/abs/2606.26379)|null|
@@ -339,14 +360,14 @@
 |**2026-04-12**|**ReplicateAnyScene: Zero-Shot Video-to-3D Composition via Textual-Visual-Spatial Alignment**|Mingyu Dong et.al.|[2604.10789](http://arxiv.org/abs/2604.10789)|null|
 |**2026-04-12**|**AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Afford Correspondence**|Jiawei Zhang et.al.|[2604.10579](http://arxiv.org/abs/2604.10579)|null|
 
-<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
 ## Medical Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-06-07**|**Shift-Dependent Asymmetry: Orthogonal Inverse Low-Rank Adaptation for Federated Medical Segmentation**|Xingyue Zhao et.al.|[2606.08687](http://arxiv.org/abs/2606.08687)|null|
-|**2026-06-02**|**Task-Aligned Self-Supervised Learning for Medical Image Analysis: A Systematic Review and Practical Design Guidelines**|Chathura Wimalasiri et.al.|[2605.23995](http://arxiv.org/abs/2605.23995)|null|
+|**2026-06-30**|**Task-Aligned Self-Supervised Learning for Medical Image Analysis: A Task-Oriented Review with Practical Design Guidelines**|Chathura Wimalasiri et.al.|[2605.23995](http://arxiv.org/abs/2605.23995)|null|
 |**2026-05-21**|**Entropy-Guided Self-Supervised Learning for Medical Image Classification**|Joao Florindo et.al.|[2605.21970](http://arxiv.org/abs/2605.21970)|null|
 |**2026-05-21**|**Learning Emergent Modular Representations in Multi-modality Medical Vision Foundation Models**|Yuting He et.al.|[2605.21861](http://arxiv.org/abs/2605.21861)|null|
 |**2026-04-25**|**Learning from Noisy Prompts: Saliency-Guided Prompt Distillation for Robust Segmentation with SAM**|Jingxuan Kang et.al.|[2604.23314](http://arxiv.org/abs/2604.23314)|null|
@@ -362,12 +383,22 @@
 |**2026-02-25**|**Axial-Centric Cross-Plane Attention for 3D Medical Image Classification**|Doyoung Park et.al.|[2602.21636](http://arxiv.org/abs/2602.21636)|null|
 |**2026-02-17**|**Foundation Models for Medical Imaging: Status, Challenges, and Directions**|Chuang Niu et.al.|[2602.15913](http://arxiv.org/abs/2602.15913)|null|
 
-<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
 ## Medical Image Deep Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-30**|**Towards Voxel Spacing Consistency for Medical Image Segmentation**|Xin You et.al.|[2606.31839](http://arxiv.org/abs/2606.31839)|null|
+|**2026-06-30**|**TaxoMIL: Taxonomy-Constrained Learning for Hierarchical Whole Slide Image Analysis**|Chaeyeon Lee et.al.|[2606.31100](http://arxiv.org/abs/2606.31100)|null|
+|**2026-06-30**|**Seeing Through Multiple Views: Parameter-Efficient Fine-Tuning via Selective Neurons for Consistent Radiology Report Generation**|Yucheng Chen et.al.|[2606.31099](http://arxiv.org/abs/2606.31099)|null|
+|**2026-06-30**|**APRIL-MedSeg: A Modular Medical Image Segmentation Toolbox Embracing Modern Paradigms**|Juntao Jiang et.al.|[2606.30577](http://arxiv.org/abs/2606.30577)|null|
+|**2026-06-29**|**Set-Inclusive Uncertainty Modeling for Robust Brain Tumor Segmentation**|Seunghun Baek et.al.|[2606.30374](http://arxiv.org/abs/2606.30374)|null|
+|**2026-06-29**|**SHOVIR: A Benchmark for Evaluating Vision Shortcut Learning in Radiology Report Generation**|Filippo Ruffini et.al.|[2606.30201](http://arxiv.org/abs/2606.30201)|null|
+|**2026-06-29**|**DrivenMorph: Bridging Attention Mechanism and Variational Image Registration via Difference Modeling**|Mingke Li et.al.|[2606.30183](http://arxiv.org/abs/2606.30183)|null|
+|**2026-06-29**|**LETT-NeXt: A Lightweight RECIST-Guided Model for 3D CT Lesion Segmentation**|Sebastian Aas et.al.|[2606.30108](http://arxiv.org/abs/2606.30108)|null|
+|**2026-06-28**|**SonoCLIP: Mask-Guided Region-Aware Vision-Language Pretraining for Fetal Ultrasound Analysis**|Hang Su et.al.|[2606.29586](http://arxiv.org/abs/2606.29586)|null|
+|**2026-06-27**|**BTI-Net: Bidirectional Decoder-Level Task Interaction via Uncertainty-Aware Gating for Multi-Task Medical Image Analysis**|Abdullah Al Shafi et.al.|[2606.29102](http://arxiv.org/abs/2606.29102)|null|
 |**2026-06-25**|**Just how sure are you? Improving Verbalized Uncertainty Calibration in Medical VQA**|Eren Senoglu et.al.|[2606.27023](http://arxiv.org/abs/2606.27023)|null|
 |**2026-06-25**|**Anatomy-Guided Residual Motion Diffusion for Controllable 4D Cardiac MRI Synthesis**|Yiheng Cao et.al.|[2606.26764](http://arxiv.org/abs/2606.26764)|null|
 |**2026-06-25**|**Dual-Prior Guided Null-Space Learning with Mixture-of-Splines for Arbitrary Medical Slice Super-Resolution**|Haofei Song et.al.|[2606.26716](http://arxiv.org/abs/2606.26716)|null|
@@ -518,14 +549,22 @@
 |**2026-04-14**|**DeferredSeg: A Multi-Expert Deferral Framework for Trustworthy Medical Image Segmentation**|Qiuyu Tian et.al.|[2604.12411](http://arxiv.org/abs/2604.12411)|null|
 |**2026-04-13**|**MedConcept: Unsupervised Concept Discovery for Interpretability in Medical VLMs**|Md Rakibul Haque et.al.|[2604.11868](http://arxiv.org/abs/2604.11868)|null|
 
-<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
 ## SAM / Promptable Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-30**|**Dense Structural Priors for Sparse Functional Landmark Localization in Surgical Videos**|Chenyan Jing et.al.|[2606.31007](http://arxiv.org/abs/2606.31007)|null|
+|**2026-06-29**|**PGE-SAM: Prompt-Guided Feature Enhancement for Interactive Segmentation under Degradation**|Tuan-Duc Nguyen et.al.|[2606.30477](http://arxiv.org/abs/2606.30477)|null|
+|**2026-06-29**|**Operational capabilities and on-sky performance of SAMOS at the completion of science commissioning**|Massimo Robberto et.al.|[2606.30207](http://arxiv.org/abs/2606.30207)|null|
+|**2026-06-30**|**Occlusion-Robust Multi-Object Decoupling for Physics-Based Robotic Interaction**|Xin Dong et.al.|[2606.29303](http://arxiv.org/abs/2606.29303)|null|
+|**2026-06-27**|**ExACT: Exemplar-Driven Calibrated Refinement for Training-Free Visual Grounding in Remote Sensing Images**|Zixiao Zhang et.al.|[2606.28920](http://arxiv.org/abs/2606.28920)|null|
+|**2026-06-27**|**SemDynReg: Semantics-Guided Deformation Regularization for Dynamic 3D Gaussian Splatting**|Ruitao Chen et.al.|[2606.28656](http://arxiv.org/abs/2606.28656)|null|
+|**2026-06-26**|**Understanding How MLLMs Describe Artworks Using Token Activation Maps**|Nicola Fanelli et.al.|[2606.27947](http://arxiv.org/abs/2606.27947)|null|
+|**2026-06-26**|**Temporal-Emerged Prompting for Segment Anything in Multiframe Infrared Small Target Detection**|Yinghui Xing et.al.|[2606.27655](http://arxiv.org/abs/2606.27655)|null|
 |**2026-06-25**|**SAM2Matting: Generalized Image and Video Matting**|Ruiqi Shen et.al.|[2606.27339](http://arxiv.org/abs/2606.27339)|null|
-|**2026-06-23**|**Vision-Language Model Reasoning for Contextual Semantic Mapping in Intralogistics**|Marvin Rüdt et.al.|[2606.24814](http://arxiv.org/abs/2606.24814)|null|
+|**2026-06-30**|**Vision-Language Model Reasoning for Contextual Semantic Mapping in Intralogistics**|Marvin Rüdt et.al.|[2606.24814](http://arxiv.org/abs/2606.24814)|null|
 |**2026-06-24**|**SENTRY: SAM2-Enhanced Neighbor-Aware and Temporally Reasoned Memory for Visual Tracking**|Mohamad Alansari et.al.|[2606.24449](http://arxiv.org/abs/2606.24449)|null|
 |**2026-06-23**|**MorVess: Morphology-Aware Pulmonary Vessel Segmentation Network**|Fuyou Mao et.al.|[2606.24214](http://arxiv.org/abs/2606.24214)|null|
 |**2026-06-22**|**Bridging Semantics and Kinematics: A Modular Framework for Zero-Shot Robotic Manipulation**|Ali Alabbas et.al.|[2606.23157](http://arxiv.org/abs/2606.23157)|null|
@@ -648,7 +687,7 @@
 |**2026-04-14**|**Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation**|Jihun Kim et.al.|[2604.10950](http://arxiv.org/abs/2604.10950)|null|
 |**2026-04-12**|**Self-supervised Pretraining of Cell Segmentation Models**|Kaden Stillwagon et.al.|[2604.10609](http://arxiv.org/abs/2604.10609)|null|
 
-<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
