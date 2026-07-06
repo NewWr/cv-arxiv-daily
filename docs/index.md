@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.07.01
+## Updated on 2026.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CLIP Prompt Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**The Merger-Driven Origin of the Vast Extended Stellar Disc Around the Andromeda Galaxy**|C. Tsakonas et.al.|[2607.02480](http://arxiv.org/abs/2607.02480)|null|
+|**2026-07-01**|**HyperFORM -- a FORM package for parametric integration with hyperlogarithms**|Adam Kardos et.al.|[2607.01163](http://arxiv.org/abs/2607.01163)|null|
+|**2026-07-01**|**Probing the chaos bound via spinning particles in Kerr-Newman-AdS spacetime**|Deyou Chen et.al.|[2607.00432](http://arxiv.org/abs/2607.00432)|null|
 |**2026-06-29**|**No Adaptation Without Observation: Observability-Constrained Test-Time Prompt Tuning for LiDAR Semantic Segmentation**|Linlian Jiang et.al.|[2606.30937](http://arxiv.org/abs/2606.30937)|null|
 |**2026-06-29**|**Ray tracing ultracompact boson stars: visibility modulations and incomplete photon rings**|Seppe J. Staelens et.al.|[2606.30729](http://arxiv.org/abs/2606.30729)|null|
 |**2026-06-28**|**Gravitational lensing by extremal rotating black holes in the strong deflection limit**|Fabiano Feleppa et.al.|[2606.29418](http://arxiv.org/abs/2606.29418)|null|
@@ -83,6 +86,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**Efficient PEFT Methods with Adaptive Checkpointing for Vision Models and VLMs on Resource Constrained Consumer-GPUs**|Altay Toktassyn et.al.|[2607.02158](http://arxiv.org/abs/2607.02158)|null|
+|**2026-07-02**|**Understanding Geometric Representations in Self-Supervised Vision Transformers via Subspace Intervention**|Weichen Zhou et.al.|[2607.01987](http://arxiv.org/abs/2607.01987)|null|
+|**2026-07-02**|**DL-VINS-Factory: A Modular Framework for Learned Visual Front-Ends in Visual-Inertial SLAM**|Shoon Kit Lim et.al.|[2607.01757](http://arxiv.org/abs/2607.01757)|null|
+|**2026-07-02**|**ICDepth: Taming Video Diffusion Models for Video Depth Estimation via In-Context Conditioning**|Xuanhua He et.al.|[2607.01677](http://arxiv.org/abs/2607.01677)|null|
+|**2026-07-01**|**MIBE: Multi-subject Interaction Benchmark and Evaluator for Personalized Image Generation**|Zhihan Chen et.al.|[2607.01383](http://arxiv.org/abs/2607.01383)|null|
+|**2026-07-01**|**Explainable AI for Cancer Drug Response Prediction: Beyond Univariate Feature Attributions**|Martino Ciaperoni et.al.|[2607.00931](http://arxiv.org/abs/2607.00931)|null|
+|**2026-07-01**|**Mirror-Fusion Attention for Reflection-Aware Self-Supervised Representation Learning**|Ruixin Li et.al.|[2607.00850](http://arxiv.org/abs/2607.00850)|null|
+|**2026-07-01**|**From Technical Metrics to User Perception: A User Study of a Multimodal Human-Robot Interaction System for Object Detection and Grasping**|Jian Song et.al.|[2607.00530](http://arxiv.org/abs/2607.00530)|null|
+|**2026-07-01**|**Cross4D-JEPA: Dense Cross-modal Correspondence Distillation for 4D Point Cloud Representation Learning**|Trung Thanh Nguyen et.al.|[2607.00514](http://arxiv.org/abs/2607.00514)|null|
+|**2026-06-30**|**Joint Effects of Recommender Systems and Network Structure on the Visibility of Content and Creators**|Virginia Morini et.al.|[2607.00258](http://arxiv.org/abs/2607.00258)|null|
 |**2026-06-30**|**GEAR: Guided End-to-End AutoRegression for Image Synthesis**|Bin Lin et.al.|[2606.32039](http://arxiv.org/abs/2606.32039)|null|
 |**2026-06-30**|**Autonomous UAV Navigation for Individual Wildlife Re-Identification**|Claire Sun et.al.|[2606.31772](http://arxiv.org/abs/2606.31772)|null|
 |**2026-06-30**|**Surprise as a Signal for Plasticity and Metacognition**|Louis Mouchon et.al.|[2606.31495](http://arxiv.org/abs/2606.31495)|null|
@@ -233,6 +246,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment**|Ziyao Wang et.al.|[2607.02471](http://arxiv.org/abs/2607.02471)|null|
+|**2026-07-01**|**Spotted: Location-informed Reidentification of Hyenas and Leopards in Camera Trap Surveys**|Halil Sina Kelebek et.al.|[2607.00804](http://arxiv.org/abs/2607.00804)|null|
 |**2026-06-30**|**Rethinking the Role of Feature Engineering and Learning Strategies in Few-Shot Hidden Emotion Recognition**|Xiaochuan Guo et.al.|[2606.31249](http://arxiv.org/abs/2606.31249)|null|
 |**2026-06-30**|**Dense Structural Priors for Sparse Functional Landmark Localization in Surgical Videos**|Chenyan Jing et.al.|[2606.31007](http://arxiv.org/abs/2606.31007)|null|
 |**2026-06-29**|**GROW $^2$ : Grounding Which and Where for Robot Tool Use**|Yuhong Deng et.al.|[2606.30632](http://arxiv.org/abs/2606.30632)|null|
@@ -373,6 +388,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**RadiomicNet: A Hybrid Radiomics-Guided Lightweight Architecture for Interpretable Medical Image Segmentation**|Mohammad Amanour Rahman et.al.|[2607.02185](http://arxiv.org/abs/2607.02185)|null|
+|**2026-07-02**|**Embracing Intra-Class Heterogeneity for Semi-Supervised Medical Image Segmentation: From Diversity to Precision**|Yuqi Liu et.al.|[2607.02051](http://arxiv.org/abs/2607.02051)|null|
+|**2026-07-02**|**Spatio-Temporal and Clinical Conditioning for Fine-Grained Radiology Report Retrieval**|P. Sloan et.al.|[2607.02024](http://arxiv.org/abs/2607.02024)|null|
+|**2026-07-02**|**HistoSeg++: Delving deeper with attention and multiscale feature fusion for biomarker segmentation**|Saad Wazir et.al.|[2607.01675](http://arxiv.org/abs/2607.01675)|null|
+|**2026-07-01**|**Noninvasive H3 K27M screening in pediatric diffuse midline glioma using radiomics on heterogeneous T2-weighted MRI**|Arthur Zagitov et.al.|[2607.01497](http://arxiv.org/abs/2607.01497)|null|
+|**2026-07-01**|**Foundation Models vs. Radiomics for Lung Computed Tomography: A Benchmark of Feature Extractors, Classification Heads, and Segmentation Choices**|Nils Neukirch et.al.|[2607.01001](http://arxiv.org/abs/2607.01001)|null|
+|**2026-07-02**|**Prior-Anchored Debiasing for Long-Tailed Multi-Organ Pathology Report Generation**|Feng Yang et.al.|[2607.00499](http://arxiv.org/abs/2607.00499)|null|
+|**2026-07-01**|**MedCAGD: Context-Aware Gated Decoder for Efficient Medical Image Segmentation**|Saad Wazir et.al.|[2607.00409](http://arxiv.org/abs/2607.00409)|null|
+|**2026-07-01**|**Enhancing Prostate Cancer Segmentation for Multi-Domain Generalization using a novel Parallel-Route Coherent Mixup Regularization Training**|Josiah Simeth et.al.|[2607.00370](http://arxiv.org/abs/2607.00370)|null|
+|**2026-06-30**|**Does Your ViT Still Need U-Net for Segmentation?**|Xin Li et.al.|[2607.00223](http://arxiv.org/abs/2607.00223)|null|
 |**2026-06-30**|**Towards Voxel Spacing Consistency for Medical Image Segmentation**|Xin You et.al.|[2606.31839](http://arxiv.org/abs/2606.31839)|null|
 |**2026-06-30**|**TaxoMIL: Taxonomy-Constrained Learning for Hierarchical Whole Slide Image Analysis**|Chaeyeon Lee et.al.|[2606.31100](http://arxiv.org/abs/2606.31100)|null|
 |**2026-06-30**|**Seeing Through Multiple Views: Parameter-Efficient Fine-Tuning via Selective Neurons for Consistent Radiology Report Generation**|Yucheng Chen et.al.|[2606.31099](http://arxiv.org/abs/2606.31099)|null|
@@ -537,6 +562,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension**|Shunya Kato et.al.|[2607.02096](http://arxiv.org/abs/2607.02096)|null|
+|**2026-07-02**|**MMIR-TCM: Memory-Integrated Multimodal Inference and Retrieval for TCM Clinical Decision Support**|Lihui Luo et.al.|[2607.01814](http://arxiv.org/abs/2607.01814)|null|
+|**2026-07-01**|**From Technical Metrics to User Perception: A User Study of a Multimodal Human-Robot Interaction System for Object Detection and Grasping**|Jian Song et.al.|[2607.00530](http://arxiv.org/abs/2607.00530)|null|
+|**2026-06-30**|**Synergistic Perception-Reasoning Governance: Grounding Medical MLLMs with Verifiable Anatomical Evidence**|Rui Hao et.al.|[2607.00060](http://arxiv.org/abs/2607.00060)|null|
 |**2026-06-30**|**Dense Structural Priors for Sparse Functional Landmark Localization in Surgical Videos**|Chenyan Jing et.al.|[2606.31007](http://arxiv.org/abs/2606.31007)|null|
 |**2026-06-29**|**PGE-SAM: Prompt-Guided Feature Enhancement for Interactive Segmentation under Degradation**|Tuan-Duc Nguyen et.al.|[2606.30477](http://arxiv.org/abs/2606.30477)|null|
 |**2026-06-29**|**Operational capabilities and on-sky performance of SAMOS at the completion of science commissioning**|Massimo Robberto et.al.|[2606.30207](http://arxiv.org/abs/2606.30207)|null|
