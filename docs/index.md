@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.07.20
+## Updated on 2026.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CLIP Prompt Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**Multiple Clausen values and deformed Apéry-like series**|Zhi-Wei Sun et.al.|[2607.14646](http://arxiv.org/abs/2607.14646)|null|
+|**2026-07-15**|**Positive superhumps in high mass ratio cataclysmic variables driven by apsidal disk precession**|Rebecca G. Martin et.al.|[2607.14307](http://arxiv.org/abs/2607.14307)|null|
 |**2026-07-15**|**Structured Reinforcement Learning for Bayesian Persuasion : Application to Intelligent Interactive Driving**|Merlin Paul et.al.|[2607.13576](http://arxiv.org/abs/2607.13576)|null|
 |**2026-07-14**|**Discovery of a star sensitive to the spin of Sgr A***|K. Abd El Dayem et.al.|[2607.12664](http://arxiv.org/abs/2607.12664)|null|
 |**2026-07-14**|**Role of spin-curvature and magnetic interactions on circular orbits of particles with magnetic monopole around Bardeen black holes**|Shokhzod Jumaniyozov et.al.|[2607.12486](http://arxiv.org/abs/2607.12486)|null|
@@ -96,6 +98,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**DiFA: Inference-Time Forward-Process Alignment for Diffusion Models**|Shigui Li et.al.|[2607.17972](http://arxiv.org/abs/2607.17972)|null|
+|**2026-07-19**|**Induce to Empower: Improving Lightweight Baselines via Foundation Model Induction for Generalized Polyp Segmentation**|Shivanshu Agnihotri et.al.|[2607.17208](http://arxiv.org/abs/2607.17208)|null|
+|**2026-07-18**|**Test-Time Registers as Global Priors for Tokenized Image Generation**|Cheng-Yao Hong et.al.|[2607.16824](http://arxiv.org/abs/2607.16824)|null|
+|**2026-07-18**|**Foundation-Assisted Active Learning for Object Detection Annotation**|Jinchang Zhang et.al.|[2607.16671](http://arxiv.org/abs/2607.16671)|null|
+|**2026-07-17**|**Geometry-Enhanced Portion Estimation for Multimodal LLMs**|Lin Liao et.al.|[2607.16514](http://arxiv.org/abs/2607.16514)|null|
+|**2026-07-16**|**Parameter-efficient Prompt Tuning of Vision Foundation Model With Adaptive Focal Loss for Interpretable MCI Screening**|Javad Khoramdel et.al.|[2607.15047](http://arxiv.org/abs/2607.15047)|null|
+|**2026-07-16**|**Multimodality as Supervision: Self-Supervised Specialization to the Test Environment via Multimodality**|Kunal Pratap Singh et.al.|[2607.14721](http://arxiv.org/abs/2607.14721)|null|
+|**2026-07-16**|**Multi-Scale ViT Inference with Habitat-Fit Priors and kNN Retrieval for Multi-Species Plant Identification**|Alper Erten et.al.|[2607.14509](http://arxiv.org/abs/2607.14509)|null|
 |**2026-07-15**|**Task-Specific Feature Fusion Method for Multi-Task Affective Behavior Analysis**|Jiajun Sun et.al.|[2607.13986](http://arxiv.org/abs/2607.13986)|null|
 |**2026-07-15**|**SaNDi-SHoP: Searching for Satellites'N'Disks with a Star-Hopping Program II. Spectrophotometric analysis and orbital monitoring of directly imaged companions**|Andrea Bernardi et.al.|[2607.13545](http://arxiv.org/abs/2607.13545)|null|
 |**2026-07-15**|**Detector Confidence Signals Presence Rather Than Occlusion in Cluttered Manipulation**|Yuanzhi He et.al.|[2607.13361](http://arxiv.org/abs/2607.13361)|null|
@@ -273,6 +283,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**Pixel-Space Diffusion Transformers**|Renye Yan et.al.|[2607.17585](http://arxiv.org/abs/2607.17585)|null|
+|**2026-07-17**|**DPNeXt: A Lightweight Multi-Scale Feature Fusion Framework for Efficient ViT-Based Multi-Task Dense Prediction**|Jehun Kang et.al.|[2607.16012](http://arxiv.org/abs/2607.16012)|null|
+|**2026-07-16**|**Hierarchical Denoising For Multi-Step Visual Reasoning**|Zezhong Qian et.al.|[2607.15278](http://arxiv.org/abs/2607.15278)|null|
+|**2026-07-16**|**SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment**|Saad Ejaz et.al.|[2607.15058](http://arxiv.org/abs/2607.15058)|null|
+|**2026-07-16**|**Parameter-efficient Prompt Tuning of Vision Foundation Model With Adaptive Focal Loss for Interpretable MCI Screening**|Javad Khoramdel et.al.|[2607.15047](http://arxiv.org/abs/2607.15047)|null|
+|**2026-07-16**|**Communication-Efficient Relative Pose Estimation with Vision Foundation Models for Ephemeral Collaborative Perception**|Qihang Li et.al.|[2607.14539](http://arxiv.org/abs/2607.14539)|null|
+|**2026-07-16**|**Reinforcing Egocentric Spatial Perception in Multimodal Large Language Models via Ego Scene Augmentation**|Chi Kit Wong et.al.|[2607.14497](http://arxiv.org/abs/2607.14497)|null|
+|**2026-07-15**|**Emergent Region-Level Facial Correspondence in Frozen Vision Foundation Models**|Izaldein Al-Zyoud et.al.|[2607.14423](http://arxiv.org/abs/2607.14423)|null|
+|**2026-07-15**|**SeeSE3: Emergence of 3D Space in Vision Features**|Caroline Chen et.al.|[2607.14228](http://arxiv.org/abs/2607.14228)|null|
+|**2026-07-15**|**A vision foundation model for single-cell biology via spatial gene cartography**|Ridvan Yesiloglu et.al.|[2607.14163](http://arxiv.org/abs/2607.14163)|null|
 |**2026-07-14**|**ViCo3D: Empowering LiDAR-based Collaborative 3D Object Detection with Vision Foundation Models**|Haojie Ren et.al.|[2607.12959](http://arxiv.org/abs/2607.12959)|null|
 |**2026-07-14**|**More Than Where You Are: Learning Semantics, Structure, and Geometry from Cross-View Localization**|Mao Chen et.al.|[2607.12429](http://arxiv.org/abs/2607.12429)|null|
 |**2026-07-14**|**Semantic-Edge Response Decoding of SAM3 for Zero-Shot Crack Segmentation**|Shipeng Liu et.al.|[2607.12292](http://arxiv.org/abs/2607.12292)|null|
@@ -410,6 +430,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**BrainNext: A General-Purpose Self-Supervised Foundation Model for Brain MRI Analysis**|Moona Mazher et.al.|[2607.17782](http://arxiv.org/abs/2607.17782)|null|
 |**2026-07-15**|**FM $^2$ : Unified Federated Foundation Models for Heterogeneous Multimodal Medical Imaging**|Shengchao Chen et.al.|[2607.13386](http://arxiv.org/abs/2607.13386)|null|
 |**2026-07-08**|**Vision Foundation Models in Radiology: A Scoping Review of Data, Methodology, Evaluation and Clinical Translation**|Alejandro Vergara-Richart et.al.|[2607.07219](http://arxiv.org/abs/2607.07219)|null|
 |**2026-07-08**|**Seeing What Matters: Lesion-Aware High-Resolution Patch Discovery and Fusion for Chest X-ray Report Generation**|Yingshu Li et.al.|[2607.06909](http://arxiv.org/abs/2607.06909)|null|
@@ -435,6 +456,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**Memory-Supported Synergistic Adaptation for Training-Free Test-Time Medical Image Segmentation**|Lingrui Li et.al.|[2607.17693](http://arxiv.org/abs/2607.17693)|null|
+|**2026-07-19**|**Understanding From Human Perspective: A Multi-agent System for Interactive Egocentric Medical Image Segmentation**|Rongjun Ge et.al.|[2607.17341](http://arxiv.org/abs/2607.17341)|null|
+|**2026-07-19**|**MIS-HCC: Hierarchical Channel Clustering for Efficient Medical Image Segmentation**|Bo Zhao et.al.|[2607.17329](http://arxiv.org/abs/2607.17329)|null|
+|**2026-07-18**|**OFD-Net: Teacher-Free Reliable Semi-supervised Medical Image Segmentation with Orthogonal Feature Disentanglement Net of Foreground-Background**|Shao-feng Jiang et.al.|[2607.16705](http://arxiv.org/abs/2607.16705)|null|
+|**2026-07-18**|**Can Multimodal Large Language Models Understand OCT?**|Baochen Fu et.al.|[2607.16609](http://arxiv.org/abs/2607.16609)|null|
+|**2026-07-17**|**Region-Grounded Vision-Language Learning for Detection-Guided Mammographic Lesion Classification**|Zhengbo Zhou et.al.|[2607.15615](http://arxiv.org/abs/2607.15615)|null|
+|**2026-07-16**|**Partial Information Decomposition as a Multi-Contrast 3D MRI Selection Strategy for Resource-Constrained Deep Neural Network Training in Brain Tumor Segmentation**|Agamdeep Chopra et.al.|[2607.15396](http://arxiv.org/abs/2607.15396)|null|
+|**2026-07-16**|**CRISP: Constrained Refinement via Iterative Squeezing Process for Robust Medical Image Segmentation under Domain Shift**|Yizhou Fang et.al.|[2607.15231](http://arxiv.org/abs/2607.15231)|null|
+|**2026-07-16**|**One-for-All Adaptive Radiotherapy Planning Agent: A Foundation Framework for Daily CBCT-guided Radiotherapy**|Shaoyan Pan et.al.|[2607.14870](http://arxiv.org/abs/2607.14870)|null|
+|**2026-07-15**|**ViPSAM: Visual Prompting Medical Image Segmentation Using Segment Anything Model**|San Lee et.al.|[2607.14328](http://arxiv.org/abs/2607.14328)|null|
 |**2026-07-15**|**Towards Enhancing 3D Spatial Reasoning in Medical Multimodal Large Language Models**|Zhuoyuan Fu et.al.|[2607.13860](http://arxiv.org/abs/2607.13860)|null|
 |**2026-07-15**|**TRACE-PCa: Predicting Prostate Cancer Progression from Longitudinal MRI During Active Surveillance**|Hongye Zeng et.al.|[2607.13506](http://arxiv.org/abs/2607.13506)|null|
 |**2026-07-14**|**SARFA: Segment Anything with Radiomic Feature Alignment**|Tyler Ward et.al.|[2607.13323](http://arxiv.org/abs/2607.13323)|null|
@@ -629,6 +660,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**Robust Multimodal Dynamic Object Segmentation**|Zhe Xin et.al.|[2607.18153](http://arxiv.org/abs/2607.18153)|null|
+|**2026-07-20**|**SAMRI-3D: Adapting SAM2 for 3D MRI Segmentation with Global Volume Tokens**|Zhao Wang et.al.|[2607.18014](http://arxiv.org/abs/2607.18014)|null|
+|**2026-07-20**|**Medical Imaging Fusing Vision Transformer: Laryngeal Cancer Screening with Explanation**|Haiyang Wang et.al.|[2607.17789](http://arxiv.org/abs/2607.17789)|null|
+|**2026-07-19**|**Induce to Empower: Improving Lightweight Baselines via Foundation Model Induction for Generalized Polyp Segmentation**|Shivanshu Agnihotri et.al.|[2607.17208](http://arxiv.org/abs/2607.17208)|null|
+|**2026-07-18**|**Foundation-Assisted Active Learning for Object Detection Annotation**|Jinchang Zhang et.al.|[2607.16671](http://arxiv.org/abs/2607.16671)|null|
+|**2026-07-18**|**Digital measurement of droplet flame diameter in microgravity combustion images using Segment Anything Model 2 with automatic prompt selection**|Minghui Xu et.al.|[2607.16587](http://arxiv.org/abs/2607.16587)|null|
+|**2026-07-16**|**Weakly-Supervised RGB-D Salient Object Detection via SAM-driven Pseudo Annotation and State Space Interaction-based Diffusion**|Wenqi Si et.al.|[2607.15041](http://arxiv.org/abs/2607.15041)|null|
+|**2026-07-15**|**ViPSAM: Visual Prompting Medical Image Segmentation Using Segment Anything Model**|San Lee et.al.|[2607.14328](http://arxiv.org/abs/2607.14328)|null|
+|**2026-07-15**|**XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation**|Md Mahedi Hasan et.al.|[2607.14287](http://arxiv.org/abs/2607.14287)|null|
 |**2026-07-15**|**CLIP-Guided Label-Free Discriminative Region Scoring for Fine-Grained Classification**|Yujie Zhu et.al.|[2607.13437](http://arxiv.org/abs/2607.13437)|null|
 |**2026-07-15**|**Detector Confidence Signals Presence Rather Than Occlusion in Cluttered Manipulation**|Yuanzhi He et.al.|[2607.13361](http://arxiv.org/abs/2607.13361)|null|
 |**2026-07-14**|**SARFA: Segment Anything with Radiomic Feature Alignment**|Tyler Ward et.al.|[2607.13323](http://arxiv.org/abs/2607.13323)|null|
