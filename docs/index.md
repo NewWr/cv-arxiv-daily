@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.10
+## Updated on 2026.08.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CLIP Prompt Learning
@@ -749,6 +749,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-09**|**Toward Mask Annotation-Free Surgical Instrument Segmentation from Endoscopic Images Using Text-Prompted Segment Anything Model 3 (SAM3)**|Nakul Poudel et.al.|[2608.08844](http://arxiv.org/abs/2608.08844)|null|
+|**2026-08-08**|**BAP-MOS: Bandit-Based Adaptive Prompting for Boundary-Sensitive Multi-Organ Segmentation**|Satvik Praveen et.al.|[2608.08191](http://arxiv.org/abs/2608.08191)|null|
+|**2026-08-06**|**Universal Concept Disruption for SAM3 Image Segmentation**|Hao Wang et.al.|[2608.05983](http://arxiv.org/abs/2608.05983)|null|
 |**2026-08-05**|**From Transparent Labware Segmentation to Collision Avoidance: A Real-Time Edge-Aware Perception Pipeline**|Shijun Ding et.al.|[2608.04769](http://arxiv.org/abs/2608.04769)|null|
 |**2026-08-05**|**EgoAfford: Task-Oriented Affordance Grounding via Egocentric Referring Segmentation**|Xinyuan Guan et.al.|[2608.04533](http://arxiv.org/abs/2608.04533)|null|
 |**2026-08-04**|**S $^3$ -Diff: Structural Semantic Synergy Diffusion Model for High Fidelity Super Resolution of Pathological Images**|Jiaming Liang et.al.|[2608.03540](http://arxiv.org/abs/2608.03540)|null|
