@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.08.31
+## Updated on 2026.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CLIP Prompt Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**Planar Three-Body Problem: theoretical predictions and simulation results**|Yogesh Dandekar et.al.|[2608.30414](http://arxiv.org/abs/2608.30414)|null|
+|**2026-08-31**|**Rethinking the Test-Time Prompt Tuning Objective from the Perspective of Calibration**|Jungwon Choi et.al.|[2608.30230](http://arxiv.org/abs/2608.30230)|null|
+|**2026-08-29**|**How much of the black hole ringdown is sourced within the light ring?**|Mark Ho-Yeuk Cheung et.al.|[2608.29466](http://arxiv.org/abs/2608.29466)|null|
 |**2026-08-26**|**Fairness-Aware Test-Time Prompt Tuning**|Yoann Launay et.al.|[2608.25707](http://arxiv.org/abs/2608.25707)|null|
 |**2026-08-21**|**alpha_theta waves in the tachoclines of Sun-like stars**|T. V. Zaqarashvili et.al.|[2608.21183](http://arxiv.org/abs/2608.21183)|null|
 |**2026-08-20**|**Estimating Many Constants With a Coin**|Shalosh B. Ekhad et.al.|[2608.20579](http://arxiv.org/abs/2608.20579)|null|
@@ -119,6 +122,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**Vision Models Predict Urban Scene Appraisal with Limited Neural Alignment**|Kaizhen Tan et.al.|[2608.30964](http://arxiv.org/abs/2608.30964)|null|
+|**2026-08-31**|**GAFT: Geo-Anchored Fine-Tuning for Hazard Identification from Rare Failures**|Yanran Xu et.al.|[2608.30858](http://arxiv.org/abs/2608.30858)|null|
+|**2026-08-28**|**MANTLE: A Framework for Adaptive In-Situ Planetary Perception Using a Modular Uplink Principle**|Pranav Durai et.al.|[2608.28724](http://arxiv.org/abs/2608.28724)|null|
+|**2026-08-27**|**ReVA: A Region-Aware Visual Assistant for Visually Grounded Question Answering**|Anoop Senthil et.al.|[2608.28707](http://arxiv.org/abs/2608.28707)|null|
 |**2026-08-28**|**WALDO: One-Shot Exemplar-Conditioned Object Detection in Cluttered Scenes**|Kishor Datta Gupta et.al.|[2608.28216](http://arxiv.org/abs/2608.28216)|null|
 |**2026-08-28**|**Explainable Diabetic Retinopathy Classification Using Vision Foundation Models**|Abhishek Verma et.al.|[2608.28207](http://arxiv.org/abs/2608.28207)|null|
 |**2026-08-27**|**ShiftSplit-AD: Separating Domain Shift from Defects in Foundation-Feature Visual Anomaly Detection**|Muhamathu Ameer Ali Aacaas Muhamath et.al.|[2608.27610](http://arxiv.org/abs/2608.27610)|null|
@@ -335,6 +342,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**GAFT: Geo-Anchored Fine-Tuning for Hazard Identification from Rare Failures**|Yanran Xu et.al.|[2608.30858](http://arxiv.org/abs/2608.30858)|null|
+|**2026-08-31**|**Learning Radio Astronomical Representations with LeJEPA and Very Small Models**|Erica Lastufka et.al.|[2608.30594](http://arxiv.org/abs/2608.30594)|null|
+|**2026-08-31**|**Uncertainty of Vision Medical Foundation Models**|Haoxu Huang et.al.|[2608.30390](http://arxiv.org/abs/2608.30390)|null|
+|**2026-08-30**|**Evaluating 2D and 3D-Aware Vision Foundation Models for Vehicle Attribute Recognition**|Alexandre V. Delazeri et.al.|[2608.29929](http://arxiv.org/abs/2608.29929)|null|
+|**2026-08-29**|**SGPDFuse: Semantically-Guided Physics-Disentanglement General Multi-Modal Image Fusion**|Haozhen Wei et.al.|[2608.29220](http://arxiv.org/abs/2608.29220)|null|
 |**2026-08-28**|**GeBDA: Building Damage Assessment as Text-Based Sequence Prediction**|Olivier Dietrich et.al.|[2608.28567](http://arxiv.org/abs/2608.28567)|null|
 |**2026-08-28**|**Explainable Diabetic Retinopathy Classification Using Vision Foundation Models**|Abhishek Verma et.al.|[2608.28207](http://arxiv.org/abs/2608.28207)|null|
 |**2026-08-28**|**Cut-ViT: Task-Specific Model Pruning via Gram Anchoring Subspace Consistency**|Jianjian Yin et.al.|[2608.28205](http://arxiv.org/abs/2608.28205)|null|
@@ -517,8 +529,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**Uncertainty of Vision Medical Foundation Models**|Haoxu Huang et.al.|[2608.30390](http://arxiv.org/abs/2608.30390)|null|
 |**2026-08-26**|**Auditable CT Phenotyping Through Report-derived Radiological Observations**|Riga Wu et.al.|[2608.25948](http://arxiv.org/abs/2608.25948)|null|
-|**2026-08-21**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300](http://arxiv.org/abs/2608.21300)|null|
+|**2026-08-29**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300](http://arxiv.org/abs/2608.21300)|null|
 |**2026-08-17**|**CoM $^3$ eT: A foundation model for medical image analysis through federated, multidimensional context integration**|J. Raphael Schäfer et.al.|[2608.16268](http://arxiv.org/abs/2608.16268)|null|
 |**2026-08-14**|**Zero-Shot Adaptation of Medical Vision Foundation Models for High-Frequency Micro-Ultrasound Prostate Segmentation**|Ayusha Abbas et.al.|[2608.14796](http://arxiv.org/abs/2608.14796)|null|
 |**2026-08-03**|**Generative AI and Foundation Models in Medical Image**|Masahiro Oda et.al.|[2608.01686](http://arxiv.org/abs/2608.01686)|null|
@@ -549,6 +562,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**Pretrained, Curriculum-Tuned, and Ensembled: A Tracer-Aware Interactive Segmentation Pipeline for AutoPET V**|Xinglong Liang et.al.|[2608.30844](http://arxiv.org/abs/2608.30844)|null|
+|**2026-08-31**|**Reliable Benchmarking of Artifact Detection in Computational Pathology: A Reproducibility and Uncertainty Analysis**|Konstantinos Moutselos et.al.|[2608.30835](http://arxiv.org/abs/2608.30835)|null|
+|**2026-08-31**|**Federated Multi-Task Learning for Bladder Tumor Segmentation and MIBC Classification Using a Hybrid CNN-Transformer Architecture**|Malhar Udmale et.al.|[2608.30458](http://arxiv.org/abs/2608.30458)|null|
+|**2026-08-31**|**Whole-Slide Image Analysis under Realistic Few-Shot Annotation Protocols**|Tiffanie Godelaine et.al.|[2608.30420](http://arxiv.org/abs/2608.30420)|null|
+|**2026-08-30**|**On the Role of MRI Sequences in Cross-Dataset Generalization for Brain Tumor Segmentation**|Henrique Zan Grande et.al.|[2608.29944](http://arxiv.org/abs/2608.29944)|null|
+|**2026-08-30**|**MedSegBenchmarker: A Raw-Count-First Framework for Controlled 2D Medical Image Segmentation Benchmarks**|Vanessa Borst et.al.|[2608.29677](http://arxiv.org/abs/2608.29677)|null|
+|**2026-08-29**|**Subtraction-Based Tumor Segmentation and Lesion-Centered pCR Prediction for the MAMA-MIA Challenge**|Kai Geissler et.al.|[2608.29162](http://arxiv.org/abs/2608.29162)|null|
+|**2026-08-29**|**SGRNet: Spatially Guided Radiology Network for Structured Radiological Reporting of Head and Neck Cancer**|Ayush Gupta et.al.|[2608.29153](http://arxiv.org/abs/2608.29153)|null|
+|**2026-08-28**|**Coarse to Fine: Iterative Adversarial Neural Cellular Automata for Medical Image Synthesis**|Anh Thi Luu et.al.|[2608.28909](http://arxiv.org/abs/2608.28909)|null|
+|**2026-08-28**|**Beyond Representation Learning: A Systematic Study of Joint-Embedding Predictive Generation for 3D Brain MRI**|Meng Zhou et.al.|[2608.28787](http://arxiv.org/abs/2608.28787)|null|
 |**2026-08-28**|**Texture Image Classification Using DWT AlexNet Feature Fusion and Deep Neural Networks**|Arun D. Kulkarni et.al.|[2608.28524](http://arxiv.org/abs/2608.28524)|null|
 |**2026-08-28**|**Anatomy-Aware Promptable Segmentation with Online Interactive Training for AUTOPET V**|Pablo Lozano-Jimenez et.al.|[2608.28461](http://arxiv.org/abs/2608.28461)|null|
 |**2026-08-27**|**Report Supervision**|Pedro R. A. S. Bassia et.al.|[2608.27668](http://arxiv.org/abs/2608.27668)|null|
@@ -793,6 +816,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-30**|**FoundYou: A Unified Model for Personalized Segmentation and Retrieval**|Gabriele Trivigno et.al.|[2608.29917](http://arxiv.org/abs/2608.29917)|null|
 |**2026-08-28**|**Anatomy-Aware Promptable Segmentation with Online Interactive Training for AUTOPET V**|Pablo Lozano-Jimenez et.al.|[2608.28461](http://arxiv.org/abs/2608.28461)|null|
 |**2026-08-28**|**Training-free Suction Grasp Detection for Deformed Aseptic Cartons Using Vision-Language Models and Geometric Surface Scoring**|Marin Maletic et.al.|[2608.28246](http://arxiv.org/abs/2608.28246)|null|
 |**2026-08-27**|**Text-to-seed generation: Training-free open-vocabulary seeded semantic segmentation via re-purposing diffusion as text-guided seed generator**|Kumju Jo et.al.|[2608.26624](http://arxiv.org/abs/2608.26624)|null|
