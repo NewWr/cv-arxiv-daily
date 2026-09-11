@@ -2,13 +2,22 @@
 layout: default
 ---
 
-## Updated on 2026.09.07
+## Updated on 2026.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CLIP Prompt Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**MAPLE: Memory-Augmented Planning with Language and Evolution**|Kesheng Chen et.al.|[2609.11636](http://arxiv.org/abs/2609.11636)|null|
+|**2026-09-10**|**Eclipse Properties and Superhump Evolution in the SU UMa-Type Dwarf Nova Z Cha**|Qi-Bin Sun et.al.|[2609.10966](http://arxiv.org/abs/2609.10966)|null|
+|**2026-09-09**|**A New Sparse Algorithm for Polynomial GCD over Integers**|Qiao-Long Huang et.al.|[2609.10626](http://arxiv.org/abs/2609.10626)|null|
+|**2026-09-08**|**Low-Rank Prompt Learning for Vision-Language Models with Fixed-Token Bases**|Tanvir Muntakim Tonoy et.al.|[2609.09462](http://arxiv.org/abs/2609.09462)|null|
+|**2026-09-08**|**Electromagnetic Emission and Orbital Evolution of Eccentric Supermassive Black Hole Binaries in Retrograde Disks**|David ONeill et.al.|[2609.09314](http://arxiv.org/abs/2609.09314)|null|
+|**2026-09-06**|**An Outer Giant Excites and Constrains the Orbit of $π$ Mensae d**|Qunfeng Jiang et.al.|[2609.06682](http://arxiv.org/abs/2609.06682)|null|
+|**2026-09-04**|**Rotational broadening of exoplanet spectra in arbitrarily oriented systems: Application to reflected light**|Sophia R. Vaughan et.al.|[2609.05619](http://arxiv.org/abs/2609.05619)|null|
+|**2026-09-04**|**Electromagnetic alignment and jet precession around supermassive black holes: Quasi-periodic oscillations in tidal disruption events**|Pau Amaro-Seoane et.al.|[2609.05350](http://arxiv.org/abs/2609.05350)|null|
+|**2026-09-03**|**Exact quantum spin liquids with topological order on maple-leaf and trellis lattices**|Li Ern Chern et.al.|[2609.04319](http://arxiv.org/abs/2609.04319)|null|
 |**2026-09-02**|**Computational Algorithms for Invariant Reduction of Variational Forms**|Kostya Druzhkov et.al.|[2609.03197](http://arxiv.org/abs/2609.03197)|null|
 |**2026-09-01**|**Slow stellar halo rotation as a signature of disc flips and GES-like mergers**|Kirill Batrakov et.al.|[2609.01208](http://arxiv.org/abs/2609.01208)|null|
 |**2026-08-31**|**Planar Three-Body Problem: theoretical predictions and simulation results**|Yogesh Dandekar et.al.|[2608.30414](http://arxiv.org/abs/2608.30414)|null|
@@ -124,6 +133,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**DINO-Med: A Unified Patch-Based Adaptation Framework for Multi-Modal Medical Image Analysis Applied to Liver Fibrosis Staging**|Boya Wang et.al.|[2609.11380](http://arxiv.org/abs/2609.11380)|null|
+|**2026-09-10**|**A Multi-View and Confusion-Guided Ensemble Framework for Robust Synthetic Image Attribution**|Zuomin Qu et.al.|[2609.11188](http://arxiv.org/abs/2609.11188)|null|
+|**2026-09-09**|**DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation**|Nisarga Nilavadi et.al.|[2609.10506](http://arxiv.org/abs/2609.10506)|null|
+|**2026-09-09**|**Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization**|Andy Zeyi Liu et.al.|[2609.10464](http://arxiv.org/abs/2609.10464)|null|
+|**2026-09-08**|**RoMa- $Ω$ : What Feed-Forward 3D Models Know About Image Matching**|David Nordström et.al.|[2609.09507](http://arxiv.org/abs/2609.09507)|null|
+|**2026-09-08**|**"World Knowledge" in the Weights: Reading Concept Circuits of Vision Transformers**|Yanlin Chen et.al.|[2609.09055](http://arxiv.org/abs/2609.09055)|null|
+|**2026-09-08**|**DXPR: Depth-Based Vision-LiDAR Cross-Modal Place Recognition Using Vision Foundation Models**|Yungsoo Han et.al.|[2609.09005](http://arxiv.org/abs/2609.09005)|null|
+|**2026-09-07**|**TDDN: Text-aligned Diffused DINO Network for Puzzle Understanding**|Harsha Patnala et.al.|[2609.07937](http://arxiv.org/abs/2609.07937)|null|
+|**2026-09-07**|**Harnessing CLIP and DINO: An Uncertainty-Aware Cascaded Fusion Network for Generalizable Deepfake Image Detection**|Xuechao Zou et.al.|[2609.07670](http://arxiv.org/abs/2609.07670)|null|
+|**2026-09-07**|**CrACK: Adversarial Attacks on Cross-Model Consistency in Collaborative Vision Foundation Models**|Feifei Liu et.al.|[2609.07499](http://arxiv.org/abs/2609.07499)|null|
 |**2026-09-02**|**ProgResViT: Progressive Resolution and Width for Adaptive Vision Transformers**|Ali Hojjat et.al.|[2609.03216](http://arxiv.org/abs/2609.03216)|null|
 |**2026-09-02**|**InstEditSeg: Instruction-Driven Image Editing for Polyp and Skin Lesion Segmentation**|Ziquan Liu et.al.|[2609.02004](http://arxiv.org/abs/2609.02004)|null|
 |**2026-09-02**|**Aggregating Neighbor Embedding Projection and Rank-Based Manifold Learning for Image Retrieval**|Vinicius Atsushi Sato Kawai et.al.|[2609.01963](http://arxiv.org/abs/2609.01963)|null|
@@ -348,6 +367,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Revisiting Avatar-As-Image: High-Fidelity Registration is All You Need**|Margaret Kostyrko et.al.|[2609.11722](http://arxiv.org/abs/2609.11722)|null|
+|**2026-09-10**|**DINO-Med: A Unified Patch-Based Adaptation Framework for Multi-Modal Medical Image Analysis Applied to Liver Fibrosis Staging**|Boya Wang et.al.|[2609.11380](http://arxiv.org/abs/2609.11380)|null|
+|**2026-09-08**|**DXPR: Depth-Based Vision-LiDAR Cross-Modal Place Recognition Using Vision Foundation Models**|Yungsoo Han et.al.|[2609.09005](http://arxiv.org/abs/2609.09005)|null|
+|**2026-09-08**|**Leveraging Visual and Geometric Priors for Metric-scale and Complete Vehicle Gaussian Reconstruction from Limited Views**|Jinyu Miao et.al.|[2609.08841](http://arxiv.org/abs/2609.08841)|null|
+|**2026-09-08**|**SAM3-O2D2: Zero-Shot Object Out-of-Distribution Detection by Object Class Prompting of the SAM3-Image Model**|Lucas Görnhardt et.al.|[2609.08281](http://arxiv.org/abs/2609.08281)|null|
+|**2026-09-07**|**Cross-modal learning for SAR target recognition using optical vision foundation models**|Lucas Hirsch et.al.|[2609.07753](http://arxiv.org/abs/2609.07753)|null|
+|**2026-09-07**|**Harnessing CLIP and DINO: An Uncertainty-Aware Cascaded Fusion Network for Generalizable Deepfake Image Detection**|Xuechao Zou et.al.|[2609.07670](http://arxiv.org/abs/2609.07670)|null|
+|**2026-09-07**|**CrACK: Adversarial Attacks on Cross-Model Consistency in Collaborative Vision Foundation Models**|Feifei Liu et.al.|[2609.07499](http://arxiv.org/abs/2609.07499)|null|
+|**2026-09-06**|**Organization of Valence and Arousal in Vision-Language Representations of Built Environments: Insights from the EMOIS Dataset**|Madoka Yonekura et.al.|[2609.06870](http://arxiv.org/abs/2609.06870)|null|
+|**2026-09-05**|**Adapting Vision Foundation Models to Acoustics for Pose-Free 3D Sonar Reconstruction**|Kevin Zhang et.al.|[2609.06261](http://arxiv.org/abs/2609.06261)|null|
 |**2026-09-03**|**PL-SCEA: Reconfiguring Pretrained Attention for Few-Shot Industrial Anomaly Detection**|Xiaoyu Yang et.al.|[2609.03655](http://arxiv.org/abs/2609.03655)|null|
 |**2026-09-03**|**R2S-Eval: Robot Evaluation with Real-to-Sim Calibration via Vision-Language Models**|Yidi Wang et.al.|[2609.03276](http://arxiv.org/abs/2609.03276)|null|
 |**2026-09-02**|**Morphology signal in whole slide image foundation models can automatically triage slides**|Ayushi Sinha et.al.|[2609.01987](http://arxiv.org/abs/2609.01987)|null|
@@ -540,6 +569,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-07**|**A visual large language foundational model for medical image recognition using clinician-oriented social media**|Lingxuan Hou et.al.|[2609.06914](http://arxiv.org/abs/2609.06914)|null|
 |**2026-08-31**|**Uncertainty of Vision Medical Foundation Models**|Haoxu Huang et.al.|[2608.30390](http://arxiv.org/abs/2608.30390)|null|
 |**2026-08-26**|**Auditable CT Phenotyping Through Report-derived Radiological Observations**|Riga Wu et.al.|[2608.25948](http://arxiv.org/abs/2608.25948)|null|
 |**2026-08-29**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300](http://arxiv.org/abs/2608.21300)|null|
@@ -573,6 +603,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**DINO-Med: A Unified Patch-Based Adaptation Framework for Multi-Modal Medical Image Analysis Applied to Liver Fibrosis Staging**|Boya Wang et.al.|[2609.11380](http://arxiv.org/abs/2609.11380)|null|
+|**2026-09-09**|**Seamless Whole Slide Label-Free Virtual Staining**|Dou Hoon Kwark et.al.|[2609.10914](http://arxiv.org/abs/2609.10914)|null|
+|**2026-09-09**|**Two-Parameter Flow Map Learning for Continuous-Time Diffeomorphic Image Registration**|Mohammadjavad Matinkia et.al.|[2609.10789](http://arxiv.org/abs/2609.10789)|null|
+|**2026-09-09**|**When Fusion Fails: Corruption-Aware Rebalanced Fusion for Multi-Modal Medical Image Segmentation**|Yuchen Pei et.al.|[2609.10261](http://arxiv.org/abs/2609.10261)|null|
+|**2026-09-10**|**From Few-Shot Segmentation to Clinician-in-the-Loop Medical Image Analysis**|Yazhou Zhu et.al.|[2609.10001](http://arxiv.org/abs/2609.10001)|null|
+|**2026-09-09**|**LightMedSeg-ISLES: Stroke Lesion Segmentation with 81x Fewer Parameters than nnU-Net**|Giorgi Nikvashvili et.al.|[2609.09634](http://arxiv.org/abs/2609.09634)|null|
+|**2026-09-08**|**CHIMERA Challenge Task 2 and 3: Response Subtypes Classification and Progression Survival Prediction in Bladder Cancer Patients using Multimodal Datasets**|Catherine Chia et.al.|[2609.09510](http://arxiv.org/abs/2609.09510)|null|
+|**2026-09-08**|**CAR-MIL: Counterfactual Attention Regularization for Multiple Instance Learning**|Imane Chraki et.al.|[2609.08419](http://arxiv.org/abs/2609.08419)|null|
+|**2026-09-08**|**TRIUNE-Net: Harmonizing Scale, Shape, and Efficiency in Pancreatic Tumor Segmentation**|Amir Hossein Saleknia et.al.|[2609.08303](http://arxiv.org/abs/2609.08303)|null|
+|**2026-09-07**|**Zero-Shot 3D Plant Organ Segmentation with SAM3 and Semantic NeRFs**|Andreas Gilson et.al.|[2609.07724](http://arxiv.org/abs/2609.07724)|null|
 |**2026-09-03**|**Computationally Efficient Pathology Segmentation using Knowledge Distillation from Foundation Models**|Jiaqi Lv et.al.|[2609.03947](http://arxiv.org/abs/2609.03947)|null|
 |**2026-09-03**|**Auditing Patient Privacy in Medical Generative Models: Scalable Memorization Detection with DeepSSIM++**|Antonio Scardace et.al.|[2609.03615](http://arxiv.org/abs/2609.03615)|null|
 |**2026-09-03**|**Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation**|Yinan Liu et.al.|[2609.03535](http://arxiv.org/abs/2609.03535)|null|
@@ -837,6 +877,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Spectral Adapters for Segment Anything Model-based Segmentation of Colorectal Liver Metastases in Computed Tomography**|Ramtin Mojtahedi et.al.|[2609.11703](http://arxiv.org/abs/2609.11703)|null|
+|**2026-09-10**|**BruNet: A Cross-Domain Transfer Framework for Bruise Segmentation**|Qiming Wang et.al.|[2609.11463](http://arxiv.org/abs/2609.11463)|null|
+|**2026-09-10**|**DINO-Med: A Unified Patch-Based Adaptation Framework for Multi-Modal Medical Image Analysis Applied to Liver Fibrosis Staging**|Boya Wang et.al.|[2609.11380](http://arxiv.org/abs/2609.11380)|null|
+|**2026-09-10**|**SAMV-DUSt3R: Instance-Centric 3D Scene Decoupling from Sparse Multi-Views**|Langxu Zhao et.al.|[2609.11279](http://arxiv.org/abs/2609.11279)|null|
+|**2026-09-09**|**Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Polyp Segmentation**|Siddharth Gupta et.al.|[2609.10495](http://arxiv.org/abs/2609.10495)|null|
+|**2026-09-08**|**SeGDeP: Semantic- and Geometric-Aware Decoupled Prompts for Reasoning Segmentation**|Linnan Zhao et.al.|[2609.08867](http://arxiv.org/abs/2609.08867)|null|
+|**2026-09-08**|**Segment Any Motion with Radar: Robust Multimodal Moving-Object Segmentation and Tracking**|Jue Wang et.al.|[2609.08346](http://arxiv.org/abs/2609.08346)|null|
+|**2026-09-07**|**CrACK: Adversarial Attacks on Cross-Model Consistency in Collaborative Vision Foundation Models**|Feifei Liu et.al.|[2609.07499](http://arxiv.org/abs/2609.07499)|null|
+|**2026-09-06**|**Diffuse2Seg: Diffusion Models Can Segment Anything Without Supervision**|Christoph Hümmer et.al.|[2609.06491](http://arxiv.org/abs/2609.06491)|null|
+|**2026-09-04**|**SAM-D2Q: Aligning Multimodal Doc2Query with Search Demand and Conversion for E-commerce**|Hui Zhou et.al.|[2609.04961](http://arxiv.org/abs/2609.04961)|null|
 |**2026-09-03**|**ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation**|Javier del Pino et.al.|[2609.03756](http://arxiv.org/abs/2609.03756)|null|
 |**2026-09-02**|**Progressive Pseudo-Label Optimization for Point-Supervised Change Detection**|Hailong Ning et.al.|[2609.02171](http://arxiv.org/abs/2609.02171)|null|
 |**2026-09-02**|**Neuro-Symbolic Geometric Abstraction (NeuSOGA): From Observations to Symbolic Mathematical Representations**|Qingde Li et.al.|[2609.01408](http://arxiv.org/abs/2609.01408)|null|
