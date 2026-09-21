@@ -1,4 +1,4 @@
-## Updated on 2026.09.16
+## Updated on 2026.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-18**|**The harmonic curvature of 3-link snake robots**|Martin Doležal et.al.|[2609.21491](http://arxiv.org/abs/2609.21491)|null|
+|**2026-09-17**|**MAPLE-RF: Efficient Probabilistic RF Source Localization in Partially Explored Environments**|Haozhe Lei et.al.|[2609.21026](http://arxiv.org/abs/2609.21026)|null|
+|**2026-09-16**|**The T-GEX project. II. Chrono-chemo-dynamic signatures of UV-bright FGK stars**|D. Beltrán et.al.|[2609.19257](http://arxiv.org/abs/2609.19257)|null|
+|**2026-09-16**|**Probabilistic Linear Explanations**|Frederic Koriche et.al.|[2609.19077](http://arxiv.org/abs/2609.19077)|null|
+|**2026-09-16**|**Causal structure and optical signatures of rotating power law Kalb-Ramond geometry**|Hassan Hassanabadi et.al.|[2609.18377](http://arxiv.org/abs/2609.18377)|null|
 |**2026-09-15**|**Bridging the Confidence Gap: Temperature Scaling for Calibrating Test-Time Prompt Tuning**|Yuwei Liang et.al.|[2609.17386](http://arxiv.org/abs/2609.17386)|null|
 |**2026-09-10**|**MAPLE: Memory-Augmented Planning with Language and Evolution**|Kesheng Chen et.al.|[2609.11636](http://arxiv.org/abs/2609.11636)|null|
 |**2026-09-10**|**Eclipse Properties and Superhump Evolution in the SU UMa-Type Dwarf Nova Z Cha**|Qi-Bin Sun et.al.|[2609.10966](http://arxiv.org/abs/2609.10966)|null|
@@ -138,12 +143,21 @@
 |**2026-03-29**|**A Possible Mechanism to Explain the Prograde Equatorial Jet of a Jupiter-like Gaseous Giant**|Yuchen Lian et.al.|[2603.27591](http://arxiv.org/abs/2603.27591)|null|
 |**2026-03-31**|**ROLLIN': Rotating globular cluster simulations. I. The kinematic evolution of realistic direct N-body models**|P. Bianchini et.al.|[2603.26195](http://arxiv.org/abs/2603.26195)|null|
 
-<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 ## DINO & Self-Supervised ViT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-18**|**Sandwich-Residuals: Parameter-Efficient Test-time Adaptation of World Models**|Krishnam Soni et.al.|[2609.21740](http://arxiv.org/abs/2609.21740)|null|
+|**2026-09-18**|**AgenticSwarm: Semantic Perception and Adaptive Task Allocation for Heterogeneous Multi-UAV Missions**|Muhammad Ahsan Mustafa et.al.|[2609.21716](http://arxiv.org/abs/2609.21716)|null|
+|**2026-09-18**|**S3VD: Semantic-Guidance Spatio-Temporal Scanning for Video Deraining**|Kui Jiang et.al.|[2609.21322](http://arxiv.org/abs/2609.21322)|null|
+|**2026-09-18**|**SafeStyle: Calibrated Style Residual Injection for Controllable Style-Leakage Trade-off in Diffusion Stylization**|Zhangping Yang et.al.|[2609.21242](http://arxiv.org/abs/2609.21242)|null|
+|**2026-09-17**|**WM-VS: Progress-Aligned World Models for Closed-Loop Visual Servoing**|Guanzhong Sun et.al.|[2609.20892](http://arxiv.org/abs/2609.20892)|null|
+|**2026-09-18**|**Synthetic Fingerprints for Children Under Four: Generation and Biometric Evaluation**|Faheem Ahmad et.al.|[2609.20621](http://arxiv.org/abs/2609.20621)|null|
+|**2026-09-17**|**Automated Goldsmith's Mark Retrieval in Silverware**|Atmik Tiwari et.al.|[2609.20509](http://arxiv.org/abs/2609.20509)|null|
+|**2026-09-16**|**Learning Where to Focus: Self-Supervised Multi-Scale ViTs for Histopathology**|Anabel Stammer et.al.|[2609.18578](http://arxiv.org/abs/2609.18578)|null|
+|**2026-09-15**|**CALIPER: Metric-Grounded Model-Free Recognition of Visually Similar Industrial Parts**|Alankrit Gupta et.al.|[2609.17820](http://arxiv.org/abs/2609.17820)|null|
 |**2026-09-15**|**Modality-Autoregressive World-Action Models**|Adam Hung et.al.|[2609.17524](http://arxiv.org/abs/2609.17524)|null|
 |**2026-09-15**|**Exploring 2D backbone effects for indoor semantic occupancy prediction**|Shizhang Fanga et.al.|[2609.17257](http://arxiv.org/abs/2609.17257)|null|
 |**2026-09-14**|**Predictor Construction Can Reverse Multimodal Neural Contrasts**|Lucas Nadolskis et.al.|[2609.16430](http://arxiv.org/abs/2609.16430)|null|
@@ -383,12 +397,17 @@
 |**2026-04-13**|**Boxes2Pixels: Learning Defect Segmentation from Noisy SAM Masks**|Camile Lendering et.al.|[2604.11162](http://arxiv.org/abs/2604.11162)|null|
 |**2026-04-13**|**Using Deep Learning Models Pretrained by Self-Supervised Learning for Protein Localization**|Ben Isselmann et.al.|[2604.10970](http://arxiv.org/abs/2604.10970)|null|
 
-<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 ## Vision Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-18**|**VoxelTTO: Voxel-Aligned Feed-Forward 3D Gaussian Splatting with Test-Time Optimization**|Yibin Zhao et.al.|[2609.21498](http://arxiv.org/abs/2609.21498)|null|
+|**2026-09-17**|**Generative inversion for early ranking of competing geologic interpretations**|Harun Ur Rashid et.al.|[2609.20978](http://arxiv.org/abs/2609.20978)|null|
+|**2026-09-17**|**FreqDINO++: A Frequency-Guided Multi-Task Routing Vision Foundation Model for Universal Ultrasound Analysis**|Qing Xu et.al.|[2609.20340](http://arxiv.org/abs/2609.20340)|null|
+|**2026-09-16**|**From Rollout to Reset: A Graph-Based Harness for Autonomous Long-Horizon Manipulation Evaluation**|Jing Jiang et.al.|[2609.19413](http://arxiv.org/abs/2609.19413)|null|
+|**2026-09-16**|**Semantic-ITC: A Frame-wise Indoor Mobile Laser Scanning Dataset and Benchmark for Semantic Segmentation**|Haiyang Wu et.al.|[2609.18493](http://arxiv.org/abs/2609.18493)|null|
 |**2026-09-12**|**Vision-Force Admittance Learning for Peg Insertion into a Movable Hole**|Yuzhong Chen et.al.|[2609.14133](http://arxiv.org/abs/2609.14133)|null|
 |**2026-09-11**|**Bridging Vision Foundation Model Priors with CLIP for Spatial-aware Few-shot Anomaly Detection in Medical Images**|Juzheng Miao et.al.|[2609.12454](http://arxiv.org/abs/2609.12454)|null|
 |**2026-09-10**|**Revisiting Avatar-As-Image: High-Fidelity Registration is All You Need**|Margaret Kostyrko et.al.|[2609.11722](http://arxiv.org/abs/2609.11722)|null|
@@ -589,13 +608,13 @@
 |**2026-04-12**|**ReplicateAnyScene: Zero-Shot Video-to-3D Composition via Textual-Visual-Spatial Alignment**|Mingyu Dong et.al.|[2604.10789](http://arxiv.org/abs/2604.10789)|null|
 |**2026-04-12**|**AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Afford Correspondence**|Jiawei Zhang et.al.|[2604.10579](http://arxiv.org/abs/2604.10579)|null|
 
-<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 ## Medical Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-07**|**A visual large language foundational model for medical image recognition using clinician-oriented social media**|Lingxuan Hou et.al.|[2609.06914](http://arxiv.org/abs/2609.06914)|null|
+|**2026-09-17**|**A visual large language foundational model for medical image recognition using clinician-contributed online resources**|Lingxuan Hou et.al.|[2609.06914](http://arxiv.org/abs/2609.06914)|null|
 |**2026-08-31**|**Uncertainty of Vision Medical Foundation Models**|Haoxu Huang et.al.|[2608.30390](http://arxiv.org/abs/2608.30390)|null|
 |**2026-08-26**|**Auditable CT Phenotyping Through Report-derived Radiological Observations**|Riga Wu et.al.|[2608.25948](http://arxiv.org/abs/2608.25948)|null|
 |**2026-08-29**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300](http://arxiv.org/abs/2608.21300)|null|
@@ -625,12 +644,21 @@
 |**2026-02-25**|**Axial-Centric Cross-Plane Attention for 3D Medical Image Classification**|Doyoung Park et.al.|[2602.21636](http://arxiv.org/abs/2602.21636)|null|
 |**2026-02-17**|**Foundation Models for Medical Imaging: Status, Challenges, and Directions**|Chuang Niu et.al.|[2602.15913](http://arxiv.org/abs/2602.15913)|null|
 
-<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 ## Medical Image Deep Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-18**|**Purification and Regulation: Comorbidity-Aware Multi-Label Few-Shot Learning for Medical Image Classification**|Ying-Chih Lin et.al.|[2609.21541](http://arxiv.org/abs/2609.21541)|null|
+|**2026-09-18**|**When Online Adaptation Hurts: Parameter-Frozen Test-Time Ensembling for Continual Medical Image Segmentation**|Ruijie Huang et.al.|[2609.21412](http://arxiv.org/abs/2609.21412)|null|
+|**2026-09-17**|**FreqDINO++: A Frequency-Guided Multi-Task Routing Vision Foundation Model for Universal Ultrasound Analysis**|Qing Xu et.al.|[2609.20340](http://arxiv.org/abs/2609.20340)|null|
+|**2026-09-18**|**Ischemic Stroke Segmentation and Net Water Uptake Quantification on Multicenter Non-Contrast CT Using Supervised Target-Domain Adaptation**|Linus Britt et.al.|[2609.20151](http://arxiv.org/abs/2609.20151)|null|
+|**2026-09-17**|**G^2RA-NET: Graph-based Cross-Slice Relation Modeling with Attention Gating for Medical Image Segmentation**|Shengye Wang et.al.|[2609.20088](http://arxiv.org/abs/2609.20088)|null|
+|**2026-09-17**|**BINDER: A Latent Variable Model for Probabilistic Medical Image Registration**|Stefano Cerri et.al.|[2609.19875](http://arxiv.org/abs/2609.19875)|null|
+|**2026-09-16**|**Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation**|Daniel P. Jeong et.al.|[2609.19093](http://arxiv.org/abs/2609.19093)|null|
+|**2026-09-16**|**Evolving Error States: Failure-Aware Progressive Repair for Ultrasound Lesion Segmentation**|Ziliang Wang et.al.|[2609.18256](http://arxiv.org/abs/2609.18256)|null|
+|**2026-09-15**|**Beyond Performance Metrics: Uncertainty Mapping of Label Ambiguity in Fazekas Score Prediction**|Susanne Schmid et.al.|[2609.17753](http://arxiv.org/abs/2609.17753)|null|
 |**2026-09-15**|**NeuroTS-Net: Multi-Class Semantic Segmentation of Pediatric Brain Tumors in Multi-Modal MRI**|Darius Peteleaza et.al.|[2609.16873](http://arxiv.org/abs/2609.16873)|null|
 |**2026-09-15**|**De-GAN - Dynamic Parameter Tuned GAN for 3D Medical Image Segmentation: A Step Towards Generalisation**|Zoha Usama et.al.|[2609.16755](http://arxiv.org/abs/2609.16755)|null|
 |**2026-09-15**|**Efficient 3D Whole-Body PET Image Denoising via Conditional Rectified Flow With Optimized Sampling Strategy**|Jiale Shen et.al.|[2609.16690](http://arxiv.org/abs/2609.16690)|null|
@@ -911,12 +939,18 @@
 |**2026-04-14**|**DeferredSeg: A Multi-Expert Deferral Framework for Trustworthy Medical Image Segmentation**|Qiuyu Tian et.al.|[2604.12411](http://arxiv.org/abs/2604.12411)|null|
 |**2026-04-13**|**MedConcept: Unsupervised Concept Discovery for Interpretability in Medical VLMs**|Md Rakibul Haque et.al.|[2604.11868](http://arxiv.org/abs/2604.11868)|null|
 
-<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 ## SAM / Promptable Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-18**|**AgenticSwarm: Semantic Perception and Adaptive Task Allocation for Heterogeneous Multi-UAV Missions**|Muhammad Ahsan Mustafa et.al.|[2609.21716](http://arxiv.org/abs/2609.21716)|null|
+|**2026-09-18**|**P $^3$ -SAM: SAM with Perceptual Parallel Prompt for Few-Shot Strip Steel Surface Defect Segmentation**|Qian Xu et.al.|[2609.21424](http://arxiv.org/abs/2609.21424)|null|
+|**2026-09-17**|**Selective Cotton Boll Localization for Robotic Harvesting: Evaluation of Deep Learning Vision Models Under Field Conditions**|Thevathayarajh Thayananthan et.al.|[2609.19592](http://arxiv.org/abs/2609.19592)|null|
+|**2026-09-16**|**Open-vocabulary 3D object detection with promptable segmentation**|Ömer Faruk Deniz et.al.|[2609.19358](http://arxiv.org/abs/2609.19358)|null|
+|**2026-09-16**|**Open ultrasound foundation model for robust segmentation and clinical measurement across heterogeneous settings**|Chao Qin et.al.|[2609.19230](http://arxiv.org/abs/2609.19230)|null|
+|**2026-09-16**|**SetPlanner: A Lightweight Plug-in Point-Set Planner for Frozen SAM**|Dawei Yan et.al.|[2609.18037](http://arxiv.org/abs/2609.18037)|null|
 |**2026-09-15**|**PSMP-CLIP: Patch-Prompt SAM and Multi-Semantic Prompting for CLIP-Based Zero-Shot Anomaly Detection**|Xuezhi Xiang et.al.|[2609.16785](http://arxiv.org/abs/2609.16785)|null|
 |**2026-09-15**|**VPRef: A Cross-Domain Benchmark for Referring Remote Sensing Image Segmentation**|Quanwei Liu et.al.|[2609.16486](http://arxiv.org/abs/2609.16486)|null|
 |**2026-09-13**|**Perceive, Refine, Reason: A Calibrated Pipeline for Measuring Indicators in Strategic Visual Communication on Social Media**|Weihong Qi et.al.|[2609.14699](http://arxiv.org/abs/2609.14699)|null|
@@ -1141,7 +1175,7 @@
 |**2026-04-14**|**Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation**|Jihun Kim et.al.|[2604.10950](http://arxiv.org/abs/2604.10950)|null|
 |**2026-04-12**|**Self-supervised Pretraining of Cell Segmentation Models**|Kaden Stillwagon et.al.|[2604.10609](http://arxiv.org/abs/2604.10609)|null|
 
-<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
