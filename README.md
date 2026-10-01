@@ -1,4 +1,4 @@
-## Updated on 2026.09.28
+## Updated on 2026.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**Certified Multi-Source Integrity for Structured Agent Actions**|Anmol Pandey et.al.|[2609.34245](http://arxiv.org/abs/2609.34245)|null|
+|**2026-09-28**|**Dynamical Impacts of Accretion Streamers on Protoplanetary Disks**|Han-Gyeol Yun et.al.|[2609.34107](http://arxiv.org/abs/2609.34107)|null|
+|**2026-09-26**|**Improving LLM Collaboration via Multi-Agent Preference Learning**|Shuo Liu et.al.|[2609.32827](http://arxiv.org/abs/2609.32827)|null|
+|**2026-09-24**|**Probabilistic Robustness-driven Universal Adversarial Perturbations with Explainability against Deep Reinforcement Learning-based Intrusion Detection System**|Hongsen Zhang et.al.|[2609.30605](http://arxiv.org/abs/2609.30605)|null|
 |**2026-09-24**|**DKIST unveils MHD-predicted sub-50 km photospheric vortices**|S. Vargas Dominguez et.al.|[2609.30051](http://arxiv.org/abs/2609.30051)|null|
 |**2026-09-24**|**No Time to Collapse: Unlocking Robustness and Multiplexed Capacity in Frozen Audio Watermarkers**|Xuanye Wang et.al.|[2609.29737](http://arxiv.org/abs/2609.29737)|null|
 |**2026-09-23**|**Rotating black holes surrounded by PFDM in STVG: shadow studies and eikonal QNM**|Muhammad Zahid et.al.|[2609.28583](http://arxiv.org/abs/2609.28583)|null|
@@ -153,12 +157,22 @@
 |**2026-03-29**|**A Possible Mechanism to Explain the Prograde Equatorial Jet of a Jupiter-like Gaseous Giant**|Yuchen Lian et.al.|[2603.27591](http://arxiv.org/abs/2603.27591)|null|
 |**2026-03-31**|**ROLLIN': Rotating globular cluster simulations. I. The kinematic evolution of realistic direct N-body models**|P. Bianchini et.al.|[2603.26195](http://arxiv.org/abs/2603.26195)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## DINO & Self-Supervised ViT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**Image Classifiers are Efficient Self-Supervised Video Representation Learners**|Owais Iqbal et.al.|[2609.40347](http://arxiv.org/abs/2609.40347)|null|
+|**2026-09-30**|**The Planning Limits of Latent World Models**|Ali Alrasheed et.al.|[2609.39235](http://arxiv.org/abs/2609.39235)|null|
+|**2026-09-30**|**DeCoPrune: Efficient KV-Cache Pruning for Autoregressive Video Diffusion via Denoising Consistency**|Zeqi Xiao et.al.|[2609.39096](http://arxiv.org/abs/2609.39096)|null|
+|**2026-09-30**|**Beyond Spatial-Domain Supervision: A Relation Constrained Space for Multi-Modal Image Fusion**|Zeyu Wang et.al.|[2609.38968](http://arxiv.org/abs/2609.38968)|null|
+|**2026-09-30**|**ReGain: Restoring Subject Fidelity in Personalization on Synthetic Images**|Shubhang Bhatnagar et.al.|[2609.38680](http://arxiv.org/abs/2609.38680)|null|
+|**2026-09-29**|**Rethinking Representations for World-Action Modeling**|Haoyi Jiang et.al.|[2609.38163](http://arxiv.org/abs/2609.38163)|null|
+|**2026-09-29**|**DMA $^2$ : Pixel-space Distribution Matching with Adversarial and Anchor Losses**|Xin Lin et.al.|[2609.38156](http://arxiv.org/abs/2609.38156)|null|
+|**2026-09-29**|**ORMA: Optimization-based Monocular 4D Reconstruction of Articulated Animals**|Xuyi Hu et.al.|[2609.37986](http://arxiv.org/abs/2609.37986)|null|
+|**2026-09-29**|**Procedural Core: A Compact Recurrent Initialization for Vision Transformers**|Zachary Shinnick et.al.|[2609.37631](http://arxiv.org/abs/2609.37631)|null|
+|**2026-09-29**|**The Domain Is a Residue: Adapting Self-Supervised Features, Not Generators**|Thomas Deixelberger et.al.|[2609.37330](http://arxiv.org/abs/2609.37330)|null|
 |**2026-09-24**|**Can Frozen Hyperspherical Features Guide the Selection of Pseudo Masks?**|Xinge Guo et.al.|[2609.30080](http://arxiv.org/abs/2609.30080)|null|
 |**2026-09-24**|**From Text Decisions to Pixels: An Study of Jev-Style Visual Choice Model**|Xunlan Zhou et.al.|[2609.29283](http://arxiv.org/abs/2609.29283)|null|
 |**2026-09-23**|**MEVL-STP: Multi-Encoder and Vision Language Model for Arbitrarily Shaped Scene Text Spotting**|Aman Anand et.al.|[2609.28857](http://arxiv.org/abs/2609.28857)|null|
@@ -417,12 +431,22 @@
 |**2026-04-13**|**Boxes2Pixels: Learning Defect Segmentation from Noisy SAM Masks**|Camile Lendering et.al.|[2604.11162](http://arxiv.org/abs/2604.11162)|null|
 |**2026-04-13**|**Using Deep Learning Models Pretrained by Self-Supervised Learning for Protein Localization**|Ben Isselmann et.al.|[2604.10970](http://arxiv.org/abs/2604.10970)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Vision Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**Image Classifiers are Efficient Self-Supervised Video Representation Learners**|Owais Iqbal et.al.|[2609.40347](http://arxiv.org/abs/2609.40347)|null|
+|**2026-09-30**|**Enhancing Autoregressive Video Generation via Representation Adversarial Distillation**|Fangyu Lin et.al.|[2609.40037](http://arxiv.org/abs/2609.40037)|null|
+|**2026-09-30**|**FAST: Flow Any Scene Transformer**|Yongjian Zhang et.al.|[2609.39748](http://arxiv.org/abs/2609.39748)|null|
+|**2026-09-30**|**Rethinking Generative Image Compression at Extremely Low Bitrates**|Tianyu Zhang et.al.|[2609.39315](http://arxiv.org/abs/2609.39315)|null|
+|**2026-09-29**|**CLeaR: A Unified Framework for Resolving the Leakage-Degradation Dilemma in Style Transfer**|Teng Zhou et.al.|[2609.38136](http://arxiv.org/abs/2609.38136)|null|
+|**2026-09-29**|**Med-RADIO: Reducing All Medical Domains Into One via Multi-Teacher Distillation**|Chu Zhang et.al.|[2609.37682](http://arxiv.org/abs/2609.37682)|null|
+|**2026-09-29**|**When to Adapt: Multi-Signal Domain Shift Detection for Efficient Training-Free Adaptation in Open-Vocabulary Segmentation**|Michele Antonazzi et.al.|[2609.37602](http://arxiv.org/abs/2609.37602)|null|
+|**2026-09-29**|**HyperSAM: A Promptable Foundation Model for Hyperspectral Remote Sensing**|Li Pang et.al.|[2609.37340](http://arxiv.org/abs/2609.37340)|null|
+|**2026-09-29**|**SFE-VGGT: Source-Free VGGT Distillation for Event-Based Monocular Depth Estimation**|Thai Duy Nguyen et.al.|[2609.36929](http://arxiv.org/abs/2609.36929)|null|
+|**2026-09-29**|**FM-ReID: Selective Competitive Token Routing for Object Re-Identification**|Zhiqi Li et.al.|[2609.36560](http://arxiv.org/abs/2609.36560)|null|
 |**2026-09-24**|**SplatLabel: Pseudo-Labelling through 4D Gaussian Splatting**|Nitya Nanvani et.al.|[2609.29836](http://arxiv.org/abs/2609.29836)|null|
 |**2026-09-24**|**ComplexSync: High-Fidelity and Real-Time Lip Sync in Complex Scenarios**|Jiaran Cai et.al.|[2609.29225](http://arxiv.org/abs/2609.29225)|null|
 |**2026-09-23**|**UltraBench 2: Towards Robust Evaluation of Vision Foundation Models on Ultrasound**|Ashwath Radhachandran et.al.|[2609.28610](http://arxiv.org/abs/2609.28610)|null|
@@ -638,14 +662,15 @@
 |**2026-04-12**|**ReplicateAnyScene: Zero-Shot Video-to-3D Composition via Textual-Visual-Spatial Alignment**|Mingyu Dong et.al.|[2604.10789](http://arxiv.org/abs/2604.10789)|null|
 |**2026-04-12**|**AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Afford Correspondence**|Jiawei Zhang et.al.|[2604.10579](http://arxiv.org/abs/2604.10579)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Medical Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**Med-RADIO: Reducing All Medical Domains Into One via Multi-Teacher Distillation**|Chu Zhang et.al.|[2609.37682](http://arxiv.org/abs/2609.37682)|null|
 |**2026-09-22**|**nnFoundation: 3D Foundation Models for Radiology**|Constantin Ulrich Harsy et.al.|[2609.26924](http://arxiv.org/abs/2609.26924)|null|
-|**2026-09-17**|**A visual large language foundational model for medical image recognition using clinician-contributed online resources**|Lingxuan Hou et.al.|[2609.06914](http://arxiv.org/abs/2609.06914)|null|
+|**2026-09-28**|**A visual large language foundational model for medical image recognition using clinician-contributed online resources**|Lingxuan Hou et.al.|[2609.06914](http://arxiv.org/abs/2609.06914)|null|
 |**2026-08-31**|**Uncertainty of Vision Medical Foundation Models**|Haoxu Huang et.al.|[2608.30390](http://arxiv.org/abs/2608.30390)|null|
 |**2026-08-26**|**Auditable CT Phenotyping Through Report-derived Radiological Observations**|Riga Wu et.al.|[2608.25948](http://arxiv.org/abs/2608.25948)|null|
 |**2026-08-29**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300](http://arxiv.org/abs/2608.21300)|null|
@@ -675,12 +700,22 @@
 |**2026-02-25**|**Axial-Centric Cross-Plane Attention for 3D Medical Image Classification**|Doyoung Park et.al.|[2602.21636](http://arxiv.org/abs/2602.21636)|null|
 |**2026-02-17**|**Foundation Models for Medical Imaging: Status, Challenges, and Directions**|Chuang Niu et.al.|[2602.15913](http://arxiv.org/abs/2602.15913)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Medical Image Deep Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**Towards Trustworthy AI for Glioma Diagnosis: A Task-Aware Evaluation of Uncertainty Quantification**|Gonzalo Esteban Mosquera Rojas et.al.|[2609.39429](http://arxiv.org/abs/2609.39429)|null|
+|**2026-09-29**|**Detail in Context: A Dual-Scale Machine Learning Framework for Mycosis Fungoides Detection**|Mohamed Hazem et.al.|[2609.38560](http://arxiv.org/abs/2609.38560)|null|
+|**2026-09-29**|**Computing Spectral Properties of Differential Operators on Surfaces**|Gustav Conradie et.al.|[2609.37764](http://arxiv.org/abs/2609.37764)|null|
+|**2026-09-29**|**PCaPaint: Prostate Cancer Inpainting by Mitigating Shortcut Learning**|Levente Lippenszky et.al.|[2609.37350](http://arxiv.org/abs/2609.37350)|null|
+|**2026-09-29**|**Merlin Plus: A Large-Scale, Multi-Cancer, Image-Mask-Report Dataset**|Pedro R. A. S. Bassi et.al.|[2609.36436](http://arxiv.org/abs/2609.36436)|null|
+|**2026-09-28**|**RT-Super: Learning Tumor Segmentation from Longitudinal Images and Reports**|Pedro R. A. S. Bassi et.al.|[2609.35637](http://arxiv.org/abs/2609.35637)|null|
+|**2026-09-28**|**From UNI2-h to ConvNeXt-T: Lightweight Nuclei Instance Segmentation via Knowledge Distillation**|Wenyan Li et.al.|[2609.35203](http://arxiv.org/abs/2609.35203)|null|
+|**2026-09-28**|**GR-FM: Geometrically Regularized Flow Matching for SDF-Based Medical Image Segmentation**|Yuxin Ai et.al.|[2609.35006](http://arxiv.org/abs/2609.35006)|null|
+|**2026-09-28**|**XFlow: A Workflow Model for Instruction-Guided Lesion Segmentation in Chest X-rays**|Geon Choi et.al.|[2609.34513](http://arxiv.org/abs/2609.34513)|null|
+|**2026-09-28**|**PACER: Progressive Availability-Conditioned Evidence Routing for Radiology Report Generation under Incomplete Clinical Context**|Yulong Chen et.al.|[2609.34487](http://arxiv.org/abs/2609.34487)|null|
 |**2026-09-24**|**Lightweight Vision Transformer-Based U-Net for Brain Tumor Segmentation from MRI**|Sheekar Banerjee et.al.|[2609.29785](http://arxiv.org/abs/2609.29785)|null|
 |**2026-09-24**|**Shadow Reduction in Ultrasound Imaging Using Differentiable Simulation and Radiance Field Decomposition**|Valentin Bacher et.al.|[2609.29373](http://arxiv.org/abs/2609.29373)|null|
 |**2026-09-24**|**Multimodal Routing and Region Refinement for Language-Guided Medical Image Segmentation**|Md Maklachur Rahman et.al.|[2609.28860](http://arxiv.org/abs/2609.28860)|null|
@@ -980,12 +1015,22 @@
 |**2026-04-14**|**DeferredSeg: A Multi-Expert Deferral Framework for Trustworthy Medical Image Segmentation**|Qiuyu Tian et.al.|[2604.12411](http://arxiv.org/abs/2604.12411)|null|
 |**2026-04-13**|**MedConcept: Unsupervised Concept Discovery for Interpretability in Medical VLMs**|Md Rakibul Haque et.al.|[2604.11868](http://arxiv.org/abs/2604.11868)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## SAM / Promptable Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**Seeing as Humans Do: Learning from Motion to Segment Anything Without Supervision**|Weijian Jian et.al.|[2609.39785](http://arxiv.org/abs/2609.39785)|null|
+|**2026-09-30**|**Universal Cross-Prompt Adversarial Attacks on Promptable Concept Segmentation**|Ziqi Zhou et.al.|[2609.39265](http://arxiv.org/abs/2609.39265)|null|
+|**2026-09-30**|**DCM-SAM: Defect-Conditioned Mixture of LoRA Experts for NPU-Deployed AM Defect Segmentation**|Md Mushfiqur Rahaman et.al.|[2609.38811](http://arxiv.org/abs/2609.38811)|null|
+|**2026-09-30**|**Event-Driven Refresh and Recurrence Memory to Reduce Stale Grounding in Referring Video Object Segmentation**|Abu Hanif Muhammad Syarubany et.al.|[2609.38758](http://arxiv.org/abs/2609.38758)|null|
+|**2026-09-29**|**RoboFin3D: A Sim-to-Real Platform for Robotic Surface Finishing**|Haowei Wen et.al.|[2609.37560](http://arxiv.org/abs/2609.37560)|null|
+|**2026-09-29**|**HyperSAM: A Promptable Foundation Model for Hyperspectral Remote Sensing**|Li Pang et.al.|[2609.37340](http://arxiv.org/abs/2609.37340)|null|
+|**2026-09-29**|**SAM Meets VLM: Parameter-Decoupled Full-Parameter Training for Unified Medical Reasoning and Segmentation**|Xuyang Cao et.al.|[2609.37283](http://arxiv.org/abs/2609.37283)|null|
+|**2026-09-29**|**UniAfford: Token-Routed Multitask Learning for Generalizable 2D-3D Affordance Perception**|Yuhao Liu et.al.|[2609.37264](http://arxiv.org/abs/2609.37264)|null|
+|**2026-09-29**|**S4VY: Segment Anything in Feed-Forward 4D Visual Geometry**|Jingdong Zhang et.al.|[2609.36875](http://arxiv.org/abs/2609.36875)|null|
+|**2026-09-28**|**Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose**|Zhilin Guo et.al.|[2609.35764](http://arxiv.org/abs/2609.35764)|null|
 |**2026-09-24**|**When Misalignment Becomes Supervision: Structured Label Noise in Supervised Synthetic CT Generation**|Valentin Boussot et.al.|[2609.29387](http://arxiv.org/abs/2609.29387)|null|
 |**2026-09-24**|**Exploiting Target Knowledge from MLLMs for Robust Few-Shot Segmentation**|Yijun Hu et.al.|[2609.28949](http://arxiv.org/abs/2609.28949)|null|
 |**2026-09-23**|**MEVL-STP: Multi-Encoder and Vision Language Model for Arbitrarily Shaped Scene Text Spotting**|Aman Anand et.al.|[2609.28857](http://arxiv.org/abs/2609.28857)|null|
@@ -1226,7 +1271,7 @@
 |**2026-04-14**|**Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation**|Jihun Kim et.al.|[2604.10950](http://arxiv.org/abs/2604.10950)|null|
 |**2026-04-12**|**Self-supervised Pretraining of Cell Segmentation Models**|Kaden Stillwagon et.al.|[2604.10609](http://arxiv.org/abs/2604.10609)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
