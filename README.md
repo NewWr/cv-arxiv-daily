@@ -1,4 +1,4 @@
-## Updated on 2026.10.19
+## Updated on 2026.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**MAPLE: Mondrian-Anchored Prior for Learning-free Indoor Exploration**|Kelvin Aladum et.al.|[2610.28566](http://arxiv.org/abs/2610.28566)|null|
+|**2026-10-20**|**Local Allow, Global Deny: Why Per-Action Authorization Does Not Compose in LLM Agents**|Anmol Pandey et.al.|[2610.27620](http://arxiv.org/abs/2610.27620)|null|
+|**2026-10-19**|**Rotating Barrow entropy-inspired wormholes versus black holes: null trajectories, shadow morphology, and exotic matter**|A. Errehymy et.al.|[2610.26981](http://arxiv.org/abs/2610.26981)|null|
+|**2026-10-18**|**Moser Regularization of the CR3BP for Symmetric Orbits: Bifurcation Networks of Lunar Orbits**|Cengiz Aydin et.al.|[2610.25042](http://arxiv.org/abs/2610.25042)|null|
+|**2026-10-16**|**FedRAPP: Federated Test-Time Prompt Tuning for Vision-Language Models with Reliability-Aware Prompt Personalization**|Syed Md. Ahnaf Hasan et.al.|[2610.23705](http://arxiv.org/abs/2610.23705)|null|
 |**2026-10-15**|**Photon-Return and Polar-Focusing Crossovers near Extremal Kerr**|Valentina Gonzalez-Moya et.al.|[2610.21848](http://arxiv.org/abs/2610.21848)|null|
 |**2026-10-14**|**Modeling electrodeposition of thin films with compact, dendritic, and random morphologies**|Fábio D. A. Aarão Reis et.al.|[2610.20361](http://arxiv.org/abs/2610.20361)|null|
 |**2026-10-14**|**MAPLE: A Multi-Axis Parametric Knowledge Extraction Lens for LLM Evaluation**|Minsuh Joo et.al.|[2610.19827](http://arxiv.org/abs/2610.19827)|null|
@@ -168,12 +173,19 @@
 |**2026-03-29**|**A Possible Mechanism to Explain the Prograde Equatorial Jet of a Jupiter-like Gaseous Giant**|Yuchen Lian et.al.|[2603.27591](http://arxiv.org/abs/2603.27591)|null|
 |**2026-03-31**|**ROLLIN': Rotating globular cluster simulations. I. The kinematic evolution of realistic direct N-body models**|P. Bianchini et.al.|[2603.26195](http://arxiv.org/abs/2603.26195)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## DINO & Self-Supervised ViT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**WaveSpec: Multi-Spectral Iris Presentation Attack Detection via Wavelength-Conditioned Spectral Coherence Adaptation**|Raghavendra Ramachandra et.al.|[2610.27608](http://arxiv.org/abs/2610.27608)|null|
+|**2026-10-19**|**Foundation Model Driven Optical Flow**|Praroop Chanda et.al.|[2610.26690](http://arxiv.org/abs/2610.26690)|null|
+|**2026-10-16**|**DinoMUSE: A DINOv2-guided Framework for Unsupervised Lateral Motion Estimation in Ultrasound Elastography**|Xiyao Meng et.al.|[2610.24020](http://arxiv.org/abs/2610.24020)|null|
+|**2026-10-16**|**Escaping Parameter Space: Tight Generalization Bounds via Representation Quality**|Niclas Göring et.al.|[2610.23729](http://arxiv.org/abs/2610.23729)|null|
+|**2026-10-16**|**GRASP: Global-Local Representation Alignment and Spatial-Physical Grounding for Bimanual Robotic Manipulation**|Zeyuan Ren et.al.|[2610.23123](http://arxiv.org/abs/2610.23123)|null|
+|**2026-10-16**|**PASS: A Trustworthy Precision Approach Simulation System for CAT III Integrity Algorithm Development**|Lang Zhu et.al.|[2610.23019](http://arxiv.org/abs/2610.23019)|null|
+|**2026-10-16**|**A100: A Hybrid Vision Foundation Model for Agricultural Plant Image Analysis**|Mayur Pratim Das et.al.|[2610.22991](http://arxiv.org/abs/2610.22991)|null|
 |**2026-10-15**|**Mem4Act: Learning Effective Latent Memory for Long-Horizon Robotic Manipulation**|Yun Zhang et.al.|[2610.22323](http://arxiv.org/abs/2610.22323)|null|
 |**2026-10-15**|**Unsupervised Clustering of Public Transport Vehicles Using Deep Morphological Features and Color Histograms**|Juan Irving Vasquez et.al.|[2610.22270](http://arxiv.org/abs/2610.22270)|null|
 |**2026-10-15**|**FeaTok: Feature-Loss Tokenization for Image Generation**|Zhang Xiaofeng et.al.|[2610.22060](http://arxiv.org/abs/2610.22060)|null|
@@ -472,12 +484,17 @@
 |**2026-04-13**|**Boxes2Pixels: Learning Defect Segmentation from Noisy SAM Masks**|Camile Lendering et.al.|[2604.11162](http://arxiv.org/abs/2604.11162)|null|
 |**2026-04-13**|**Using Deep Learning Models Pretrained by Self-Supervised Learning for Protein Localization**|Ben Isselmann et.al.|[2604.10970](http://arxiv.org/abs/2604.10970)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## Vision Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**Convergent Performance, Divergent Mechanisms in LoRA-Adapted Vision Foundation Models for Brain MRI**|Cecilia Diana-Albelda et.al.|[2610.28255](http://arxiv.org/abs/2610.28255)|null|
+|**2026-10-19**|**Scaling Vision Foundation Models for Toxicologic Pathology**|Jessica Loo et.al.|[2610.26586](http://arxiv.org/abs/2610.26586)|null|
+|**2026-10-16**|**BiNar: Bitstream Native Restorer for Bitstream-corrupted Image Restoration**|Fangcheng Li et.al.|[2610.24094](http://arxiv.org/abs/2610.24094)|null|
+|**2026-10-16**|**Diversity Without Labels: Task-Agnostic Coreset Selection Across Perception and Action**|Julia Hindel et.al.|[2610.23642](http://arxiv.org/abs/2610.23642)|null|
+|**2026-10-16**|**A100: A Hybrid Vision Foundation Model for Agricultural Plant Image Analysis**|Mayur Pratim Das et.al.|[2610.22991](http://arxiv.org/abs/2610.22991)|null|
 |**2026-10-15**|**FuseAdapt: Parameter-Efficient Multimodal Fusion for Semantic Segmentation with Missing Modalities**|Xin Zhang et.al.|[2610.21779](http://arxiv.org/abs/2610.21779)|null|
 |**2026-10-15**|**Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-Visual LLMs**|Kim Sung-Bin et.al.|[2610.21588](http://arxiv.org/abs/2610.21588)|null|
 |**2026-10-13**|**RoboFQE: Rollout-Free Evaluation of Visual Robot Policies from Offline Trajectories**|Yunfu Deng et.al.|[2610.18699](http://arxiv.org/abs/2610.18699)|null|
@@ -729,7 +746,7 @@
 |**2026-04-12**|**ReplicateAnyScene: Zero-Shot Video-to-3D Composition via Textual-Visual-Spatial Alignment**|Mingyu Dong et.al.|[2604.10789](http://arxiv.org/abs/2604.10789)|null|
 |**2026-04-12**|**AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Afford Correspondence**|Jiawei Zhang et.al.|[2604.10579](http://arxiv.org/abs/2604.10579)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## Medical Foundation Models
 
@@ -768,12 +785,22 @@
 |**2026-02-25**|**Axial-Centric Cross-Plane Attention for 3D Medical Image Classification**|Doyoung Park et.al.|[2602.21636](http://arxiv.org/abs/2602.21636)|null|
 |**2026-02-17**|**Foundation Models for Medical Imaging: Status, Challenges, and Directions**|Chuang Niu et.al.|[2602.15913](http://arxiv.org/abs/2602.15913)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## Medical Image Deep Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**A Multi-Agent Framework for Automated Machine Learning with Evidence-based Planning for Medical Image Analysis**|Yiqing Shen et.al.|[2610.28410](http://arxiv.org/abs/2610.28410)|null|
+|**2026-10-20**|**CAPS: Clinically-Verifiable Anatomy-Prioritized Synthesis for Missing MRI Imputation in Brain Tumor Segmentation**|Cecilia Diana-Albelda et.al.|[2610.28179](http://arxiv.org/abs/2610.28179)|null|
+|**2026-10-20**|**Reliability-Guided Vision-Language Decoding with Text-Aware Skip Refinement for Medical Image Segmentation**|Sivan Talaei et.al.|[2610.28118](http://arxiv.org/abs/2610.28118)|null|
+|**2026-10-20**|**LatticeRank: Spacing-Ranked Consistency for Native-Grid 3D Medical Image Segmentation**|Jingjia Yan et.al.|[2610.28091](http://arxiv.org/abs/2610.28091)|null|
+|**2026-10-20**|**AdaptMIL: Domain Adaptation for Multiple Instance Learning in Digital Pathology**|Ben Vardi et.al.|[2610.28007](http://arxiv.org/abs/2610.28007)|null|
+|**2026-10-19**|**VoxLogicA2: A Spatial Model Checker for Neuro-symbolic Medical Imaging (extended version)**|Gina Belmonte et.al.|[2610.26626](http://arxiv.org/abs/2610.26626)|null|
+|**2026-10-19**|**Progressive multi-scale tumor-state memory for incomplete multimodal brain tumor segmentation**|Milad Rostamian et.al.|[2610.26457](http://arxiv.org/abs/2610.26457)|null|
+|**2026-10-19**|**LaMER: Language-Conditioned Multi-Expert Routing for Weakly Supervised Referring Expression Comprehension**|Yu Yu Chang et.al.|[2610.26404](http://arxiv.org/abs/2610.26404)|null|
+|**2026-10-19**|**TIM: Temporal Decoupling with Iterative Mutual-Refinement Model for Longitudinal Radiology Report Generation**|Yiheng Dong et.al.|[2610.26271](http://arxiv.org/abs/2610.26271)|null|
+|**2026-10-19**|**ACorD: Adaptive Correspondence Discovery for Medical Image Registration**|Arghavan Rezvani et.al.|[2610.25638](http://arxiv.org/abs/2610.25638)|null|
 |**2026-10-15**|**MedPAO-VL: Interpretable and Protocol-Compliant Agent for Structured Radiology Report Generation**|Shrish Shrinath Vaidya et.al.|[2610.21794](http://arxiv.org/abs/2610.21794)|null|
 |**2026-10-15**|**Spurious Attention Heads in Vision Transformers: Mechanistic Identification of Annotation-Driven Bias in Medical Chest X-Ray Analysis**|Joshua Muhumuza et.al.|[2610.21638](http://arxiv.org/abs/2610.21638)|null|
 |**2026-10-15**|**A Decision-Aware Evaluation Protocol for Uncertainty in Medical Image Segmentation**|Saket Maganti et.al.|[2610.21616](http://arxiv.org/abs/2610.21616)|null|
@@ -1113,12 +1140,17 @@
 |**2026-04-14**|**DeferredSeg: A Multi-Expert Deferral Framework for Trustworthy Medical Image Segmentation**|Qiuyu Tian et.al.|[2604.12411](http://arxiv.org/abs/2604.12411)|null|
 |**2026-04-13**|**MedConcept: Unsupervised Concept Discovery for Interpretability in Medical VLMs**|Md Rakibul Haque et.al.|[2604.11868](http://arxiv.org/abs/2604.11868)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## SAM / Promptable Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**Efficient SAM3 Adaptation for Multi-Class Semantic Segmentation via Dense Competitive Representations**|Wenbin Liao et.al.|[2610.27960](http://arxiv.org/abs/2610.27960)|null|
+|**2026-10-20**|**Cross-Visibility-Gap Identity Persistence for 4D Scene Graphs**|Jiahui Hu et.al.|[2610.27505](http://arxiv.org/abs/2610.27505)|null|
+|**2026-10-19**|**Visual Memory and Textual Alignment for Cross-Modal Few-Shot Segmentation**|Tianqi Wei et.al.|[2610.25641](http://arxiv.org/abs/2610.25641)|null|
+|**2026-10-17**|**ATLAS: Learning to Adapt LVLM Attention for Reasoning Video Segmentation**|Hamidreza Dastmalchi et.al.|[2610.24783](http://arxiv.org/abs/2610.24783)|null|
+|**2026-10-14**|**napari-TurboBox: Interactive Multi-Viewer Bounding Box Annotation for AI-Guided Volumetric Bioimaging**|Nils Friederich et.al.|[2610.22413](http://arxiv.org/abs/2610.22413)|null|
 |**2026-10-15**|**Training-Free Target-Aware Refinement of 3D Gaussian Language Map**|Sibaek Lee et.al.|[2610.21619](http://arxiv.org/abs/2610.21619)|null|
 |**2026-10-14**|**GDBA-Net: A Gated Dual-Branch Adaptation of SAM2 for Robust Cross-Domain Nuclei Segmentation**|Biplab Poudel et.al.|[2610.20073](http://arxiv.org/abs/2610.20073)|null|
 |**2026-10-14**|**SAM3RL: Memory Control via Reinforcement Learning for Visual Object Tracking**|Tomáš Čížek et.al.|[2610.19931](http://arxiv.org/abs/2610.19931)|null|
@@ -1391,7 +1423,7 @@
 |**2026-04-14**|**Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation**|Jihun Kim et.al.|[2604.10950](http://arxiv.org/abs/2604.10950)|null|
 |**2026-04-12**|**Self-supervised Pretraining of Cell Segmentation Models**|Kaden Stillwagon et.al.|[2604.10609](http://arxiv.org/abs/2604.10609)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
