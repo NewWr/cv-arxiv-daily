@@ -1158,7 +1158,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-10-23**|**VTRL-Med: Progressive Visual Refinement with Topology-Guided Regularization for Medical Image Clustering**|Guangyu Meng et.al.|[2610.32884](http://arxiv.org/abs/2610.32884)|null|
-|**2026-10-23**|**Sharpness-aware Orthogonalized Momentum Algorithms**| Geetika et.al.|[2610.32465](http://arxiv.org/abs/2610.32465)|null|
+|**2026-10-23**|**Sharpness-aware Orthogonalized Momentum Algorithms**|Geetika et.al.|[2610.32465](http://arxiv.org/abs/2610.32465)|null|
 |**2026-10-23**|**Sam-Correction: Fully Adaptive Label Noise Reduction for Medical Image Segmentation**|Takuro Shimaya et.al.|[2610.32377](http://arxiv.org/abs/2610.32377)|null|
 |**2026-10-23**|**PRISM: Promoting Sampling Diversity of Large Language Models with Implicit Stochastic Modulation**|Qixin Xu et.al.|[2610.32101](http://arxiv.org/abs/2610.32101)|null|
 |**2026-10-22**|**CVP-BAA: Efficiently Adapting Segment Anything Model for Medical Image Segmentation**|Mei Wang et.al.|[2610.30672](http://arxiv.org/abs/2610.30672)|null|
