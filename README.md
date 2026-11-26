@@ -1,4 +1,4 @@
-## Updated on 2026.11.23
+## Updated on 2026.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**Decomposition algorithms for rational curves on real classical groups**|Yifan Li et.al.|[2611.33837](http://arxiv.org/abs/2611.33837)|null|
+|**2026-11-23**|**Enhancing eccentricity through tidal resonance in binary neutron star systems**|Ivan Markin et.al.|[2611.31172](http://arxiv.org/abs/2611.31172)|null|
+|**2026-11-23**|**POMA: Beyond Final Flags -- Process-Level Evaluation of Base LLMs in Vulnerability Exploitation**|Gufeng Zhang et.al.|[2611.30590](http://arxiv.org/abs/2611.30590)|null|
+|**2026-11-21**|**The Schwarzschild Ringdown Time Prescription on Critical Kerr Plunges**|Jingxu Wu et.al.|[2611.29054](http://arxiv.org/abs/2611.29054)|null|
 |**2026-11-19**|**Dynamics of spinning supermassive black hole binaries: I. A direct $N$ -body study**|Navonil Saha et.al.|[2611.26348](http://arxiv.org/abs/2611.26348)|null|
 |**2026-11-19**|**Magnetic order in Tb and Dy substituted La3Ni2O7 and effects of high-pressure high-temperature O2 annealing**|Yuhang Deng et.al.|[2611.25349](http://arxiv.org/abs/2611.25349)|null|
 |**2026-11-18**|**Where Did the Angular Momentum Go? WASP-12 b May Have Circularized on a Retrograde Orbit**|Elina Y. Zhang et.al.|[2611.25203](http://arxiv.org/abs/2611.25203)|null|
@@ -203,12 +207,22 @@
 |**2026-03-29**|**A Possible Mechanism to Explain the Prograde Equatorial Jet of a Jupiter-like Gaseous Giant**|Yuchen Lian et.al.|[2603.27591](http://arxiv.org/abs/2603.27591)|null|
 |**2026-03-31**|**ROLLIN': Rotating globular cluster simulations. I. The kinematic evolution of realistic direct N-body models**|P. Bianchini et.al.|[2603.26195](http://arxiv.org/abs/2603.26195)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 ## DINO & Self-Supervised ViT
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**Towards Closing the Performance Gap in Cross-Modal Place Recognition**|Ofer Idan et.al.|[2611.34877](http://arxiv.org/abs/2611.34877)|null|
+|**2026-11-25**|**Motion Beyond Pixels: Learning Future Visual Representations for Object-Centric Dynamics**|Chengzhi Zhao et.al.|[2611.34644](http://arxiv.org/abs/2611.34644)|null|
+|**2026-11-25**|**Carrying Feature Ablations Across Sparse Autoencoder Seeds**|Karl Li et.al.|[2611.34637](http://arxiv.org/abs/2611.34637)|null|
+|**2026-11-25**|**SPGSR: A Small Pixel-Space Generator for One-Step Super-Resolution**|Yun Yue et.al.|[2611.34418](http://arxiv.org/abs/2611.34418)|null|
+|**2026-11-25**|**When Position Favors the Wrong Part: Evaluating Left-Right Discrimination in Semantic Correspondence**|Pingan Wang et.al.|[2611.34100](http://arxiv.org/abs/2611.34100)|null|
+|**2026-11-24**|**CoSMo: A Compact Spectral Space of Body Motion in Video**|Maham Tanveer et.al.|[2611.33296](http://arxiv.org/abs/2611.33296)|null|
+|**2026-11-25**|**EEG-World: Context-Conditioned Dynamics of the Watching Brain**|Junxiang Zhang et.al.|[2611.32825](http://arxiv.org/abs/2611.32825)|null|
+|**2026-11-24**|**Align or Fail: The Hidden Gap in Cross-Domain Panoptic Segmentation**|Huy Hoang Nguyen et.al.|[2611.32542](http://arxiv.org/abs/2611.32542)|null|
+|**2026-11-24**|**One Subspace Is Not Enough: LocalSubspaceAD for Training-Free Few-Shot Anomaly Detection**|Daniel Pröll et.al.|[2611.32424](http://arxiv.org/abs/2611.32424)|null|
+|**2026-11-24**|**Improving Character Identity Consistency in Diffusion-Based Visual Story Generation through Identity Memory and Automatic Reranking**|Maria-Emilia Grigore et.al.|[2611.32383](http://arxiv.org/abs/2611.32383)|null|
 |**2026-11-19**|**SEEC: A Large-Scale Dataset and Benchmark for Self-Supervised External-Eye Representation Learning**|George R. Nahass et.al.|[2611.26386](http://arxiv.org/abs/2611.26386)|null|
 |**2026-11-19**|**Search or Scoring? Diagnosing Why Visual World-Model Planners Fail**|Haoxuan Jia et.al.|[2611.25347](http://arxiv.org/abs/2611.25347)|null|
 |**2026-11-18**|**Verify2Act: Critic-Guided Latent World Models for Verifying Language-Conditioned Manipulation Plans**|Chrisantus Eze et.al.|[2611.25243](http://arxiv.org/abs/2611.25243)|null|
@@ -557,12 +571,22 @@
 |**2026-04-13**|**Boxes2Pixels: Learning Defect Segmentation from Noisy SAM Masks**|Camile Lendering et.al.|[2604.11162](http://arxiv.org/abs/2604.11162)|null|
 |**2026-04-13**|**Using Deep Learning Models Pretrained by Self-Supervised Learning for Protein Localization**|Ben Isselmann et.al.|[2604.10970](http://arxiv.org/abs/2604.10970)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 ## Vision Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**Reading, Not Adapting: Unlocking Frozen Visual Knowledge for AI-Generated Image Detection**|Yuncheng Guo et.al.|[2611.34719](http://arxiv.org/abs/2611.34719)|null|
+|**2026-11-25**|**Can Visual World Models See Force?**|Felix Tristram et.al.|[2611.34422](http://arxiv.org/abs/2611.34422)|null|
+|**2026-11-25**|**FoMNet: Adaptive Kernels Meet Contextual Matching for Cross-Modal Homography Estimation**|Zhuoran Yang et.al.|[2611.34096](http://arxiv.org/abs/2611.34096)|null|
+|**2026-11-25**|**Rethinking Unsupervised Cross-Modal Homography Estimation:Spatially Aware Representations and Geometric Consistency Learning**|Zhuoran Yang et.al.|[2611.34021](http://arxiv.org/abs/2611.34021)|null|
+|**2026-11-25**|**Teaching Students to Stand on Their Own: Distilling Vision Foundation Models for Fine-Grained Few-Shot Class-Incremental Learning**|Junsu Kim et.al.|[2611.33749](http://arxiv.org/abs/2611.33749)|null|
+|**2026-11-24**|**Linear Probes Can Guide: Training-Free Control of Representation Generators**|Pengwei Wang et.al.|[2611.33037](http://arxiv.org/abs/2611.33037)|null|
+|**2026-11-24**|**Visual Thinking: Training-Free Active Perception for Counting and Localizing Hard-to-Find Objects**|Emil Kielar et.al.|[2611.31973](http://arxiv.org/abs/2611.31973)|null|
+|**2026-11-23**|**Adapt, Label, Distill: Foundation-Model Supervision for Efficient Object Detection**|Zhengye Yang et.al.|[2611.31604](http://arxiv.org/abs/2611.31604)|null|
+|**2026-11-23**|**Déjà VAE: When Do Autoencoder Traces Reveal Generated Images?**|Saugat Pandey et.al.|[2611.31036](http://arxiv.org/abs/2611.31036)|null|
+|**2026-11-22**|**MobileNeTTT: a Lightweight DNN-based Time-To-Transit Estimator for Visual Navigation**|Chiara Boretti et.al.|[2611.29454](http://arxiv.org/abs/2611.29454)|null|
 |**2026-11-19**|**Erasing the Wrong Thing: Conditional Attribute Leakage and Concept Erasure in Shared Foundation-Model Embeddings**|Haijun He et.al.|[2611.25640](http://arxiv.org/abs/2611.25640)|null|
 |**2026-11-18**|**Improving Zero-shot 3D Semantic Mapping in Offroad with Geometric Priors**|Eerik Alamikkotervo et.al.|[2611.24696](http://arxiv.org/abs/2611.24696)|null|
 |**2026-11-18**|**ALIVE: Bring Foundation Features to Life with Events**|Rong Zou et.al.|[2611.24579](http://arxiv.org/abs/2611.24579)|null|
@@ -860,7 +884,7 @@
 |**2026-04-12**|**ReplicateAnyScene: Zero-Shot Video-to-3D Composition via Textual-Visual-Spatial Alignment**|Mingyu Dong et.al.|[2604.10789](http://arxiv.org/abs/2604.10789)|null|
 |**2026-04-12**|**AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Afford Correspondence**|Jiawei Zhang et.al.|[2604.10579](http://arxiv.org/abs/2604.10579)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 ## Medical Foundation Models
 
@@ -901,12 +925,22 @@
 |**2026-02-25**|**Axial-Centric Cross-Plane Attention for 3D Medical Image Classification**|Doyoung Park et.al.|[2602.21636](http://arxiv.org/abs/2602.21636)|null|
 |**2026-02-17**|**Foundation Models for Medical Imaging: Status, Challenges, and Directions**|Chuang Niu et.al.|[2602.15913](http://arxiv.org/abs/2602.15913)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 ## Medical Image Deep Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**FedTumor-IoMT: Federated Learning-Aided Brain Tumor Diagnosis on Resource-Constrained Edge IoMT Devices**|Pranshu Jena et.al.|[2611.32952](http://arxiv.org/abs/2611.32952)|null|
+|**2026-11-24**|**Can AI Design a Better nnU-Net? A Hypothesis-Driven Architecture Discovery Loop from Failures to Design Rules**|Songtao Jiang et.al.|[2611.32384](http://arxiv.org/abs/2611.32384)|null|
+|**2026-11-24**|**Interpretable Orthogonal Latent Diffusion with Scale-Selective Uncertainty for Medical Image Super-Resolution**|Onkar Jadhav et.al.|[2611.32135](http://arxiv.org/abs/2611.32135)|null|
+|**2026-11-23**|**Medical Image Segmentation Is Now Just Another Coding Task**|Shuheng Cao et.al.|[2611.31673](http://arxiv.org/abs/2611.31673)|null|
+|**2026-11-23**|**Foundation Model and Radiomics Distance Scores for Post-Hoc Segmentation Failure Detection**|Simon Johannes Joham et.al.|[2611.30582](http://arxiv.org/abs/2611.30582)|null|
+|**2026-11-23**|**Reliable Recursive Memory for Causal Multi-scale Video Polyp Segmentation**|Tong Wang et.al.|[2611.30568](http://arxiv.org/abs/2611.30568)|null|
+|**2026-11-23**|**WaDiS: Boundary-Preserving Diffusion Segmentation via Multi-Scale Wavelet Conditioning and Frequency-Aware Gating**|Qiang Gao et.al.|[2611.30164](http://arxiv.org/abs/2611.30164)|null|
+|**2026-11-23**|**When Should We Trust Medical Image Models? Evaluating Confidence Reliability under Cross-Dataset Shift**|Haoran Zhang et.al.|[2611.29955](http://arxiv.org/abs/2611.29955)|null|
+|**2026-11-23**|**Where does pancreatic lesion segmentation fail on public CT? An attenuation-stratified analysis of a duct-guided pipeline on PanTS**|Kang-Won Byun et.al.|[2611.29861](http://arxiv.org/abs/2611.29861)|null|
+|**2026-11-22**|**Beyond Language Optimization: Enhancing Visual Representations for Radiology Report Generation**|Rui Zuo et.al.|[2611.29783](http://arxiv.org/abs/2611.29783)|null|
 |**2026-11-19**|**An Explainable and Scalable Hierarchical Tensor Framework for Integrating Multi-Omics and Digital Pathomics**|Ahmad Hussein et.al.|[2611.25584](http://arxiv.org/abs/2611.25584)|null|
 |**2026-11-19**|**AIstatLab at BraTS-GoAT 2026 Task 3: Quality-Controlled Consensus Pseudo-Labeling and Dense Expert Adaptation**|Heeseung Shin et.al.|[2611.25477](http://arxiv.org/abs/2611.25477)|null|
 |**2026-11-18**|**DAL: Dynamic Angular Loss for Imbalanced Medical Image Classification**|Salman Mohammad et.al.|[2611.24597](http://arxiv.org/abs/2611.24597)|null|
@@ -1300,12 +1334,22 @@
 |**2026-04-14**|**DeferredSeg: A Multi-Expert Deferral Framework for Trustworthy Medical Image Segmentation**|Qiuyu Tian et.al.|[2604.12411](http://arxiv.org/abs/2604.12411)|null|
 |**2026-04-13**|**MedConcept: Unsupervised Concept Discovery for Interpretability in Medical VLMs**|Md Rakibul Haque et.al.|[2604.11868](http://arxiv.org/abs/2604.11868)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 ## SAM / Promptable Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**Ask to Land: Learning a Mask-Conditioned Open-Vocabulary Landing Policy via Differentiable Physics**|Fangyu Sun et.al.|[2611.34020](http://arxiv.org/abs/2611.34020)|null|
+|**2026-11-24**|**E-MAPS: Event-Based Promptable Video Segmentation with Memory-as-Prompt**|Adonay Demewez Gebremedhin et.al.|[2611.33017](http://arxiv.org/abs/2611.33017)|null|
+|**2026-11-24**|**FedTumor-IoMT: Federated Learning-Aided Brain Tumor Diagnosis on Resource-Constrained Edge IoMT Devices**|Pranshu Jena et.al.|[2611.32952](http://arxiv.org/abs/2611.32952)|null|
+|**2026-11-24**|**Distractors are the Real Enemy: Visual Distraction Adversarial Perturbations on SAM2-Based Video Tracking and Segmentation**|Adonay Demewez Gebremedhin et.al.|[2611.32011](http://arxiv.org/abs/2611.32011)|null|
+|**2026-11-24**|**Visual Thinking: Training-Free Active Perception for Counting and Localizing Hard-to-Find Objects**|Emil Kielar et.al.|[2611.31973](http://arxiv.org/abs/2611.31973)|null|
+|**2026-11-23**|**ReplaySAM: Zero-Shot 3D Particle-Pack Segmentation with SAM 2**|Bogong Wang et.al.|[2611.30016](http://arxiv.org/abs/2611.30016)|null|
+|**2026-11-23**|**Segment Anything In-Context via Visual Demonstrations**|Yuzhu Wang et.al.|[2611.29896](http://arxiv.org/abs/2611.29896)|null|
+|**2026-11-22**|**PINE: Point, Instance and Normal Estimation in One-Step Diffusion Model**|Zeyu Ren et.al.|[2611.29389](http://arxiv.org/abs/2611.29389)|null|
+|**2026-11-22**|**One-shot is Enough: Boosting SAM for Medical Image Segmentation through Structured Information Modeling**|Guilin Guan et.al.|[2611.29278](http://arxiv.org/abs/2611.29278)|null|
+|**2026-11-20**|**A Note on the Topos-Inadmissibility of Free Heyting Algebras**|Andrew M Pitts et.al.|[2611.28247](http://arxiv.org/abs/2611.28247)|null|
 |**2026-11-19**|**SAM 3 Sees More Than It Detects: Promptable Concept Maps Beyond Categories**|Yu-Huan Wu et.al.|[2611.25747](http://arxiv.org/abs/2611.25747)|null|
 |**2026-11-19**|**A Unified Framework for Image Manipulation Localization Under Multi-Type Weak Supervision**|Songlin Li et.al.|[2611.25371](http://arxiv.org/abs/2611.25371)|null|
 |**2026-11-18**|**NativeSeg: Native Vision Language Segmentation of 3D Computed Tomography via Spatial Visual Tokens and Verified Local Zoom**|Chengqian Ma et.al.|[2611.24443](http://arxiv.org/abs/2611.24443)|null|
@@ -1626,7 +1670,7 @@
 |**2026-04-14**|**Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation**|Jihun Kim et.al.|[2604.10950](http://arxiv.org/abs/2604.10950)|null|
 |**2026-04-12**|**Self-supervised Pretraining of Cell Segmentation Models**|Kaden Stillwagon et.al.|[2604.10609](http://arxiv.org/abs/2604.10609)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
